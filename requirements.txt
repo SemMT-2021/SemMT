@@ -1,0 +1,10 @@
+numpy
+pandas
+jieba
+sklearn
+nltk
+stanfordcorenlp
+scipy
+pylcs
+subprocess
+sentence-transformers

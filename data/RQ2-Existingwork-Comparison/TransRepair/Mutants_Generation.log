@@ -1,0 +1,1945 @@
+loading packages
+loading packages finished
+we already have the initial seeds
+target rule file already exists
+loading mutate rules successfully
+loading StanfordCoreNLP.......
+loading StanfordCoreNLP finish
+working on original language:  rows with characters or vowels at least once
+mutated sentence:  rows with characters or vowels at least when
+error on parser
+working on original language:  lines containing letters in front of the string <M0> or numbers
+working on original language:  lines with an upper case letter , 0 or more times
+mutated sentence:  lines with an upper case letters , 0 or more times
+error on parser
+working on original language:  rows with words that contain a capital letter , zero or more times
+mutated sentence:  rows with words it contain a capital letter , zero or more times
+error on parser
+mutated sentence:  rows with words what contain a capital letter , zero or more times
+success on parser
+mutated sentence:  rows with words that containing a capital letter , zero or more times
+error on parser
+mutated sentence:  rows with words that contain a capital letters , zero or more times
+error on parser
+working on original language:  lines with a letter before either the string <M0> , the string <M1> , or the string <M2>
+mutated sentence:  lines with a letters before either the string <M0> , the string <M1> , or the string <M2>
+error on parser
+mutated sentence:  lines with a letter when either the string <M0> , the string <M1> , or the string <M2>
+error on parser
+working on original language:  lines arranged with an uppercase letter then a vowel before a character
+mutated sentence:  lines arranged with an uppercase letters then a vowel before a character
+error on parser
+mutated sentence:  lines arranged with an uppercase letter when a vowel before a character
+error on parser
+mutated sentence:  lines arranged with an uppercase letter then a vowels before a character
+error on parser
+mutated sentence:  lines arranged with an uppercase letter then a vowel when a character
+error on parser
+mutated sentence:  lines arranged with an uppercase letter then a vowel before a characters
+error on parser
+working on original language:  lines with the string <M0> then a character
+mutated sentence:  lines with the string <M0> when a character
+error on parser
+mutated sentence:  lines with the string <M0> then a characters
+error on parser
+working on original language:  lines containing only the string <M0> , 4 or more times
+mutated sentence:  lines containing only the string <M0> , 7 or more times
+success on parser
+mutated sentence:  lines containing only the string <M0> , 9 or more times
+success on parser
+mutated sentence:  lines containing only the string <M0> , 1 or more times
+success on parser
+mutated sentence:  lines containing only the string <M0> , 8 or more times
+success on parser
+mutated sentence:  lines containing only the string <M0> , 3 or more times
+success on parser
+working on original language:  rows with the string <M0> or a vowel , 7 or more times
+mutated sentence:  rows with the string <M0> or a vowels , 7 or more times
+error on parser
+mutated sentence:  rows with the string <M0> or a vowel , 9 or more times
+success on parser
+mutated sentence:  rows with the string <M0> or a vowel , 10 or more times
+success on parser
+mutated sentence:  rows with the string <M0> or a vowel , 11 or more times
+success on parser
+mutated sentence:  rows with the string <M0> or a vowel , 8 or more times
+success on parser
+mutated sentence:  rows with the string <M0> or a vowel , 6 or more times
+success on parser
+working on original language:  rows with words that have a character , 2 or greater times
+mutated sentence:  rows with words it have a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words what have a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that could a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that they a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that have a characters , 2 or greater times
+error on parser
+mutated sentence:  rows with words that have a character , 1 or greater times
+success on parser
+mutated sentence:  rows with words that have a character , 3 or greater times
+success on parser
+mutated sentence:  rows with words that have a character , 4 or greater times
+success on parser
+working on original language:  lines arranged with a character before the string <M0> , 4 or greater times
+mutated sentence:  lines arranged with a characters before the string <M0> , 4 or greater times
+error on parser
+mutated sentence:  lines arranged with a character when the string <M0> , 4 or greater times
+error on parser
+mutated sentence:  lines arranged with a character before the string <M0> , 7 or greater times
+success on parser
+mutated sentence:  lines arranged with a character before the string <M0> , 9 or greater times
+success on parser
+mutated sentence:  lines arranged with a character before the string <M0> , 1 or greater times
+success on parser
+mutated sentence:  lines arranged with a character before the string <M0> , 8 or greater times
+success on parser
+mutated sentence:  lines arranged with a character before the string <M0> , 3 or greater times
+success on parser
+working on original language:  lines starting with the string <M0> in front of a lower-case letter or the string <M1>
+mutated sentence:  lines starting with the string <M0> in front of a lower-case letters or the string <M1>
+error on parser
+working on original language:  lines with lettered words followed by the string <M0> or vowels at least once
+mutated sentence:  lines with lettered words followed by the string <M0> or vowels at least when
+error on parser
+working on original language:  lines containing words that have starting with digits
+mutated sentence:  lines containing words it have starting with digits
+error on parser
+mutated sentence:  lines containing words what have starting with digits
+success on parser
+mutated sentence:  lines containing words that could starting with digits
+error on parser
+mutated sentence:  lines containing words that they starting with digits
+error on parser
+working on original language:  lines with digits or letters , seven or greater times
+working on original language:  lines with words that have the string <M0> or the string <M1> , greater than or equal to zero times
+mutated sentence:  lines with words it have the string <M0> or the string <M1> , greater than or equal to zero times
+error on parser
+mutated sentence:  lines with words what have the string <M0> or the string <M1> , greater than or equal to zero times
+error on parser
+mutated sentence:  lines with words that could the string <M0> or the string <M1> , greater than or equal to zero times
+error on parser
+mutated sentence:  lines with words that they the string <M0> or the string <M1> , greater than or equal to zero times
+error on parser
+working on original language:  lines containing either a lower case letter , an upper case letter , or the string <M0> or the string <M1>
+mutated sentence:  lines containing either a lower case letters , an upper case letter , or the string <M0> or the string <M1>
+error on parser
+mutated sentence:  lines containing either a lower case letter , an upper case letters , or the string <M0> or the string <M1>
+error on parser
+working on original language:  lines with a number in front of an upper case letter
+mutated sentence:  lines with a numbers in front of an upper case letter
+error on parser
+mutated sentence:  lines with a number in front of an upper case letters
+error on parser
+working on original language:  lines with a lower-case letter before the string <M0> at least once
+mutated sentence:  lines with a lower-case letters before the string <M0> at least once
+error on parser
+mutated sentence:  lines with a lower-case letter when the string <M0> at least once
+error on parser
+mutated sentence:  lines with a lower-case letter before the string <M0> at least when
+error on parser
+working on original language:  lines having either the string <M0> , a vowel , or the string <M1> before letters
+mutated sentence:  lines having either the string <M0> , a vowels , or the string <M1> before letters
+error on parser
+mutated sentence:  lines having either the string <M0> , a vowel , or the string <M1> when letters
+error on parser
+working on original language:  lines preceded by a letter , 6 or more times
+mutated sentence:  lines preceded by a letters , 6 or more times
+error on parser
+mutated sentence:  lines preceded by a letter , 7 or more times
+success on parser
+mutated sentence:  lines preceded by a letter , 9 or more times
+success on parser
+mutated sentence:  lines preceded by a letter , 10 or more times
+success on parser
+mutated sentence:  lines preceded by a letter , 12 or more times
+success on parser
+mutated sentence:  lines preceded by a letter , 11 or more times
+success on parser
+working on original language:  lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+mutated sentence:  lines arranged with a vowels before a capital letter , greater than or equal to 6 times in total
+error on parser
+mutated sentence:  lines arranged with a vowel when a capital letter , greater than or equal to 6 times in total
+error on parser
+mutated sentence:  lines arranged with a vowel before a capital letters , greater than or equal to 6 times in total
+error on parser
+mutated sentence:  lines arranged with a vowel before a capital letter , greater than or equal to 7 times in total
+success on parser
+mutated sentence:  lines arranged with a vowel before a capital letter , greater than or equal to 9 times in total
+success on parser
+mutated sentence:  lines arranged with a vowel before a capital letter , greater than or equal to 10 times in total
+success on parser
+mutated sentence:  lines arranged with a vowel before a capital letter , greater than or equal to 12 times in total
+success on parser
+mutated sentence:  lines arranged with a vowel before a capital letter , greater than or equal to 11 times in total
+success on parser
+working on original language:  rows with words that have a character at least one time or the string <M0>
+mutated sentence:  rows with words it have a character at least one time or the string <M0>
+error on parser
+mutated sentence:  rows with words what have a character at least one time or the string <M0>
+error on parser
+mutated sentence:  rows with words that could a character at least one time or the string <M0>
+error on parser
+mutated sentence:  rows with words that they a character at least one time or the string <M0>
+error on parser
+mutated sentence:  rows with words that have a characters at least one time or the string <M0>
+error on parser
+working on original language:  rows not having the string <M0> before a number
+mutated sentence:  rows would having the string <M0> before a number
+error on parser
+mutated sentence:  rows n't having the string <M0> before a number
+success on parser
+mutated sentence:  rows should having the string <M0> before a number
+error on parser
+mutated sentence:  rows not having the string <M0> when a number
+error on parser
+mutated sentence:  rows not having the string <M0> before a numbers
+error on parser
+working on original language:  lines arranged with the string <M0> followed by a vowel and not a capital letter
+mutated sentence:  lines arranged with the string <M0> followed by a vowels and not a capital letter
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by a vowel and would a capital letter
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by a vowel and n't a capital letter
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by a vowel and should a capital letter
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by a vowel and not a capital letters
+error on parser
+working on original language:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 6 times
+mutated sentence:  lines with words it have either the string <M0> , characters , or an uppercase letter , up to 6 times
+error on parser
+mutated sentence:  lines with words what have either the string <M0> , characters , or an uppercase letter , up to 6 times
+error on parser
+mutated sentence:  lines with words that could either the string <M0> , characters , or an uppercase letter , up to 6 times
+error on parser
+mutated sentence:  lines with words that they either the string <M0> , characters , or an uppercase letter , up to 6 times
+error on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letters , up to 6 times
+error on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 7 times
+success on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 9 times
+success on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 10 times
+success on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 12 times
+success on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 11 times
+error on parser
+mutated sentence:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 8 times
+success on parser
+working on original language:  lines using a vowel or a lower-case letter at least once
+mutated sentence:  lines using a vowels or a lower-case letter at least once
+error on parser
+mutated sentence:  lines using a vowel or a lower-case letters at least once
+error on parser
+mutated sentence:  lines using a vowel or a lower-case letter at least when
+error on parser
+working on original language:  lines with a number , zero or more times in front of the string <M0>
+mutated sentence:  lines with a numbers , zero or more times in front of the string <M0>
+error on parser
+working on original language:  lines with a word that has either a character , letters , or the string <M0>
+mutated sentence:  lines with a word it has either a character , letters , or the string <M0>
+error on parser
+mutated sentence:  lines with a word what has either a character , letters , or the string <M0>
+error on parser
+mutated sentence:  lines with a word that has either a characters , letters , or the string <M0>
+error on parser
+working on original language:  rows not containing a number at least once
+mutated sentence:  rows would containing a number at least once
+error on parser
+mutated sentence:  rows n't containing a number at least once
+success on parser
+mutated sentence:  rows should containing a number at least once
+error on parser
+mutated sentence:  rows not containing a numbers at least once
+error on parser
+mutated sentence:  rows not containing a number at least when
+error on parser
+working on original language:  lines containing an uppercase letter or a vowel and numbers
+mutated sentence:  lines containing an uppercase letters or a vowel and numbers
+error on parser
+mutated sentence:  lines containing an uppercase letter or a vowels and numbers
+error on parser
+working on original language:  lines ending with a string that contains only a letter or a character
+mutated sentence:  lines ending with a string it contains only a letter or a character
+error on parser
+mutated sentence:  lines ending with a string what contains only a letter or a character
+success on parser
+mutated sentence:  lines ending with a string that contain only a letter or a character
+error on parser
+mutated sentence:  lines ending with a string that contains only a letters or a character
+error on parser
+mutated sentence:  lines ending with a string that contains only a letter or a characters
+error on parser
+working on original language:  lines containing a character , 6 or more times
+mutated sentence:  lines containing a characters , 6 or more times
+error on parser
+mutated sentence:  lines containing a character , 7 or more times
+success on parser
+mutated sentence:  lines containing a character , 9 or more times
+success on parser
+mutated sentence:  lines containing a character , 10 or more times
+success on parser
+mutated sentence:  lines containing a character , 12 or more times
+success on parser
+mutated sentence:  lines containing a character , 11 or more times
+success on parser
+working on original language:  lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+mutated sentence:  lines arranged with a lower-case letters or a capitalized letter , 2 or greater times
+error on parser
+mutated sentence:  lines arranged with a lower-case letter or a capitalized letters , 2 or greater times
+error on parser
+mutated sentence:  lines arranged with a lower-case letter or a capitalized letter , 1 or greater times
+success on parser
+mutated sentence:  lines arranged with a lower-case letter or a capitalized letter , 3 or greater times
+success on parser
+mutated sentence:  lines arranged with a lower-case letter or a capitalized letter , 4 or greater times
+success on parser
+working on original language:  lines starting with letters and containing the string <M0>
+working on original language:  rows using ending with characters
+working on original language:  rows with characters and numbers before vowels
+mutated sentence:  rows with characters and numbers when vowels
+error on parser
+working on original language:  lines arranged with words that have either the string <M0> , a lower-case letter , or the string <M1>
+mutated sentence:  lines arranged with words it have either the string <M0> , a lower-case letter , or the string <M1>
+error on parser
+mutated sentence:  lines arranged with words what have either the string <M0> , a lower-case letter , or the string <M1>
+error on parser
+mutated sentence:  lines arranged with words that could either the string <M0> , a lower-case letter , or the string <M1>
+error on parser
+mutated sentence:  lines arranged with words that they either the string <M0> , a lower-case letter , or the string <M1>
+error on parser
+mutated sentence:  lines arranged with words that have either the string <M0> , a lower-case letters , or the string <M1>
+error on parser
+working on original language:  lines with words that end with the string <M0> or the string <M1>
+mutated sentence:  lines with words it end with the string <M0> or the string <M1>
+error on parser
+mutated sentence:  lines with words what end with the string <M0> or the string <M1>
+success on parser
+working on original language:  lines ending with the string <M0>
+working on original language:  lines composed of either a capital letter , a character , or a numeric character
+mutated sentence:  lines composed of either a capital letters , a character , or a numeric character
+error on parser
+mutated sentence:  lines composed of either a capital letter , a characters , or a numeric character
+error on parser
+mutated sentence:  lines composed of either a capital letter , a character , or a numeric characters
+error on parser
+working on original language:  lines not containing only the string <M0> , no more than 3 times
+mutated sentence:  lines would containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines n't containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines should containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 1 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 6 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 5 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 4 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 2 times
+success on parser
+working on original language:  lines with digits , 5 or more times
+mutated sentence:  lines with digits , 7 or more times
+success on parser
+mutated sentence:  lines with digits , 9 or more times
+success on parser
+mutated sentence:  lines with digits , 10 or more times
+success on parser
+mutated sentence:  lines with digits , 8 or more times
+success on parser
+mutated sentence:  lines with digits , 3 or more times
+success on parser
+working on original language:  lines not having a character , not an upper case letter , nor a lower-case letter
+mutated sentence:  lines would having a character , not an upper case letter , nor a lower-case letter
+error on parser
+mutated sentence:  lines n't having a character , not an upper case letter , nor a lower-case letter
+success on parser
+mutated sentence:  lines should having a character , not an upper case letter , nor a lower-case letter
+error on parser
+mutated sentence:  lines not having a characters , not an upper case letter , nor a lower-case letter
+error on parser
+mutated sentence:  lines not having a character , would an upper case letter , nor a lower-case letter
+error on parser
+mutated sentence:  lines not having a character , n't an upper case letter , nor a lower-case letter
+success on parser
+mutated sentence:  lines not having a character , should an upper case letter , nor a lower-case letter
+error on parser
+mutated sentence:  lines not having a character , not an upper case letters , nor a lower-case letter
+error on parser
+mutated sentence:  lines not having a character , not an upper case letter , nor a lower-case letters
+error on parser
+working on original language:  lines with words that have starting with a capitalized letter , 2 or more times in total
+mutated sentence:  lines with words it have starting with a capitalized letter , 2 or more times in total
+error on parser
+mutated sentence:  lines with words what have starting with a capitalized letter , 2 or more times in total
+success on parser
+mutated sentence:  lines with words that could starting with a capitalized letter , 2 or more times in total
+error on parser
+mutated sentence:  lines with words that they starting with a capitalized letter , 2 or more times in total
+error on parser
+mutated sentence:  lines with words that have starting with a capitalized letters , 2 or more times in total
+error on parser
+mutated sentence:  lines with words that have starting with a capitalized letter , 1 or more times in total
+success on parser
+mutated sentence:  lines with words that have starting with a capitalized letter , 3 or more times in total
+success on parser
+mutated sentence:  lines with words that have starting with a capitalized letter , 4 or more times in total
+success on parser
+working on original language:  lines beginning with a lower-case letter in front of digits
+mutated sentence:  lines beginning with a lower-case letters in front of digits
+error on parser
+working on original language:  lines not containing only the string <M0> , no more than 3 times
+mutated sentence:  lines would containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines n't containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines should containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 1 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 6 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 5 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 4 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 2 times
+success on parser
+working on original language:  lines ending with vowels , zero or more times
+working on original language:  lines with a letter or containing the string <M0> , greater than or equal to zero times
+mutated sentence:  lines with a letters or containing the string <M0> , greater than or equal to zero times
+error on parser
+working on original language:  lines with the string <M0> , 6 or more times before numbers
+mutated sentence:  lines with the string <M0> , 7 or more times before numbers
+success on parser
+mutated sentence:  lines with the string <M0> , 9 or more times before numbers
+success on parser
+mutated sentence:  lines with the string <M0> , 10 or more times before numbers
+success on parser
+mutated sentence:  lines with the string <M0> , 12 or more times before numbers
+success on parser
+mutated sentence:  lines with the string <M0> , 11 or more times before numbers
+success on parser
+working on original language:  lines with a vowel or a numeric character in front of a capital letter
+mutated sentence:  lines with a vowels or a numeric character in front of a capital letter
+error on parser
+mutated sentence:  lines with a vowel or a numeric characters in front of a capital letter
+error on parser
+mutated sentence:  lines with a vowel or a numeric character in front of a capital letters
+error on parser
+working on original language:  lines with a capital letter followed by the string <M0>
+mutated sentence:  lines with a capital letters followed by the string <M0>
+error on parser
+working on original language:  lines ending with the string <M0>
+working on original language:  rows preceded by a capital letter or vowels and a numeric character
+mutated sentence:  rows preceded by a capital letters or vowels and a numeric character
+error on parser
+mutated sentence:  rows preceded by a capital letter or vowels and a numeric characters
+error on parser
+working on original language:  lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+mutated sentence:  lines arranged with the string <M0> when a string that is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string it is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string what is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is would a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is n't a vowel , 2 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is should a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowels , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 1 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 3 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 4 or more times
+success on parser
+working on original language:  strings preceded by the string <M0> , 6 or more times
+mutated sentence:  string preceded by the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings preceded by the string <M0> , 7 or more times
+success on parser
+mutated sentence:  strings preceded by the string <M0> , 9 or more times
+success on parser
+mutated sentence:  strings preceded by the string <M0> , 10 or more times
+success on parser
+mutated sentence:  strings preceded by the string <M0> , 12 or more times
+success on parser
+mutated sentence:  strings preceded by the string <M0> , 11 or more times
+success on parser
+working on original language:  lines arranged with a word that has the string <M0> followed by a character
+mutated sentence:  lines arranged with a word it has the string <M0> followed by a character
+error on parser
+mutated sentence:  lines arranged with a word what has the string <M0> followed by a character
+error on parser
+mutated sentence:  lines arranged with a word that has the string <M0> followed by a characters
+error on parser
+working on original language:  lines starting with the string <M0> in front of a string that is not an uppercase letter
+mutated sentence:  lines starting with the string <M0> in front of a string it is not an uppercase letter
+error on parser
+mutated sentence:  lines starting with the string <M0> in front of a string what is not an uppercase letter
+error on parser
+mutated sentence:  lines starting with the string <M0> in front of a string that is would an uppercase letter
+error on parser
+mutated sentence:  lines starting with the string <M0> in front of a string that is n't an uppercase letter
+success on parser
+mutated sentence:  lines starting with the string <M0> in front of a string that is should an uppercase letter
+error on parser
+mutated sentence:  lines starting with the string <M0> in front of a string that is not an uppercase letters
+error on parser
+working on original language:  strings with the string <M0> or a letter in front of a vowel
+mutated sentence:  string with the string <M0> or a letter in front of a vowel
+error on parser
+mutated sentence:  strings with the string <M0> or a letters in front of a vowel
+error on parser
+mutated sentence:  strings with the string <M0> or a letter in front of a vowels
+error on parser
+working on original language:  lines with a lower-case letter , zero or greater times before a numeric character
+mutated sentence:  lines with a lower-case letters , zero or greater times before a numeric character
+error on parser
+mutated sentence:  lines with a lower-case letter , zero or greater times when a numeric character
+error on parser
+mutated sentence:  lines with a lower-case letter , zero or greater times before a numeric characters
+error on parser
+working on original language:  lines are not words that end with a lower-case letter
+mutated sentence:  lines are would words that end with a lower-case letter
+error on parser
+mutated sentence:  lines are n't words that end with a lower-case letter
+success on parser
+mutated sentence:  lines are should words that end with a lower-case letter
+error on parser
+mutated sentence:  lines are not words it end with a lower-case letter
+error on parser
+mutated sentence:  lines are not words what end with a lower-case letter
+success on parser
+mutated sentence:  lines are not words that end with a lower-case letters
+error on parser
+working on original language:  strings with words that have the string <M0> , zero or more times or the string <M1>
+mutated sentence:  string with words that have the string <M0> , zero or more times or the string <M1>
+error on parser
+mutated sentence:  strings with words it have the string <M0> , zero or more times or the string <M1>
+error on parser
+mutated sentence:  strings with words what have the string <M0> , zero or more times or the string <M1>
+error on parser
+mutated sentence:  strings with words that could the string <M0> , zero or more times or the string <M1>
+error on parser
+mutated sentence:  strings with words that they the string <M0> , zero or more times or the string <M1>
+error on parser
+working on original language:  lines not having a letter , not a character , and not the string <M0>
+mutated sentence:  lines would having a letter , not a character , and not the string <M0>
+error on parser
+mutated sentence:  lines n't having a letter , not a character , and not the string <M0>
+error on parser
+mutated sentence:  lines should having a letter , not a character , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a letters , not a character , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , would a character , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , n't a character , and not the string <M0>
+success on parser
+mutated sentence:  lines not having a letter , should a character , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , not a characters , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , not a character , and would the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , not a character , and n't the string <M0>
+error on parser
+mutated sentence:  lines not having a letter , not a character , and should the string <M0>
+error on parser
+working on original language:  lines containing either the string <M0> , a lower case letter , or a capital letter
+mutated sentence:  lines containing either the string <M0> , a lower case letters , or a capital letter
+error on parser
+mutated sentence:  lines containing either the string <M0> , a lower case letter , or a capital letters
+error on parser
+working on original language:  rows not having lettered words instead of the string <M0>
+mutated sentence:  rows would having lettered words instead of the string <M0>
+error on parser
+mutated sentence:  rows n't having lettered words instead of the string <M0>
+success on parser
+mutated sentence:  rows should having lettered words instead of the string <M0>
+error on parser
+working on original language:  lines with a number before either the string <M0> , the string <M1> , or the string <M2>
+mutated sentence:  lines with a numbers before either the string <M0> , the string <M1> , or the string <M2>
+error on parser
+mutated sentence:  lines with a number when either the string <M0> , the string <M1> , or the string <M2>
+error on parser
+working on original language:  lines with the string <M0> or a letter before the string <M1>
+mutated sentence:  lines with the string <M0> or a letters before the string <M1>
+error on parser
+mutated sentence:  lines with the string <M0> or a letter when the string <M1>
+error on parser
+working on original language:  strings ending with a vowel at least once or an upper case letter
+mutated sentence:  string ending with a vowel at least once or an upper case letter
+error on parser
+mutated sentence:  strings ending with a vowels at least once or an upper case letter
+error on parser
+mutated sentence:  strings ending with a vowel at least when or an upper case letter
+error on parser
+mutated sentence:  strings ending with a vowel at least once or an upper case letters
+error on parser
+working on original language:  rows with a lower-case letter or a capital letter before vowels
+mutated sentence:  rows with a lower-case letters or a capital letter before vowels
+error on parser
+mutated sentence:  rows with a lower-case letter or a capital letters before vowels
+error on parser
+mutated sentence:  rows with a lower-case letter or a capital letter when vowels
+error on parser
+working on original language:  lines arranged with the string <M0> and the string <M1> or the string <M2> , zero or more times
+working on original language:  lines not having a lowercase letter , not a character , and not an upper case letter
+mutated sentence:  lines would having a lowercase letter , not a character , and not an upper case letter
+error on parser
+mutated sentence:  lines n't having a lowercase letter , not a character , and not an upper case letter
+error on parser
+mutated sentence:  lines should having a lowercase letter , not a character , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a uppercase letter , not a character , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letters , not a character , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , would a character , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , n't a character , and not an upper case letter
+success on parser
+mutated sentence:  lines not having a lowercase letter , should a character , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , not a characters , and not an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , not a character , and would an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , not a character , and n't an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , not a character , and should an upper case letter
+error on parser
+mutated sentence:  lines not having a lowercase letter , not a character , and not an upper case letters
+error on parser
+working on original language:  strings ending with the string <M0> then a character , zero or more times
+mutated sentence:  string ending with the string <M0> then a character , zero or more times
+error on parser
+mutated sentence:  strings ending with the string <M0> when a character , zero or more times
+error on parser
+mutated sentence:  strings ending with the string <M0> then a characters , zero or more times
+error on parser
+working on original language:  lines not having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+mutated sentence:  lines would having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+error on parser
+mutated sentence:  lines n't having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+success on parser
+mutated sentence:  lines should having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+error on parser
+mutated sentence:  lines not having digits , would the string <M0> , instead of a lower-case letter instead of the string <M1>
+error on parser
+mutated sentence:  lines not having digits , n't the string <M0> , instead of a lower-case letter instead of the string <M1>
+success on parser
+mutated sentence:  lines not having digits , should the string <M0> , instead of a lower-case letter instead of the string <M1>
+error on parser
+mutated sentence:  lines not having digits , not the string <M0> , instead of a lower-case letters instead of the string <M1>
+error on parser
+working on original language:  rows not having a capitalized letter at least once
+mutated sentence:  rows would having a capitalized letter at least once
+error on parser
+mutated sentence:  rows n't having a capitalized letter at least once
+success on parser
+mutated sentence:  rows should having a capitalized letter at least once
+error on parser
+mutated sentence:  rows not having a capitalized letters at least once
+error on parser
+mutated sentence:  rows not having a capitalized letter at least when
+error on parser
+working on original language:  lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+mutated sentence:  lines with a word it has a lower-case letter or an upper case letter , 3 or greater times
+error on parser
+mutated sentence:  lines with a word what has a lower-case letter or an upper case letter , 3 or greater times
+error on parser
+mutated sentence:  lines with a word that has a lower-case letters or an upper case letter , 3 or greater times
+error on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letters , 3 or greater times
+error on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letter , 1 or greater times
+success on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letter , 6 or greater times
+success on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letter , 5 or greater times
+success on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letter , 4 or greater times
+success on parser
+mutated sentence:  lines with a word that has a lower-case letter or an upper case letter , 2 or greater times
+success on parser
+working on original language:  lines not having a lower-case letter , not a letter , and not a numeric character
+mutated sentence:  lines would having a lower-case letter , not a letter , and not a numeric character
+error on parser
+mutated sentence:  lines n't having a lower-case letter , not a letter , and not a numeric character
+error on parser
+mutated sentence:  lines should having a lower-case letter , not a letter , and not a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letters , not a letter , and not a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , would a letter , and not a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , n't a letter , and not a numeric character
+success on parser
+mutated sentence:  lines not having a lower-case letter , should a letter , and not a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a letters , and not a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a letter , and would a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a letter , and n't a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a letter , and should a numeric character
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a letter , and not a numeric characters
+error on parser
+working on original language:  lines not having the string <M0> or starting with the string <M1>
+mutated sentence:  lines would having the string <M0> or starting with the string <M1>
+error on parser
+mutated sentence:  lines n't having the string <M0> or starting with the string <M1>
+error on parser
+mutated sentence:  lines should having the string <M0> or starting with the string <M1>
+error on parser
+working on original language:  lines consisting of the string <M0> before the string <M1> or a letter
+mutated sentence:  lines consisting of the string <M0> when the string <M1> or a letter
+error on parser
+mutated sentence:  lines consisting of the string <M0> before the string <M1> or a letters
+error on parser
+working on original language:  rows with words that have starting with lettered words at least one time
+mutated sentence:  rows with words it have starting with lettered words at least one time
+error on parser
+mutated sentence:  rows with words what have starting with lettered words at least one time
+success on parser
+mutated sentence:  rows with words that could starting with lettered words at least one time
+error on parser
+mutated sentence:  rows with words that they starting with lettered words at least one time
+error on parser
+working on original language:  strings with a letter followed by the string <M0> before a vowel
+mutated sentence:  string with a letter followed by the string <M0> before a vowel
+error on parser
+mutated sentence:  strings with a letters followed by the string <M0> before a vowel
+error on parser
+mutated sentence:  strings with a letter followed by the string <M0> when a vowel
+error on parser
+mutated sentence:  strings with a letter followed by the string <M0> before a vowels
+error on parser
+working on original language:  lines containing a letter before the string <M0>
+mutated sentence:  lines containing a letters before the string <M0>
+error on parser
+mutated sentence:  lines containing a letter when the string <M0>
+error on parser
+working on original language:  lines not having a lower-case letter and not a capital letter at least once
+mutated sentence:  lines would having a lower-case letter and not a capital letter at least once
+error on parser
+mutated sentence:  lines n't having a lower-case letter and not a capital letter at least once
+error on parser
+mutated sentence:  lines should having a lower-case letter and not a capital letter at least once
+error on parser
+mutated sentence:  lines not having a lower-case letters and not a capital letter at least once
+error on parser
+mutated sentence:  lines not having a lower-case letter and would a capital letter at least once
+error on parser
+mutated sentence:  lines not having a lower-case letter and n't a capital letter at least once
+error on parser
+mutated sentence:  lines not having a lower-case letter and should a capital letter at least once
+error on parser
+mutated sentence:  lines not having a lower-case letter and not a capital letters at least once
+error on parser
+mutated sentence:  lines not having a lower-case letter and not a capital letter at least when
+error on parser
+working on original language:  lines with a lower-case letter before either the string <M0> , a number , or the string <M1>
+mutated sentence:  lines with a lower-case letters before either the string <M0> , a number , or the string <M1>
+error on parser
+mutated sentence:  lines with a lower-case letter when either the string <M0> , a number , or the string <M1>
+error on parser
+mutated sentence:  lines with a lower-case letter before either the string <M0> , a numbers , or the string <M1>
+error on parser
+working on original language:  lines consisting of the string <M0>
+working on original language:  lines containing either the string <M0> , characters , or the string <M1>
+working on original language:  lines arranged with the string <M0> followed by the string <M1> and not the string <M2>
+mutated sentence:  lines arranged with the string <M0> followed by the string <M1> and would the string <M2>
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by the string <M1> and n't the string <M2>
+error on parser
+mutated sentence:  lines arranged with the string <M0> followed by the string <M1> and should the string <M2>
+error on parser
+working on original language:  lines arranged with words that have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+mutated sentence:  lines arranged with words it have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+error on parser
+mutated sentence:  lines arranged with words what have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+error on parser
+mutated sentence:  lines arranged with words that could the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+error on parser
+mutated sentence:  lines arranged with words that they the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+error on parser
+working on original language:  lines not having characters , a lower-case letter , or numbers
+mutated sentence:  lines would having characters , a lower-case letter , or numbers
+error on parser
+mutated sentence:  lines n't having characters , a lower-case letter , or numbers
+error on parser
+mutated sentence:  lines should having characters , a lower-case letter , or numbers
+error on parser
+mutated sentence:  lines not having characters , a lower-case letters , or numbers
+error on parser
+working on original language:  rows with the string <M0> in front of a number or the string <M1>
+mutated sentence:  rows with the string <M0> in front of a numbers or the string <M1>
+error on parser
+working on original language:  strings starting with vowels and ending with the string <M0>
+mutated sentence:  string starting with vowels and ending with the string <M0>
+error on parser
+working on original language:  lines not having a number , not a vowel , and not a lower-case letter
+mutated sentence:  lines would having a number , not a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines n't having a number , not a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines should having a number , not a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a numbers , not a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , would a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , n't a vowel , and not a lower-case letter
+success on parser
+mutated sentence:  lines not having a number , should a vowel , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , not a vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , not a vowel , and would a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , not a vowel , and n't a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , not a vowel , and should a lower-case letter
+error on parser
+mutated sentence:  lines not having a number , not a vowel , and not a lower-case letters
+error on parser
+working on original language:  lines composed of either characters , the string <M0> , or vowels
+working on original language:  lines composed of only the string <M0> , 7 or more times
+mutated sentence:  lines composed of only the string <M0> , 9 or more times
+success on parser
+mutated sentence:  lines composed of only the string <M0> , 10 or more times
+success on parser
+mutated sentence:  lines composed of only the string <M0> , 11 or more times
+success on parser
+mutated sentence:  lines composed of only the string <M0> , 8 or more times
+success on parser
+mutated sentence:  lines composed of only the string <M0> , 6 or more times
+success on parser
+working on original language:  lines with characters or a lower-case letter , four or more times
+mutated sentence:  lines with characters or a lower-case letters , four or more times
+error on parser
+mutated sentence:  lines with characters or a lower-case letter , seven or more times
+success on parser
+working on original language:  rows with words that have a character , 2 or greater times
+mutated sentence:  rows with words it have a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words what have a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that could a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that they a character , 2 or greater times
+error on parser
+mutated sentence:  rows with words that have a characters , 2 or greater times
+error on parser
+mutated sentence:  rows with words that have a character , 1 or greater times
+success on parser
+mutated sentence:  rows with words that have a character , 3 or greater times
+success on parser
+mutated sentence:  rows with words that have a character , 4 or greater times
+success on parser
+working on original language:  lines with a character then a lower-case letter , two or more consecutive times
+mutated sentence:  lines with a characters then a lower-case letter , two or more consecutive times
+error on parser
+mutated sentence:  lines with a character when a lower-case letter , two or more consecutive times
+error on parser
+mutated sentence:  lines with a character then a lower-case letters , two or more consecutive times
+error on parser
+mutated sentence:  lines with a character then a lower-case letter , four or more consecutive times
+success on parser
+working on original language:  lines ending with the string <M0> or a vowel , 4 or more times
+mutated sentence:  lines ending with the string <M0> or a vowels , 4 or more times
+error on parser
+mutated sentence:  lines ending with the string <M0> or a vowel , 7 or more times
+success on parser
+mutated sentence:  lines ending with the string <M0> or a vowel , 9 or more times
+success on parser
+mutated sentence:  lines ending with the string <M0> or a vowel , 1 or more times
+success on parser
+mutated sentence:  lines ending with the string <M0> or a vowel , 8 or more times
+success on parser
+mutated sentence:  lines ending with the string <M0> or a vowel , 3 or more times
+success on parser
+working on original language:  strings with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+mutated sentence:  string with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+error on parser
+working on original language:  lines ending with the string <M0>
+working on original language:  rows containing a capital letter then a vowel in front of the string <M0>
+mutated sentence:  rows containing a capital letters then a vowel in front of the string <M0>
+error on parser
+mutated sentence:  rows containing a capital letter when a vowel in front of the string <M0>
+error on parser
+mutated sentence:  rows containing a capital letter then a vowels in front of the string <M0>
+error on parser
+working on original language:  strings starting with words that have the string <M0> , 6 or more times
+mutated sentence:  string starting with words that have the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings starting with words it have the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings starting with words what have the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings starting with words that could the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings starting with words that they the string <M0> , 6 or more times
+error on parser
+mutated sentence:  strings starting with words that have the string <M0> , 7 or more times
+success on parser
+mutated sentence:  strings starting with words that have the string <M0> , 9 or more times
+success on parser
+mutated sentence:  strings starting with words that have the string <M0> , 10 or more times
+success on parser
+mutated sentence:  strings starting with words that have the string <M0> , 12 or more times
+success on parser
+mutated sentence:  strings starting with words that have the string <M0> , 11 or more times
+success on parser
+working on original language:  lines ending with a character followed by the string <M0> , 4 or greater times
+mutated sentence:  lines ending with a characters followed by the string <M0> , 4 or greater times
+error on parser
+mutated sentence:  lines ending with a character followed by the string <M0> , 7 or greater times
+success on parser
+mutated sentence:  lines ending with a character followed by the string <M0> , 9 or greater times
+success on parser
+mutated sentence:  lines ending with a character followed by the string <M0> , 1 or greater times
+success on parser
+mutated sentence:  lines ending with a character followed by the string <M0> , 8 or greater times
+success on parser
+mutated sentence:  lines ending with a character followed by the string <M0> , 3 or greater times
+success on parser
+working on original language:  strings preceded by a capitalized letter followed by a letter
+mutated sentence:  string preceded by a capitalized letter followed by a letter
+error on parser
+mutated sentence:  strings preceded by a capitalized letters followed by a letter
+error on parser
+mutated sentence:  strings preceded by a capitalized letter followed by a letters
+error on parser
+working on original language:  lines not having a digit , not a letter , and not a lower-case letter
+mutated sentence:  lines would having a digit , not a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines n't having a digit , not a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines should having a digit , not a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a digits , not a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , would a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , n't a letter , and not a lower-case letter
+success on parser
+mutated sentence:  lines not having a digit , should a letter , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , not a letters , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , not a letter , and would a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , not a letter , and n't a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , not a letter , and should a lower-case letter
+error on parser
+mutated sentence:  lines not having a digit , not a letter , and not a lower-case letters
+error on parser
+working on original language:  lines not starting with letters and not a capital letter
+mutated sentence:  lines would starting with letters and not a capital letter
+error on parser
+mutated sentence:  lines n't starting with letters and not a capital letter
+error on parser
+mutated sentence:  lines should starting with letters and not a capital letter
+error on parser
+mutated sentence:  lines not starting with letters and would a capital letter
+error on parser
+mutated sentence:  lines not starting with letters and n't a capital letter
+success on parser
+mutated sentence:  lines not starting with letters and should a capital letter
+error on parser
+mutated sentence:  lines not starting with letters and not a capital letters
+error on parser
+working on original language:  lines not having the string <M0> , not vowels , and not a lower-case letter
+mutated sentence:  lines would having the string <M0> , not vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines n't having the string <M0> , not vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines should having the string <M0> , not vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , would vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , n't vowels , and not a lower-case letter
+success on parser
+mutated sentence:  lines not having the string <M0> , should vowels , and not a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , not vowels , and would a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , not vowels , and n't a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , not vowels , and should a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> , not vowels , and not a lower-case letters
+error on parser
+working on original language:  lines with a vowel at least one time
+mutated sentence:  lines with a vowels at least one time
+error on parser
+working on original language:  lines with words that have starting with the string <M0> then a lower case letter
+mutated sentence:  lines with words it have starting with the string <M0> then a lower case letter
+error on parser
+mutated sentence:  lines with words what have starting with the string <M0> then a lower case letter
+success on parser
+mutated sentence:  lines with words that could starting with the string <M0> then a lower case letter
+error on parser
+mutated sentence:  lines with words that they starting with the string <M0> then a lower case letter
+error on parser
+mutated sentence:  lines with words that have starting with the string <M0> when a lower case letter
+error on parser
+mutated sentence:  lines with words that have starting with the string <M0> then a lower case letters
+error on parser
+working on original language:  lines ending with a string that contains only a capital letter at least once
+mutated sentence:  lines ending with a string it contains only a capital letter at least once
+error on parser
+mutated sentence:  lines ending with a string what contains only a capital letter at least once
+success on parser
+mutated sentence:  lines ending with a string that contain only a capital letter at least once
+error on parser
+mutated sentence:  lines ending with a string that contains only a capital letters at least once
+error on parser
+mutated sentence:  lines ending with a string that contains only a capital letter at least when
+error on parser
+working on original language:  lines with a vowel or using only the string <M0> at least once
+mutated sentence:  lines with a vowels or using only the string <M0> at least once
+error on parser
+mutated sentence:  lines with a vowel or using only the string <M0> at least when
+error on parser
+working on original language:  lines containing the string <M0> or a capital letter followed by characters
+mutated sentence:  lines containing the string <M0> or a capital letters followed by characters
+error on parser
+working on original language:  lines arranged with a character in front of a vowel or the string <M0> , zero or more times
+mutated sentence:  lines arranged with a characters in front of a vowel or the string <M0> , zero or more times
+error on parser
+mutated sentence:  lines arranged with a character in front of a vowels or the string <M0> , zero or more times
+error on parser
+working on original language:  lines with a character , greater than or equal to two times in front of a digit
+mutated sentence:  lines with a characters , greater than or equal to two times in front of a digit
+error on parser
+mutated sentence:  lines with a character , greater than or equal to four times in front of a digit
+success on parser
+mutated sentence:  lines with a character , greater than or equal to two times in front of a digits
+error on parser
+working on original language:  lines with a character before a vowel and containing a lower-case letter
+mutated sentence:  lines with a characters before a vowel and containing a lower-case letter
+error on parser
+mutated sentence:  lines with a character when a vowel and containing a lower-case letter
+error on parser
+mutated sentence:  lines with a character before a vowels and containing a lower-case letter
+error on parser
+mutated sentence:  lines with a character before a vowel and containing a lower-case letters
+error on parser
+working on original language:  lines with the string <M0> or not characters at least one time
+mutated sentence:  lines with the string <M0> or would characters at least one time
+error on parser
+mutated sentence:  lines with the string <M0> or n't characters at least one time
+error on parser
+mutated sentence:  lines with the string <M0> or should characters at least one time
+error on parser
+working on original language:  lines with words that contain ending with letters
+mutated sentence:  lines with words it contain ending with letters
+error on parser
+mutated sentence:  lines with words what contain ending with letters
+success on parser
+mutated sentence:  lines with words that containing ending with letters
+error on parser
+working on original language:  lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>
+mutated sentence:  lines having either a letters , the string <M0> , or an upper case letter in front of the string <M1>
+error on parser
+mutated sentence:  lines having either a letter , the string <M0> , or an upper case letters in front of the string <M1>
+error on parser
+working on original language:  lines arranged with the string <M0> before the string <M1> or a number and the string <M2>
+mutated sentence:  lines arranged with the string <M0> when the string <M1> or a number and the string <M2>
+error on parser
+mutated sentence:  lines arranged with the string <M0> before the string <M1> or a numbers and the string <M2>
+error on parser
+working on original language:  lines with a character followed by a vowel , 2 or more times
+mutated sentence:  lines with a characters followed by a vowel , 2 or more times
+error on parser
+mutated sentence:  lines with a character followed by a vowels , 2 or more times
+error on parser
+mutated sentence:  lines with a character followed by a vowel , 1 or more times
+success on parser
+mutated sentence:  lines with a character followed by a vowel , 3 or more times
+success on parser
+mutated sentence:  lines with a character followed by a vowel , 4 or more times
+success on parser
+working on original language:  lines with the string <M0> followed by a lower-case letter
+mutated sentence:  lines with the string <M0> followed by a lower-case letters
+error on parser
+working on original language:  strings having either the string <M0> , vowels , or the string <M1> before numbers
+mutated sentence:  string having either the string <M0> , vowels , or the string <M1> before numbers
+error on parser
+mutated sentence:  strings having either the string <M0> , vowels , or the string <M1> when numbers
+error on parser
+working on original language:  lines with a lower-case letter then a digit in front of an upper case letter
+mutated sentence:  lines with a lower-case letters then a digit in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter when a digit in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter then a digits in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter then a digit in front of an upper case letters
+error on parser
+working on original language:  lines not having the string <M0> , a character , or the string <M1>
+mutated sentence:  lines would having the string <M0> , a character , or the string <M1>
+error on parser
+mutated sentence:  lines n't having the string <M0> , a character , or the string <M1>
+error on parser
+mutated sentence:  lines should having the string <M0> , a character , or the string <M1>
+error on parser
+mutated sentence:  lines not having the string <M0> , a characters , or the string <M1>
+error on parser
+working on original language:  rows not having an uppercase letter or a digit
+mutated sentence:  rows would having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows n't having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows should having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows not having an uppercase letters or a digit
+error on parser
+mutated sentence:  rows not having an uppercase letter or a digits
+error on parser
+working on original language:  lines with words that have a character or the string <M0> before the string <M1>
+mutated sentence:  lines with words it have a character or the string <M0> before the string <M1>
+error on parser
+mutated sentence:  lines with words what have a character or the string <M0> before the string <M1>
+error on parser
+mutated sentence:  lines with words that could a character or the string <M0> before the string <M1>
+error on parser
+mutated sentence:  lines with words that they a character or the string <M0> before the string <M1>
+error on parser
+mutated sentence:  lines with words that have a characters or the string <M0> before the string <M1>
+error on parser
+mutated sentence:  lines with words that have a character or the string <M0> when the string <M1>
+error on parser
+working on original language:  lines arranged with a number , 4 or more times
+mutated sentence:  lines arranged with a numbers , 4 or more times
+error on parser
+mutated sentence:  lines arranged with a number , 7 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 9 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 1 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 8 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 3 or more times
+success on parser
+working on original language:  lines containing an upper case letter
+mutated sentence:  lines containing an upper case letters
+error on parser
+working on original language:  strings with a word that has a vowel before a lower-case letter
+mutated sentence:  string with a word that has a vowel before a lower-case letter
+error on parser
+mutated sentence:  strings with a word it has a vowel before a lower-case letter
+error on parser
+mutated sentence:  strings with a word what has a vowel before a lower-case letter
+error on parser
+mutated sentence:  strings with a word that has a vowels before a lower-case letter
+error on parser
+mutated sentence:  strings with a word that has a vowel when a lower-case letter
+error on parser
+mutated sentence:  strings with a word that has a vowel before a lower-case letters
+error on parser
+working on original language:  lines with a number , 5 or more times
+mutated sentence:  lines with a numbers , 5 or more times
+error on parser
+mutated sentence:  lines with a number , 7 or more times
+success on parser
+mutated sentence:  lines with a number , 9 or more times
+success on parser
+mutated sentence:  lines with a number , 10 or more times
+success on parser
+mutated sentence:  lines with a number , 8 or more times
+success on parser
+mutated sentence:  lines with a number , 3 or more times
+success on parser
+working on original language:  lines arranged with words that have a character , 0 or more times
+mutated sentence:  lines arranged with words it have a character , 0 or more times
+error on parser
+mutated sentence:  lines arranged with words what have a character , 0 or more times
+error on parser
+mutated sentence:  lines arranged with words that could a character , 0 or more times
+error on parser
+mutated sentence:  lines arranged with words that they a character , 0 or more times
+error on parser
+mutated sentence:  lines arranged with words that have a characters , 0 or more times
+error on parser
+working on original language:  lines with a letter , zero or greater times before a character
+mutated sentence:  lines with a letters , zero or greater times before a character
+error on parser
+mutated sentence:  lines with a letter , zero or greater times when a character
+error on parser
+mutated sentence:  lines with a letter , zero or greater times before a characters
+error on parser
+working on original language:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+mutated sentence:  string starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+error on parser
+mutated sentence:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 7 times
+success on parser
+mutated sentence:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 9 times
+success on parser
+mutated sentence:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 1 times
+success on parser
+mutated sentence:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 8 times
+success on parser
+mutated sentence:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 3 times
+success on parser
+working on original language:  rows with words that have a number , 5 or more times
+mutated sentence:  rows with words it have a number , 5 or more times
+error on parser
+mutated sentence:  rows with words what have a number , 5 or more times
+error on parser
+mutated sentence:  rows with words that could a number , 5 or more times
+error on parser
+mutated sentence:  rows with words that they a number , 5 or more times
+error on parser
+mutated sentence:  rows with words that have a numbers , 5 or more times
+error on parser
+mutated sentence:  rows with words that have a number , 7 or more times
+success on parser
+mutated sentence:  rows with words that have a number , 9 or more times
+success on parser
+mutated sentence:  rows with words that have a number , 10 or more times
+success on parser
+mutated sentence:  rows with words that have a number , 8 or more times
+success on parser
+mutated sentence:  rows with words that have a number , 3 or more times
+success on parser
+working on original language:  the line begins with a vowel or the string <M0>
+mutated sentence:  the line begins with a vowels or the string <M0>
+error on parser
+working on original language:  lines not having a lower-case letter and not a number
+mutated sentence:  lines would having a lower-case letter and not a number
+error on parser
+mutated sentence:  lines n't having a lower-case letter and not a number
+error on parser
+mutated sentence:  lines should having a lower-case letter and not a number
+error on parser
+mutated sentence:  lines not having a lower-case letters and not a number
+error on parser
+mutated sentence:  lines not having a lower-case letter and would a number
+error on parser
+mutated sentence:  lines not having a lower-case letter and n't a number
+success on parser
+mutated sentence:  lines not having a lower-case letter and should a number
+error on parser
+mutated sentence:  lines not having a lower-case letter and not a numbers
+error on parser
+working on original language:  lines with the string <M0> before a vowel or a numeric character
+mutated sentence:  lines with the string <M0> when a vowel or a numeric character
+error on parser
+mutated sentence:  lines with the string <M0> before a vowels or a numeric character
+error on parser
+mutated sentence:  lines with the string <M0> before a vowel or a numeric characters
+error on parser
+working on original language:  lines with words that have the string <M0> or composed of the string <M1>
+mutated sentence:  lines with words it have the string <M0> or composed of the string <M1>
+error on parser
+mutated sentence:  lines with words what have the string <M0> or composed of the string <M1>
+error on parser
+mutated sentence:  lines with words that could the string <M0> or composed of the string <M1>
+error on parser
+mutated sentence:  lines with words that they the string <M0> or composed of the string <M1>
+error on parser
+working on original language:  lines starting with a letter before a character
+mutated sentence:  lines starting with a letters before a character
+error on parser
+mutated sentence:  lines starting with a letter when a character
+error on parser
+mutated sentence:  lines starting with a letter before a characters
+error on parser
+working on original language:  lines with words that contain either a vowel , the string <M0> , or the string <M1>
+mutated sentence:  lines with words it contain either a vowel , the string <M0> , or the string <M1>
+error on parser
+mutated sentence:  lines with words what contain either a vowel , the string <M0> , or the string <M1>
+success on parser
+mutated sentence:  lines with words that containing either a vowel , the string <M0> , or the string <M1>
+error on parser
+mutated sentence:  lines with words that contain either a vowels , the string <M0> , or the string <M1>
+error on parser
+working on original language:  lines with a lower-case letter then a digit in front of an upper case letter
+mutated sentence:  lines with a lower-case letters then a digit in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter when a digit in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter then a digits in front of an upper case letter
+error on parser
+mutated sentence:  lines with a lower-case letter then a digit in front of an upper case letters
+error on parser
+working on original language:  rows not having an uppercase letter or a digit
+mutated sentence:  rows would having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows n't having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows should having an uppercase letter or a digit
+error on parser
+mutated sentence:  rows not having an uppercase letters or a digit
+error on parser
+mutated sentence:  rows not having an uppercase letter or a digits
+error on parser
+working on original language:  lines arranged with a number , 4 or more times
+mutated sentence:  lines arranged with a numbers , 4 or more times
+error on parser
+mutated sentence:  lines arranged with a number , 7 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 9 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 1 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 8 or more times
+success on parser
+mutated sentence:  lines arranged with a number , 3 or more times
+success on parser
+working on original language:  rows starting with the string <M0> then the string <M1> , greater than or equal to 5 times
+mutated sentence:  rows starting with the string <M0> when the string <M1> , greater than or equal to 5 times
+error on parser
+mutated sentence:  rows starting with the string <M0> then the string <M1> , greater than or equal to 7 times
+success on parser
+mutated sentence:  rows starting with the string <M0> then the string <M1> , greater than or equal to 9 times
+success on parser
+mutated sentence:  rows starting with the string <M0> then the string <M1> , greater than or equal to 10 times
+success on parser
+mutated sentence:  rows starting with the string <M0> then the string <M1> , greater than or equal to 8 times
+success on parser
+mutated sentence:  rows starting with the string <M0> then the string <M1> , greater than or equal to 3 times
+success on parser
+working on original language:  lines not having the string <M0> , not characters , nor the string <M1>
+mutated sentence:  lines would having the string <M0> , not characters , nor the string <M1>
+error on parser
+mutated sentence:  lines n't having the string <M0> , not characters , nor the string <M1>
+error on parser
+mutated sentence:  lines should having the string <M0> , not characters , nor the string <M1>
+error on parser
+mutated sentence:  lines not having the string <M0> , would characters , nor the string <M1>
+error on parser
+mutated sentence:  lines not having the string <M0> , n't characters , nor the string <M1>
+success on parser
+mutated sentence:  lines not having the string <M0> , should characters , nor the string <M1>
+error on parser
+working on original language:  the line starts with a vowel or containing the string <M0>
+mutated sentence:  the line begins with a vowel or containing the string <M0>
+success on parser
+mutated sentence:  the line starts with a vowels or containing the string <M0>
+error on parser
+working on original language:  rows are not a word that has a vowel , not a lower-case letter , instead of the string <M0>
+mutated sentence:  rows are would a word that has a vowel , not a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are n't a word that has a vowel , not a lower-case letter , instead of the string <M0>
+success on parser
+mutated sentence:  rows are should a word that has a vowel , not a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word it has a vowel , not a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word what has a vowel , not a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word that has a vowels , not a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word that has a vowel , would a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word that has a vowel , n't a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word that has a vowel , should a lower-case letter , instead of the string <M0>
+error on parser
+mutated sentence:  rows are not a word that has a vowel , not a lower-case letters , instead of the string <M0>
+error on parser
+working on original language:  the line starts with a vowel or containing the string <M0>
+mutated sentence:  the line begins with a vowel or containing the string <M0>
+success on parser
+mutated sentence:  the line starts with a vowels or containing the string <M0>
+error on parser
+working on original language:  lines consisting of the string <M0>
+working on original language:  strings starting with words that contain a character
+mutated sentence:  string starting with words that contain a character
+error on parser
+mutated sentence:  strings starting with words it contain a character
+error on parser
+mutated sentence:  strings starting with words what contain a character
+success on parser
+mutated sentence:  strings starting with words that containing a character
+error on parser
+mutated sentence:  strings starting with words that contain a characters
+error on parser
+working on original language:  rows with words that don't have a vowel at least once
+mutated sentence:  rows with words it don't have a vowel at least once
+error on parser
+mutated sentence:  rows with words what don't have a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't could a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't they a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't have a vowels at least once
+error on parser
+mutated sentence:  rows with words that don't have a vowel at least when
+error on parser
+working on original language:  lines with words that don't have a character , 0 or more times
+mutated sentence:  lines with words it don't have a character , 0 or more times
+error on parser
+mutated sentence:  lines with words what don't have a character , 0 or more times
+error on parser
+mutated sentence:  lines with words that don't could a character , 0 or more times
+error on parser
+mutated sentence:  lines with words that don't they a character , 0 or more times
+error on parser
+mutated sentence:  lines with words that don't have a characters , 0 or more times
+error on parser
+working on original language:  lines containing a character or a vowel
+mutated sentence:  lines containing a characters or a vowel
+error on parser
+mutated sentence:  lines containing a character or a vowels
+error on parser
+working on original language:  lines not having a capital letter and not a character in front of a letter
+mutated sentence:  lines would having a capital letter and not a character in front of a letter
+error on parser
+mutated sentence:  lines n't having a capital letter and not a character in front of a letter
+success on parser
+mutated sentence:  lines should having a capital letter and not a character in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letters and not a character in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letter and would a character in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letter and n't a character in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letter and should a character in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letter and not a characters in front of a letter
+error on parser
+mutated sentence:  lines not having a capital letter and not a character in front of a letters
+error on parser
+working on original language:  lines arranged with a capitalized letter followed by a lower-case letter before the string <M0> or lettered words
+mutated sentence:  lines arranged with a capitalized letters followed by a lower-case letter before the string <M0> or lettered words
+error on parser
+mutated sentence:  lines arranged with a capitalized letter followed by a lower-case letters before the string <M0> or lettered words
+error on parser
+mutated sentence:  lines arranged with a capitalized letter followed by a lower-case letter when the string <M0> or lettered words
+error on parser
+working on original language:  rows not having a digit , not a capitalized letter , and not a vowel
+mutated sentence:  rows would having a digit , not a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows n't having a digit , not a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows should having a digit , not a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows not having a digits , not a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows not having a digit , would a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows not having a digit , n't a capitalized letter , and not a vowel
+success on parser
+mutated sentence:  rows not having a digit , should a capitalized letter , and not a vowel
+error on parser
+mutated sentence:  rows not having a digit , not a capitalized letters , and not a vowel
+error on parser
+mutated sentence:  rows not having a digit , not a capitalized letter , and would a vowel
+error on parser
+mutated sentence:  rows not having a digit , not a capitalized letter , and n't a vowel
+error on parser
+mutated sentence:  rows not having a digit , not a capitalized letter , and should a vowel
+error on parser
+mutated sentence:  rows not having a digit , not a capitalized letter , and not a vowels
+error on parser
+working on original language:  lines with the string <M0> or containing only the string <M1> , three or more times
+mutated sentence:  lines with the string <M0> or containing only the string <M1> , seven or more times
+success on parser
+mutated sentence:  lines with the string <M0> or containing only the string <M1> , four or more times
+success on parser
+mutated sentence:  lines with the string <M0> or containing only the string <M1> , two or more times
+success on parser
+working on original language:  lines with the string <M0> before the string <M1> or a letter
+mutated sentence:  lines with the string <M0> when the string <M1> or a letter
+error on parser
+mutated sentence:  lines with the string <M0> before the string <M1> or a letters
+error on parser
+working on original language:  lines with words that have starting with the string <M0> or the string <M1>
+mutated sentence:  lines with words it have starting with the string <M0> or the string <M1>
+error on parser
+mutated sentence:  lines with words what have starting with the string <M0> or the string <M1>
+success on parser
+mutated sentence:  lines with words that could starting with the string <M0> or the string <M1>
+error on parser
+mutated sentence:  lines with words that they starting with the string <M0> or the string <M1>
+error on parser
+working on original language:  lines ending with the string <M0> or a lower-case letter followed by the string <M1>
+mutated sentence:  lines ending with the string <M0> or a lower-case letters followed by the string <M1>
+error on parser
+working on original language:  strings with the string <M0> , 3 or more times or starting with numbers
+mutated sentence:  string with the string <M0> , 3 or more times or starting with numbers
+error on parser
+mutated sentence:  strings with the string <M0> , 1 or more times or starting with numbers
+success on parser
+mutated sentence:  strings with the string <M0> , 6 or more times or starting with numbers
+success on parser
+mutated sentence:  strings with the string <M0> , 5 or more times or starting with numbers
+success on parser
+mutated sentence:  strings with the string <M0> , 4 or more times or starting with numbers
+success on parser
+mutated sentence:  strings with the string <M0> , 2 or more times or starting with numbers
+success on parser
+working on original language:  lines with the string <M0> , 3 or more times or a vowel followed by the string <M1>
+mutated sentence:  lines with the string <M0> , 1 or more times or a vowel followed by the string <M1>
+success on parser
+mutated sentence:  lines with the string <M0> , 6 or more times or a vowel followed by the string <M1>
+success on parser
+mutated sentence:  lines with the string <M0> , 5 or more times or a vowel followed by the string <M1>
+success on parser
+mutated sentence:  lines with the string <M0> , 4 or more times or a vowel followed by the string <M1>
+success on parser
+mutated sentence:  lines with the string <M0> , 2 or more times or a vowel followed by the string <M1>
+success on parser
+working on original language:  lines not having the string <M0> or numbers in front of a lower-case letter
+mutated sentence:  lines would having the string <M0> or numbers in front of a lower-case letter
+error on parser
+mutated sentence:  lines n't having the string <M0> or numbers in front of a lower-case letter
+success on parser
+mutated sentence:  lines should having the string <M0> or numbers in front of a lower-case letter
+error on parser
+mutated sentence:  lines not having the string <M0> or numbers in front of a lower-case letters
+error on parser
+working on original language:  lines composed of an upper case letter before characters
+mutated sentence:  lines composed of an upper case letters before characters
+error on parser
+mutated sentence:  lines composed of an upper case letter when characters
+error on parser
+working on original language:  lines starting with words that have a capitalized letter followed by a character
+mutated sentence:  lines starting with words it have a capitalized letter followed by a character
+error on parser
+mutated sentence:  lines starting with words what have a capitalized letter followed by a character
+error on parser
+mutated sentence:  lines starting with words that could a capitalized letter followed by a character
+error on parser
+mutated sentence:  lines starting with words that they a capitalized letter followed by a character
+error on parser
+mutated sentence:  lines starting with words that have a capitalized letters followed by a character
+error on parser
+mutated sentence:  lines starting with words that have a capitalized letter followed by a characters
+error on parser
+working on original language:  lines with a number before a vowel or the string <M0>
+mutated sentence:  lines with a numbers before a vowel or the string <M0>
+error on parser
+mutated sentence:  lines with a number when a vowel or the string <M0>
+error on parser
+mutated sentence:  lines with a number before a vowels or the string <M0>
+error on parser
+working on original language:  lines having either a lower-case letter , a vowel , or a capital letter before a character
+mutated sentence:  lines having either a lower-case letters , a vowel , or a capital letter before a character
+error on parser
+mutated sentence:  lines having either a lower-case letter , a vowels , or a capital letter before a character
+error on parser
+mutated sentence:  lines having either a lower-case letter , a vowel , or a capital letters before a character
+error on parser
+mutated sentence:  lines having either a lower-case letter , a vowel , or a capital letter when a character
+error on parser
+mutated sentence:  lines having either a lower-case letter , a vowel , or a capital letter before a characters
+error on parser
+working on original language:  lines ending with an upper case letter or not the string <M0>
+mutated sentence:  lines ending with an upper case letters or not the string <M0>
+error on parser
+mutated sentence:  lines ending with an upper case letter or would the string <M0>
+error on parser
+mutated sentence:  lines ending with an upper case letter or n't the string <M0>
+error on parser
+mutated sentence:  lines ending with an upper case letter or should the string <M0>
+error on parser
+working on original language:  lines with a letter or a lower-case letter , greater than or equal to 2 times
+mutated sentence:  lines with a letters or a lower-case letter , greater than or equal to 2 times
+error on parser
+mutated sentence:  lines with a letter or a lower-case letters , greater than or equal to 2 times
+error on parser
+mutated sentence:  lines with a letter or a lower-case letter , greater than or equal to 1 times
+success on parser
+mutated sentence:  lines with a letter or a lower-case letter , greater than or equal to 3 times
+success on parser
+mutated sentence:  lines with a letter or a lower-case letter , greater than or equal to 4 times
+success on parser
+working on original language:  lines arranged with words that have the string <M0> then the string <M1> at least once
+mutated sentence:  lines arranged with words it have the string <M0> then the string <M1> at least once
+error on parser
+mutated sentence:  lines arranged with words what have the string <M0> then the string <M1> at least once
+error on parser
+mutated sentence:  lines arranged with words that could the string <M0> then the string <M1> at least once
+error on parser
+mutated sentence:  lines arranged with words that they the string <M0> then the string <M1> at least once
+error on parser
+mutated sentence:  lines arranged with words that have the string <M0> when the string <M1> at least once
+error on parser
+mutated sentence:  lines arranged with words that have the string <M0> then the string <M1> at least when
+error on parser
+working on original language:  lines with a character followed by a vowel , 2 or more times
+mutated sentence:  lines with a characters followed by a vowel , 2 or more times
+error on parser
+mutated sentence:  lines with a character followed by a vowels , 2 or more times
+error on parser
+mutated sentence:  lines with a character followed by a vowel , 1 or more times
+success on parser
+mutated sentence:  lines with a character followed by a vowel , 3 or more times
+success on parser
+mutated sentence:  lines with a character followed by a vowel , 4 or more times
+success on parser
+working on original language:  lines composed of letters then the string <M0> , 7 or more times
+mutated sentence:  lines composed of letters when the string <M0> , 7 or more times
+error on parser
+mutated sentence:  lines composed of letters then the string <M0> , 9 or more times
+success on parser
+mutated sentence:  lines composed of letters then the string <M0> , 10 or more times
+success on parser
+mutated sentence:  lines composed of letters then the string <M0> , 11 or more times
+success on parser
+mutated sentence:  lines composed of letters then the string <M0> , 8 or more times
+success on parser
+mutated sentence:  lines composed of letters then the string <M0> , 6 or more times
+success on parser
+working on original language:  lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>
+mutated sentence:  lines having either a lower case letters , the string <M0> , or characters in front of the string <M1>
+error on parser
+working on original language:  strings with a lowercase letter , no more than 6 times
+mutated sentence:  string with a lowercase letter , no more than 6 times
+error on parser
+mutated sentence:  strings with a uppercase letter , no more than 6 times
+error on parser
+mutated sentence:  strings with a lowercase letters , no more than 6 times
+error on parser
+mutated sentence:  strings with a lowercase letter , no more than 7 times
+success on parser
+mutated sentence:  strings with a lowercase letter , no more than 9 times
+success on parser
+mutated sentence:  strings with a lowercase letter , no more than 10 times
+success on parser
+mutated sentence:  strings with a lowercase letter , no more than 12 times
+success on parser
+mutated sentence:  strings with a lowercase letter , no more than 11 times
+success on parser
+working on original language:  the line starts with a vowel or containing the string <M0>
+mutated sentence:  the line begins with a vowel or containing the string <M0>
+success on parser
+mutated sentence:  the line starts with a vowels or containing the string <M0>
+error on parser
+working on original language:  lines ending with the string <M0> followed by a character , up to 3 times
+mutated sentence:  lines ending with the string <M0> followed by a characters , up to 3 times
+error on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 1 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 6 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 5 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 4 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 2 times
+success on parser
+working on original language:  lines are not a word that has the string <M0> followed by a numeric character
+mutated sentence:  lines are would a word that has the string <M0> followed by a numeric character
+error on parser
+mutated sentence:  lines are n't a word that has the string <M0> followed by a numeric character
+success on parser
+mutated sentence:  lines are should a word that has the string <M0> followed by a numeric character
+error on parser
+mutated sentence:  lines are not a word it has the string <M0> followed by a numeric character
+error on parser
+mutated sentence:  lines are not a word what has the string <M0> followed by a numeric character
+error on parser
+mutated sentence:  lines are not a word that has the string <M0> followed by a numeric characters
+error on parser
+working on original language:  strings not having the string <M0> before either a vowel , the string <M1> , or a character
+mutated sentence:  string not having the string <M0> before either a vowel , the string <M1> , or a character
+error on parser
+mutated sentence:  strings would having the string <M0> before either a vowel , the string <M1> , or a character
+error on parser
+mutated sentence:  strings n't having the string <M0> before either a vowel , the string <M1> , or a character
+success on parser
+mutated sentence:  strings should having the string <M0> before either a vowel , the string <M1> , or a character
+error on parser
+mutated sentence:  strings not having the string <M0> when either a vowel , the string <M1> , or a character
+error on parser
+mutated sentence:  strings not having the string <M0> before either a vowels , the string <M1> , or a character
+error on parser
+mutated sentence:  strings not having the string <M0> before either a vowel , the string <M1> , or a characters
+error on parser
+working on original language:  lines arranged with vowels or the string <M0> , up to 7 times in total
+mutated sentence:  lines arranged with vowels or the string <M0> , up to 9 times in total
+success on parser
+mutated sentence:  lines arranged with vowels or the string <M0> , up to 10 times in total
+success on parser
+mutated sentence:  lines arranged with vowels or the string <M0> , up to 11 times in total
+success on parser
+mutated sentence:  lines arranged with vowels or the string <M0> , up to 8 times in total
+success on parser
+mutated sentence:  lines arranged with vowels or the string <M0> , up to 6 times in total
+success on parser
+working on original language:  lines starting with the string <M0> or a vowel
+mutated sentence:  lines starting with the string <M0> or a vowels
+error on parser
+working on original language:  strings with lettered words followed by the string <M0> before vowels
+mutated sentence:  string with lettered words followed by the string <M0> before vowels
+error on parser
+mutated sentence:  strings with lettered words followed by the string <M0> when vowels
+error on parser
+working on original language:  lines not having a lower-case letter , not a capital letter , and not the string <M0>
+mutated sentence:  lines would having a lower-case letter , not a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines n't having a lower-case letter , not a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines should having a lower-case letter , not a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letters , not a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , would a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , n't a capital letter , and not the string <M0>
+success on parser
+mutated sentence:  lines not having a lower-case letter , should a capital letter , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a capital letters , and not the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a capital letter , and would the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a capital letter , and n't the string <M0>
+error on parser
+mutated sentence:  lines not having a lower-case letter , not a capital letter , and should the string <M0>
+error on parser
+working on original language:  lines with an uppercase letter , zero or more times in front of a digit
+mutated sentence:  lines with an uppercase letters , zero or more times in front of a digit
+error on parser
+mutated sentence:  lines with an uppercase letter , zero or more times in front of a digits
+error on parser
+working on original language:  lines ending with the string <M0> followed by a character , up to 3 times
+mutated sentence:  lines ending with the string <M0> followed by a characters , up to 3 times
+error on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 1 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 6 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 5 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 4 times
+success on parser
+mutated sentence:  lines ending with the string <M0> followed by a character , up to 2 times
+success on parser
+working on original language:  lines arranged with a number or a lower-case letter , up to 3 times in total
+mutated sentence:  lines arranged with a numbers or a lower-case letter , up to 3 times in total
+error on parser
+mutated sentence:  lines arranged with a number or a lower-case letters , up to 3 times in total
+error on parser
+mutated sentence:  lines arranged with a number or a lower-case letter , up to 1 times in total
+success on parser
+mutated sentence:  lines arranged with a number or a lower-case letter , up to 6 times in total
+success on parser
+mutated sentence:  lines arranged with a number or a lower-case letter , up to 5 times in total
+success on parser
+mutated sentence:  lines arranged with a number or a lower-case letter , up to 4 times in total
+success on parser
+mutated sentence:  lines arranged with a number or a lower-case letter , up to 2 times in total
+success on parser
+working on original language:  lines not having an upper case letter , not a letter , and not a character
+mutated sentence:  lines would having an upper case letter , not a letter , and not a character
+error on parser
+mutated sentence:  lines n't having an upper case letter , not a letter , and not a character
+error on parser
+mutated sentence:  lines should having an upper case letter , not a letter , and not a character
+error on parser
+mutated sentence:  lines not having an upper case letters , not a letter , and not a character
+error on parser
+mutated sentence:  lines not having an upper case letter , would a letter , and not a character
+error on parser
+mutated sentence:  lines not having an upper case letter , n't a letter , and not a character
+success on parser
+mutated sentence:  lines not having an upper case letter , should a letter , and not a character
+error on parser
+mutated sentence:  lines not having an upper case letter , not a letters , and not a character
+error on parser
+mutated sentence:  lines not having an upper case letter , not a letter , and would a character
+error on parser
+mutated sentence:  lines not having an upper case letter , not a letter , and n't a character
+error on parser
+mutated sentence:  lines not having an upper case letter , not a letter , and should a character
+error on parser
+mutated sentence:  lines not having an upper case letter , not a letter , and not a characters
+error on parser
+working on original language:  lines not ending with a letter and not a lower-case letter
+mutated sentence:  lines would ending with a letter and not a lower-case letter
+error on parser
+mutated sentence:  lines n't ending with a letter and not a lower-case letter
+error on parser
+mutated sentence:  lines should ending with a letter and not a lower-case letter
+error on parser
+mutated sentence:  lines not ending with a letters and not a lower-case letter
+error on parser
+mutated sentence:  lines not ending with a letter and would a lower-case letter
+error on parser
+mutated sentence:  lines not ending with a letter and n't a lower-case letter
+error on parser
+mutated sentence:  lines not ending with a letter and should a lower-case letter
+error on parser
+mutated sentence:  lines not ending with a letter and not a lower-case letters
+error on parser
+working on original language:  lines not containing only the string <M0> , no more than 3 times
+mutated sentence:  lines would containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines n't containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines should containing only the string <M0> , no more than 3 times
+error on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 1 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 6 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 5 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 4 times
+success on parser
+mutated sentence:  lines not containing only the string <M0> , no more than 2 times
+success on parser
+working on original language:  lines consisting of the string <M0>
+working on original language:  lines starting with digits before a lower-case letter
+mutated sentence:  lines starting with digits when a lower-case letter
+error on parser
+mutated sentence:  lines starting with digits before a lower-case letters
+error on parser
+working on original language:  lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+mutated sentence:  lines arranged with the string <M0> when a string that is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string it is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string what is not a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is would a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is n't a vowel , 2 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is should a vowel , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowels , 2 or more times
+error on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 1 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 3 or more times
+success on parser
+mutated sentence:  lines arranged with the string <M0> before a string that is not a vowel , 4 or more times
+success on parser
+working on original language:  lines with the string <M0> at least once or containing a capital letter
+mutated sentence:  lines with the string <M0> at least when or containing a capital letter
+error on parser
+mutated sentence:  lines with the string <M0> at least once or containing a capital letters
+error on parser
+working on original language:  rows not having a lower-case letter
+mutated sentence:  rows would having a lower-case letter
+error on parser
+mutated sentence:  rows n't having a lower-case letter
+error on parser
+mutated sentence:  rows should having a lower-case letter
+error on parser
+mutated sentence:  rows not having a lower-case letters
+error on parser
+working on original language:  strings with vowels in front of the string <M0> , up to 7 times
+mutated sentence:  string with vowels in front of the string <M0> , up to 7 times
+error on parser
+mutated sentence:  strings with vowels in front of the string <M0> , up to 9 times
+success on parser
+mutated sentence:  strings with vowels in front of the string <M0> , up to 10 times
+success on parser
+mutated sentence:  strings with vowels in front of the string <M0> , up to 11 times
+success on parser
+mutated sentence:  strings with vowels in front of the string <M0> , up to 8 times
+success on parser
+mutated sentence:  strings with vowels in front of the string <M0> , up to 6 times
+success on parser
+working on original language:  lines containing a vowel or lettered words , no more than 6 times
+mutated sentence:  lines containing a vowels or lettered words , no more than 6 times
+error on parser
+mutated sentence:  lines containing a vowel or lettered words , no more than 7 times
+success on parser
+mutated sentence:  lines containing a vowel or lettered words , no more than 9 times
+success on parser
+mutated sentence:  lines containing a vowel or lettered words , no more than 10 times
+success on parser
+mutated sentence:  lines containing a vowel or lettered words , no more than 12 times
+success on parser
+mutated sentence:  lines containing a vowel or lettered words , no more than 11 times
+success on parser
+working on original language:  strings not having a vowel , letters , or characters
+mutated sentence:  string not having a vowel , letters , or characters
+error on parser
+mutated sentence:  strings would having a vowel , letters , or characters
+error on parser
+mutated sentence:  strings n't having a vowel , letters , or characters
+success on parser
+mutated sentence:  strings should having a vowel , letters , or characters
+error on parser
+mutated sentence:  strings not having a vowels , letters , or characters
+error on parser
+working on original language:  rows with words that don't have a vowel at least once
+mutated sentence:  rows with words it don't have a vowel at least once
+error on parser
+mutated sentence:  rows with words what don't have a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't could a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't they a vowel at least once
+error on parser
+mutated sentence:  rows with words that don't have a vowels at least once
+error on parser
+mutated sentence:  rows with words that don't have a vowel at least when
+error on parser
+working on original language:  lines not containing only the string <M0> , greater than or equal to 0 times
+mutated sentence:  lines would containing only the string <M0> , greater than or equal to 0 times
+error on parser
+mutated sentence:  lines n't containing only the string <M0> , greater than or equal to 0 times
+error on parser
+mutated sentence:  lines should containing only the string <M0> , greater than or equal to 0 times
+error on parser
+working on original language:  rows with the string <M0> or ending with the string <M1> , six or more times
+mutated sentence:  rows with the string <M0> or ending with the string <M1> , three or more times
+success on parser
+mutated sentence:  rows with the string <M0> or ending with the string <M1> , seven or more times
+success on parser
+mutated sentence:  rows with the string <M0> or ending with the string <M1> , four or more times
+success on parser
+mutated sentence:  rows with the string <M0> or ending with the string <M1> , two or more times
+success on parser
+working on original language:  rows not having a digit , not a vowel , and not a capitalized letter
+mutated sentence:  rows would having a digit , not a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows n't having a digit , not a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows should having a digit , not a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows not having a digits , not a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , would a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , n't a vowel , and not a capitalized letter
+success on parser
+mutated sentence:  rows not having a digit , should a vowel , and not a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , not a vowels , and not a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , not a vowel , and would a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , not a vowel , and n't a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , not a vowel , and should a capitalized letter
+error on parser
+mutated sentence:  rows not having a digit , not a vowel , and not a capitalized letters
+error on parser
+working on original language:  rows with a character followed by letters
+mutated sentence:  rows with a characters followed by letters
+error on parser

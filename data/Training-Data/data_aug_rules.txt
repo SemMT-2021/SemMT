@@ -1,0 +1,76 @@
+// I. Equivalent replacement
+// ******************************
+// These replaced words remain the semantic meaning untact.
+// Replace them with the original words with probabilities (1/4), which means for each original word, there will be 1/4 probabilities to replace it with new word
+// E.g.,  if A can be replaced by B, C, and D
+// If A exists in the line, then A has 1/4 probability to remain unchanged, 1/4 prob replaced by B, 1/4 probability replaced by C, and 1/4 probability replaced by D
+// ******************************
+lines -> rows
+lines -> strings
+each -> per
+a number -> a digit
+zero -> 0
+1 -> one
+2 -> two
+3 -> three
+4 -> four
+5 -> five
+6 -> six
+7 -> seven
+a capital -> an uppercase
+a capital -> an upper case
+capital -> capitalized
+lower-case -> lower case
+lower-case -> lowercase
+before -> in front of
+with not -> without
+or more times -> or greater times
+start with -> begin with
+starting with -> preceded by
+starting with -> starting from
+starting with -> beginning with
+a number -> a digit
+a number -> a numeric character
+words that have -> a word that has
+lines starting with -> the line starts with
+lines starting with -> the line begins with
+lines ending with -> the line ends with
+lines with -> lines arranged with
+containing -> consisting of
+containing -> composed of
+containing -> made up of
+containing -> using
+and not -> nor
+at least once -> at least one time 
+don't -> do not 
+doesn't -> does not
+followed by -> then
+//x or more times -> greater than or equal to x times
+//r'([\w_]*)\sor more times' -> r'greater than or equal to \1 times'
+and not -> instead of
+a string that ends with a letter -> a letter-terminated string
+a string that ends with a character -> a character-terminated string
+, zero or more times -> (zero or more times)
+or more times -> or more consecutive times
+or more times -> or more times in total
+one letter -> one-letter
+//r'lines containing (a|the)(.*?)\s,\s(a|the)(.*?)\s,\sand\s(a|the)(.*?)\t' -> r'lines containing not only \1\2 , \3\4 , but also \5\6\t'
+
+// II. Unequivalent augmentation
+// ******************************
+// These augmentated new words will change semantic meaning of regex.
+// So when doing augmentation, regex also need to be changed.
+// E.g.,  A -> B -> regex1 -> regex2 
+// If A exists in the line, then this line has 1/4 (this probability can be customized) probability to be duplicated, 
+// with A replaced by B in NL, and regex 1 be replaced by regex2 in the origianl RE.
+// ******************************
+a number -> numbers -> ( [ <NUM> ] ) -> ( [ <NUM> ] ) +
+a number -> digits ->  ( [ <NUM> ] ) -> ( [ <NUM> ] ) +
+a vowel -> vowels -> ( [ <VOW> ] ) -> ( [ <VOW> ] ) +
+a letter -> letters ->  ( [ <LET> ] ) -> ( [ <LET> ] ) +
+a letter -> lettered words ->  ( [ <LET> ] ) -> ( [ <LET> ] ) +
+a character -> characters -> ( . ) -> ( . ) +
+//x or more times -> up to x times -> { x , } -> { , x }
+//r'([\w_]*)\sor more times' -> r'up to \1 times' -> { x , } -> { , x }
+//x or more times -> no more than x times -> { x , } -> { , x }
+//r'([\w_]*)\sor more times' -> r'no more than \1 times' -> { x , } -> { , x }

@@ -1,0 +1,1715 @@
+initializing BERT.........
+initializing BERT finish
+natural language is:  rows with characters or vowels at least once
+original sentence is rows with characters or vowels at least once
+original_word is characters, tokens are ['consonants']
+original_word is vowels, tokens are ['events']
+original_word is least, tokens are ['most']
+mutated sentence is:  ['rows with consonants or vowels at least once', 'rows with characters or events at least once', 'rows with characters or vowels at most once']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing letters in front of the string <M0> or numbers
+original sentence is lines containing letters in front of the string dog or numbers
+original_word is containing, tokens are ['or']
+original_word is letters, tokens are ['or']
+original_word is front, tokens are ['one']
+original_word is string, tokens are ['dog']
+mutated sentence is:  ['lines containing letters in front of the <M0> <M0> or numbers']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with an upper case letter , 0 or more times
+original sentence is lines with an upper case letter , 0 or more times
+original_word is upper, tokens are ['equal']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+mutated sentence is:  ['lines with an equal case letter , 0 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that contain a capital letter , zero or more times
+original sentence is rows with words that contain a capital letter , zero or more times
+original_word is words, tokens are ['names']
+original_word is contain, tokens are ['have']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are []
+mutated sentence is:  ['rows with names that contain a capital letter, zero or more times', 'rows with words that have a capital letter, zero or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a letter before either the string <M0> , the string <M1> , or the string <M2>
+original sentence is lines with a letter before either the string dog , the string truck , or the string ring
+original_word is letter, tokens are ['little']
+original_word is string, tokens are ['pit']
+original_word is string, tokens are ['cable']
+original_word is string, tokens are ['key']
+mutated sentence is:  ['lines with a letter before either the pit <M0>, the string <M1>, or the string <M2>', 'lines with a letter before either the string <M0>, the cable <M1>, or the string <M2>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with an uppercase letter then a vowel before a character
+original sentence is lines arranged with an uppercase letter then a vowel before a character
+original_word is arranged, tokens are []
+original_word is uppercase, tokens are ['individual']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['year']
+mutated sentence is:  ['lines arranged with an individual letter then a vowel before a character', 'lines arranged with an uppercase letter then a year before a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with the string <M0> then a character
+original sentence is lines with the string dog then a character
+original_word is string, tokens are ['red']
+mutated sentence is:  []
+natural language is:  lines containing only the string <M0> , 4 or more times
+original sentence is lines containing only the string dog , 4 or more times
+original_word is containing, tokens are ['and']
+original_word is string, tokens are ['black']
+mutated sentence is:  []
+natural language is:  rows with the string <M0> or a vowel , 7 or more times
+original sentence is rows with the string dog or a vowel , 7 or more times
+original_word is string, tokens are ['word']
+original_word is vowel, tokens are ['dog']
+mutated sentence is:  ['rows with the word <M0> or a vowel , 7 or more times', 'rows with the string <M0> or a <M0> , 7 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that have a character , 2 or greater times
+original sentence is rows with words that have a character , 2 or greater times
+original_word is words, tokens are ['teams']
+original_word is character, tokens are ['lot']
+original_word is greater, tokens are []
+mutated sentence is:  ['rows with teams that have a character , 2 or greater times', 'rows with words that have a lot , 2 or greater times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a character before the string <M0> , 4 or greater times
+original sentence is lines arranged with a character before the string dog , 4 or greater times
+original_word is arranged, tokens are ['beginning']
+original_word is character, tokens are ['line']
+original_word is string, tokens are ['dog']
+original_word is greater, tokens are []
+mutated sentence is:  ['lines beginning with a character before the string <M0> , 4 or greater times', 'lines arranged with a line before the string <M0> , 4 or greater times', 'lines arranged with a character before the <M0> <M0> , 4 or greater times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines starting with the string <M0> in front of a lower-case letter or the string <M1>
+original sentence is lines starting with the string dog in front of a lower-case letter or the string truck
+original_word is starting, tokens are ['works']
+original_word is string, tokens are ['black']
+original_word is front, tokens are ['place']
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+original_word is string, tokens are ['the']
+mutated sentence is:  ['lines starting with the string <M0> in place of a lower-case letter or the string <M1>', 'lines starting with the string <M0> in front of a single letter or the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with lettered words followed by the string <M0> or vowels at least once
+original sentence is lines with lettered words followed by the string dog or vowels at least once
+original_word is lettered, tokens are ['the']
+original_word is words, tokens are []
+original_word is followed, tokens are ['taken']
+original_word is string, tokens are ['dog']
+original_word is vowels, tokens are ['dog']
+original_word is least, tokens are ['once']
+mutated sentence is:  ['lines with lettered words taken by the string <M0> or vowels at least once', 'lines with lettered words followed by the <M0> <M0> or vowels at least once', 'lines with lettered words followed by the string <M0> or <M0> at least once']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines containing words that have starting with digits
+original sentence is lines containing words that have starting with digits
+original_word is containing, tokens are ['and']
+original_word is words, tokens are ['those']
+original_word is starting, tokens are ['problems']
+mutated sentence is:  []
+natural language is:  lines with digits or letters , seven or greater times
+original sentence is lines with digits or letters , seven or greater times
+original_word is digits, tokens are ['letters']
+original_word is letters, tokens are ['greater']
+original_word is greater, tokens are ['four']
+mutated sentence is:  ['lines with letters or letters, seven or greater times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that have the string <M0> or the string <M1> , greater than or equal to zero times
+original sentence is lines with words that have the string dog or the string truck , greater than or equal to zero times
+original_word is words, tokens are ['teams']
+original_word is string, tokens are ['watch']
+original_word is string, tokens are ['chain']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['going']
+mutated sentence is:  ['lines with teams that have the string <M0> or the string <M1>, greater than or equal to zero times', 'lines with words that have the watch <M0> or the string <M1>, greater than or equal to zero times', 'lines with words that have the string <M0> or the string <M1>, more than or equal to zero times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines containing either a lower case letter , an upper case letter , or the string <M0> or the string <M1>
+original sentence is lines containing either a lower case letter , an upper case letter , or the string dog or the string truck
+original_word is containing, tokens are ['or']
+original_word is lower, tokens are ['middle']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['word']
+original_word is upper, tokens are ['older']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['number']
+original_word is string, tokens are ['dog']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines containing either a middle case letter, an upper case letter, or the string <M0> or the string <M1>', 'lines containing either a lower case word, an upper case letter, or the string <M0> or the string <M1>', 'lines containing either a lower case letter, an older case letter, or the string <M0> or the string <M1>', 'lines containing either a lower case letter, an upper case number, or the string <M0> or the string <M1>', 'lines containing either a lower case letter, an upper case letter, or the <M0> <M0> or the string <M1>', 'lines containing either a lower case letter, an upper case letter, or the string <M0> or the big <M1>']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with a number in front of an upper case letter
+original sentence is lines with a number in front of an upper case letter
+original_word is number, tokens are ['line']
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['lines with a line in front of an upper case letter', 'lines with a number in place of an upper case letter', 'lines with a number in front of an open case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a lower-case letter before the string <M0> at least once
+original sentence is lines with a lower-case letter before the string dog at least once
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+original_word is string, tokens are ['dog']
+original_word is least, tokens are ['the']
+mutated sentence is:  ['lines with a single letter before the string <M0> at least once', 'lines with a lower-case letter before the <M0> <M0> at least once']
+constituency distance failed
+constituency distance failed
+natural language is:  lines having either the string <M0> , a vowel , or the string <M1> before letters
+original sentence is lines having either the string dog , a vowel , or the string truck before letters
+original_word is string, tokens are ['black']
+original_word is vowel, tokens are ['dog']
+original_word is string, tokens are ['chain']
+mutated sentence is:  ['lines having either the string <M0>, a <M0>, or the string <M1> before letters']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines preceded by a letter , 6 or more times
+original sentence is lines preceded by a letter , 6 or more times
+original_word is preceded, tokens are ['or']
+original_word is letter, tokens are ['president']
+mutated sentence is:  ['lines preceded by a president , 6 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+original sentence is lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+original_word is arranged, tokens are ['beginning']
+original_word is vowel, tokens are ['pen']
+original_word is capital, tokens are ['new']
+original_word is letter, tokens are ['consonant']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+original_word is times, tokens are []
+mutated sentence is:  ['lines beginning with a vowel before a capital letter, greater than or equal to 6 times in total', 'lines arranged with a pen before a capital letter, greater than or equal to 6 times in total', 'lines arranged with a vowel before a capital consonant, greater than or equal to 6 times in total', 'lines arranged with a vowel before a capital letter, more than or equal to 6 times in total']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+constituency distance failed
+natural language is:  rows with words that have a character at least one time or the string <M0>
+original sentence is rows with words that have a character at least one time or the string dog
+original_word is words, tokens are ['games']
+original_word is character, tokens are ['head']
+original_word is least, tokens are ['the']
+original_word is time, tokens are []
+original_word is string, tokens are ['film']
+mutated sentence is:  ['rows with games that have a character at least one time or the string <M0>', 'rows with words that have a head at least one time or the string <M0>', 'rows with words that have a character at least one time or the film <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  rows not having the string <M0> before a number
+original sentence is rows not having the string dog before a number
+original_word is string, tokens are ['same']
+mutated sentence is:  []
+natural language is:  lines arranged with the string <M0> followed by a vowel and not a capital letter
+original sentence is lines arranged with the string dog followed by a vowel and not a capital letter
+original_word is arranged, tokens are ['compare']
+original_word is string, tokens are ['black']
+original_word is followed, tokens are []
+original_word is vowel, tokens are ['man']
+original_word is capital, tokens are ['single']
+mutated sentence is:  ['lines compare with the string <M0> followed by a vowel and not a capital letter', 'lines arranged with the string <M0> followed by a man and not a capital letter']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that have either the string <M0> , characters , or an uppercase letter , up to 6 times
+original sentence is lines with words that have either the string dog , characters , or an uppercase letter , up to 6 times
+original_word is words, tokens are ['those']
+original_word is string, tokens are ['black']
+original_word is characters, tokens are ['dog']
+original_word is uppercase, tokens are ['extra']
+original_word is letter, tokens are ['dog']
+mutated sentence is:  ['lines with words that have either the string <M0>, <M0>, or an uppercase letter, up to 6 times', 'lines with words that have either the string <M0>, characters, or an extra letter, up to 6 times', 'lines with words that have either the string <M0>, characters, or an uppercase <M0>, up to 6 times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines using a vowel or a lower-case letter at least once
+original sentence is lines using a vowel or a lower-case letter at least once
+original_word is using, tokens are []
+original_word is vowel, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['vowel']
+original_word is letter, tokens are []
+original_word is least, tokens are ['most']
+mutated sentence is:  ['lines using a vowel or a vowel letter at least once', 'lines using a vowel or a lower-case letter at most once']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a number , zero or more times in front of the string <M0>
+original sentence is lines with a number , zero or more times in front of the string dog
+original_word is number, tokens are ['string']
+original_word is times, tokens are []
+original_word is front, tokens are ['place']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines with a string, zero or more times in front of the string <M0>', 'lines with a number, zero or more times in place of the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a word that has either a character , letters , or the string <M0>
+original sentence is lines with a word that has either a character , letters , or the string dog
+original_word is word, tokens are []
+original_word is character, tokens are ['word']
+original_word is letters, tokens are ['the']
+original_word is string, tokens are ['word']
+mutated sentence is:  ['lines with a word that has either a word, letters, or the string <M0>', 'lines with a word that has either a character, letters, or the word <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  rows not containing a number at least once
+original sentence is rows not containing a number at least once
+original_word is containing, tokens are ['having']
+original_word is number, tokens are ['river']
+original_word is least, tokens are ['all']
+mutated sentence is:  ['rows not having a number at least once', 'rows not containing a river at least once']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing an uppercase letter or a vowel and numbers
+original sentence is lines containing an uppercase letter or a vowel and numbers
+original_word is containing, tokens are []
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['day']
+mutated sentence is:  ['lines containing an odd letter or a vowel and numbers', 'lines containing an uppercase letter or a day and numbers']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with a string that contains only a letter or a character
+original sentence is lines ending with a string that contains only a letter or a character
+original_word is ending, tokens are ['especially']
+original_word is string, tokens are ['book']
+original_word is contains, tokens are ['has']
+original_word is letter, tokens are ['name']
+mutated sentence is:  ['lines ending with a book that contains only a letter or a character', 'lines ending with a string that has only a letter or a character', 'lines ending with a string that contains only a name or a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing a character , 6 or more times
+original sentence is lines containing a character , 6 or more times
+original_word is containing, tokens are []
+original_word is character, tokens are ['member']
+mutated sentence is:  ['lines containing a member , 6 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+original sentence is lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+original_word is arranged, tokens are ['letters']
+original_word is lower-case, tokens are ['red']
+original_word is letter, tokens are ['number']
+original_word is capitalized, tokens are ['letter']
+original_word is letter, tokens are ['number']
+original_word is greater, tokens are ['five']
+mutated sentence is:  ['lines arranged with a red letter or a capitalized letter , 2 or greater times', 'lines arranged with a lower-case number or a capitalized letter , 2 or greater times', 'lines arranged with a lower-case letter or a capitalized number , 2 or greater times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines starting with letters and containing the string <M0>
+original sentence is lines starting with letters and containing the string dog
+original_word is starting, tokens are ['filled']
+original_word is letters, tokens are ['the']
+original_word is containing, tokens are ['making']
+original_word is string, tokens are ['name']
+mutated sentence is:  ['lines filled with letters and containing the string <M0>', 'lines starting with letters and making the string <M0>', 'lines starting with letters and containing the name <M0>']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  rows using ending with characters
+original sentence is rows using ending with characters
+original_word is using, tokens are []
+original_word is ending, tokens are ['it']
+mutated sentence is:  []
+natural language is:  rows with characters and numbers before vowels
+original sentence is rows with characters and numbers before vowels
+original_word is characters, tokens are ['names']
+original_word is numbers, tokens are ['characters']
+mutated sentence is:  ['rows with names and numbers before vowels', 'rows with characters and characters before vowels']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with words that have either the string <M0> , a lower-case letter , or the string <M1>
+original sentence is lines arranged with words that have either the string dog , a lower-case letter , or the string truck
+original_word is arranged, tokens are []
+original_word is words, tokens are ['cars']
+original_word is string, tokens are ['old']
+original_word is lower-case, tokens are ['long']
+original_word is letter, tokens are ['[UNK]']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines arranged with cars that have either the string <M0>, a lower-case letter, or the string <M1>', 'lines arranged with words that have either the string <M0>, a long letter, or the string <M1>', 'lines arranged with words that have either the string <M0>, a lower-case letter, or the big <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+constituency distance failed
+natural language is:  lines with words that end with the string <M0> or the string <M1>
+original sentence is lines with words that end with the string dog or the string truck
+original_word is words, tokens are ['stories']
+original_word is end, tokens are ['deal']
+original_word is string, tokens are ['dog']
+original_word is string, tokens are ['the']
+mutated sentence is:  ['lines with stories that end with the string <M0> or the string <M1>', 'lines with words that deal with the string <M0> or the string <M1>', 'lines with words that end with the <M0> <M0> or the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with the string <M0>
+original sentence is lines ending with the string dog
+original_word is ending, tokens are ['together']
+original_word is string, tokens are ['dead']
+mutated sentence is:  []
+natural language is:  lines composed of either a capital letter , a character , or a numeric character
+original sentence is lines composed of either a capital letter , a character , or a numeric character
+original_word is composed, tokens are ['use']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['number']
+original_word is character, tokens are ['letter']
+original_word is numeric, tokens are ['single']
+mutated sentence is:  ['lines composed of either a capital number, a character, or a numeric character', 'lines composed of either a capital letter, a letter, or a numeric character', 'lines composed of either a capital letter, a character, or a single character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string dog , no more than 3 times
+original_word is containing, tokens are []
+original_word is string, tokens are ['black']
+mutated sentence is:  []
+natural language is:  lines with digits , 5 or more times
+original sentence is lines with digits , 5 or more times
+original_word is digits, tokens are []
+mutated sentence is:  []
+natural language is:  lines not having a character , not an upper case letter , nor a lower-case letter
+original sentence is lines not having a character , not an upper case letter , nor a lower-case letter
+original_word is character, tokens are ['name']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['character']
+original_word is lower-case, tokens are ['double']
+mutated sentence is:  ['lines not having a name, not an upper case letter, nor a lower-case letter', 'lines not having a character, not an open case letter, nor a lower-case letter', 'lines not having a character, not an upper case character, nor a lower-case letter', 'lines not having a character, not an upper case letter, nor a double letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with words that have starting with a capitalized letter , 2 or more times in total
+original sentence is lines with words that have starting with a capitalized letter , 2 or more times in total
+original_word is words, tokens are ['people']
+original_word is starting, tokens are ['sex']
+original_word is capitalized, tokens are ['black']
+original_word is letter, tokens are []
+original_word is times, tokens are []
+mutated sentence is:  ['lines with people that have starting with a capitalized letter , 2 or more times in total', 'lines with words that have starting with a black letter , 2 or more times in total']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines beginning with a lower-case letter in front of digits
+original sentence is lines beginning with a lower-case letter in front of digits
+original_word is beginning, tokens are []
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are ['sign']
+original_word is front, tokens are ['place']
+mutated sentence is:  ['lines beginning with a lower-case sign in front of digits', 'lines beginning with a lower-case letter in place of digits']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string dog , no more than 3 times
+original_word is containing, tokens are []
+original_word is string, tokens are ['black']
+mutated sentence is:  []
+natural language is:  lines ending with vowels , zero or more times
+original sentence is lines ending with vowels , zero or more times
+original_word is ending, tokens are ['signs']
+original_word is vowels, tokens are []
+mutated sentence is:  []
+natural language is:  lines with a letter or containing the string <M0> , greater than or equal to zero times
+original sentence is lines with a letter or containing the string dog , greater than or equal to zero times
+original_word is letter, tokens are ['pair']
+original_word is containing, tokens are ['name']
+original_word is string, tokens are ['black']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+mutated sentence is:  ['lines with a pair or containing the string <M0>, greater than or equal to zero times', 'lines with a letter or containing the string <M0>, more than or equal to zero times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> , 6 or more times before numbers
+original sentence is lines with the string dog , 6 or more times before numbers
+original_word is string, tokens are ['black']
+original_word is times, tokens are ['are']
+mutated sentence is:  []
+natural language is:  lines with a vowel or a numeric character in front of a capital letter
+original sentence is lines with a vowel or a numeric character in front of a capital letter
+original_word is vowel, tokens are ['[UNK]']
+original_word is numeric, tokens are ['vowel']
+original_word is character, tokens are []
+original_word is front, tokens are ['place']
+original_word is capital, tokens are ['vowel']
+mutated sentence is:  ['lines with a vowel or a vowel character in front of a capital letter', 'lines with a vowel or a numeric character in place of a capital letter', 'lines with a vowel or a numeric character in front of a vowel letter']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a capital letter followed by the string <M0>
+original sentence is lines with a capital letter followed by the string dog
+original_word is capital, tokens are ['long']
+original_word is letter, tokens are []
+original_word is followed, tokens are ['used']
+original_word is string, tokens are []
+mutated sentence is:  ['lines with a capital letter used by the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with the string <M0>
+original sentence is lines ending with the string dog
+original_word is ending, tokens are ['together']
+original_word is string, tokens are ['dead']
+mutated sentence is:  []
+natural language is:  rows preceded by a capital letter or vowels and a numeric character
+original sentence is rows preceded by a capital letter or vowels and a numeric character
+original_word is preceded, tokens are []
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['name']
+original_word is vowels, tokens are ['one']
+original_word is numeric, tokens are ['single']
+mutated sentence is:  ['rows preceded by a capital name or vowels and a numeric character', 'rows preceded by a capital letter or vowels and a single character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original sentence is lines arranged with the string dog before a string that is not a vowel , 2 or more times
+original_word is arranged, tokens are []
+original_word is string, tokens are ['dog']
+original_word is string, tokens are ['line']
+original_word is vowel, tokens are ['person']
+mutated sentence is:  ['lines arranged with the <M0> <M0> before a string that is not a vowel , 2 or more times', 'lines arranged with the string <M0> before a line that is not a vowel , 2 or more times', 'lines arranged with the string <M0> before a string that is not a person , 2 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings preceded by the string <M0> , 6 or more times
+original sentence is strings preceded by the string dog , 6 or more times
+original_word is preceded, tokens are ['used']
+original_word is string, tokens are ['black']
+mutated sentence is:  ['strings used by the string <M0> , 6 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a word that has the string <M0> followed by a character
+original sentence is lines arranged with a word that has the string dog followed by a character
+original_word is arranged, tokens are ['starting']
+original_word is word, tokens are ['family']
+original_word is string, tokens are ['name']
+original_word is followed, tokens are ['or']
+mutated sentence is:  ['lines starting with a word that has the string <M0> followed by a character', 'lines arranged with a family that has the string <M0> followed by a character', 'lines arranged with a word that has the name <M0> followed by a character']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines starting with the string <M0> in front of a string that is not an uppercase letter
+original sentence is lines starting with the string dog in front of a string that is not an uppercase letter
+original_word is starting, tokens are ['as']
+original_word is string, tokens are ['big']
+original_word is front, tokens are ['search']
+original_word is string, tokens are ['person']
+original_word is uppercase, tokens are ['english']
+mutated sentence is:  ['lines starting with the string <M0> in search of a string that is not an uppercase letter', 'lines starting with the string <M0> in front of a person that is not an uppercase letter', 'lines starting with the string <M0> in front of a string that is not an english letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  strings with the string <M0> or a letter in front of a vowel
+original sentence is strings with the string dog or a letter in front of a vowel
+original_word is string, tokens are ['black']
+original_word is letter, tokens are ['dog']
+original_word is front, tokens are ['place']
+mutated sentence is:  ['strings with the string <M0> or a <M0> in front of a vowel', 'strings with the string <M0> or a letter in place of a vowel']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a lower-case letter , zero or greater times before a numeric character
+original sentence is lines with a lower-case letter , zero or greater times before a numeric character
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are ['character']
+original_word is greater, tokens are ['three']
+original_word is times, tokens are []
+original_word is numeric, tokens are ['black']
+mutated sentence is:  ['lines with a new letter, zero or greater times before a numeric character', 'lines with a lower-case character, zero or greater times before a numeric character', 'lines with a lower-case letter, zero or greater times before a black character']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines are not words that end with a lower-case letter
+original sentence is lines are not words that end with a lower-case letter
+original_word is words, tokens are ['those']
+original_word is end, tokens are ['go']
+original_word is lower-case, tokens are ['single']
+mutated sentence is:  ['lines are not words that end with a single letter']
+constituency distance failed
+natural language is:  strings with words that have the string <M0> , zero or more times or the string <M1>
+original sentence is strings with words that have the string dog , zero or more times or the string truck
+original_word is words, tokens are ['those']
+original_word is string, tokens are ['black']
+original_word is times, tokens are []
+original_word is string, tokens are []
+mutated sentence is:  []
+natural language is:  lines not having a letter , not a character , and not the string <M0>
+original sentence is lines not having a letter , not a character , and not the string dog
+original_word is letter, tokens are ['character']
+original_word is character, tokens are ['girl']
+original_word is string, tokens are ['little']
+mutated sentence is:  ['lines not having a character, not a character, and not the string <M0>', 'lines not having a letter, not a girl, and not the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing either the string <M0> , a lower case letter , or a capital letter
+original sentence is lines containing either the string dog , a lower case letter , or a capital letter
+original_word is containing, tokens are ['and']
+original_word is string, tokens are ['old']
+original_word is lower, tokens are ['closed']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['dog']
+original_word is capital, tokens are ['full']
+mutated sentence is:  ['lines containing either the string <M0>, a closed case letter, or a capital letter', 'lines containing either the string <M0>, a lower case <M0>, or a capital letter']
+constituency distance failed
+constituency distance failed
+natural language is:  rows not having lettered words instead of the string <M0>
+original sentence is rows not having lettered words instead of the string dog
+original_word is lettered, tokens are ['the']
+original_word is words, tokens are []
+original_word is instead, tokens are ['because']
+original_word is string, tokens are ['dog']
+mutated sentence is:  ['rows not having lettered words instead of the <M0> <M0>']
+constituency distance failed
+natural language is:  lines with a number before either the string <M0> , the string <M1> , or the string <M2>
+original sentence is lines with a number before either the string dog , the string truck , or the string ring
+original_word is number, tokens are ['little']
+original_word is string, tokens are ['pit']
+original_word is string, tokens are ['pull']
+original_word is string, tokens are ['key']
+mutated sentence is:  ['lines with a number before either the pit <M0>, the string <M1>, or the string <M2>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> or a letter before the string <M1>
+original sentence is lines with the string dog or a letter before the string truck
+original_word is string, tokens are ['black']
+original_word is letter, tokens are ['little']
+original_word is string, tokens are ['first']
+mutated sentence is:  []
+natural language is:  strings ending with a vowel at least once or an upper case letter
+original sentence is strings ending with a vowel at least once or an upper case letter
+original_word is ending, tokens are ['playing']
+original_word is vowel, tokens are ['woman']
+original_word is least, tokens are ['most']
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['strings playing with a vowel at least once or an upper case letter', 'strings ending with a woman at least once or an upper case letter', 'strings ending with a vowel at most once or an upper case letter', 'strings ending with a vowel at least once or an old case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with a lower-case letter or a capital letter before vowels
+original sentence is rows with a lower-case letter or a capital letter before vowels
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is capital, tokens are []
+original_word is letter, tokens are ['number']
+mutated sentence is:  ['rows with a lower-case letter or a capital number before vowels']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with the string <M0> and the string <M1> or the string <M2> , zero or more times
+original sentence is lines arranged with the string dog and the string truck or the string ring , zero or more times
+original_word is arranged, tokens are ['or']
+original_word is string, tokens are ['hot']
+original_word is string, tokens are ['big']
+original_word is string, tokens are ['ring']
+mutated sentence is:  ['lines arranged with the string <M0> and the big <M1> or the string <M2>, zero or more times', 'lines arranged with the string <M0> and the string <M1> or the <M2> <M2>, zero or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having a lowercase letter , not a character , and not an upper case letter
+original sentence is lines not having a lowercase letter , not a character , and not an upper case letter
+original_word is lowercase, tokens are ['full']
+original_word is letter, tokens are []
+original_word is character, tokens are ['sister']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['class']
+mutated sentence is:  ['lines not having a full letter, not a character, and not an upper case letter', 'lines not having a lowercase letter, not a sister, and not an upper case letter', 'lines not having a lowercase letter, not a character, and not an open case letter', 'lines not having a lowercase letter, not a character, and not an upper class letter']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  strings ending with the string <M0> then a character , zero or more times
+original sentence is strings ending with the string dog then a character , zero or more times
+original_word is ending, tokens are ['as']
+original_word is string, tokens are ['black']
+original_word is character, tokens are ['man']
+mutated sentence is:  ['strings ending with the string <M0> then a man, zero or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+original sentence is lines not having digits , not the string dog , instead of a lower-case letter instead of the string truck
+original_word is digits, tokens are ['it']
+original_word is string, tokens are ['old']
+original_word is instead, tokens are ['because']
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is instead, tokens are []
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines not having digits, not the string <M0>, instead of a new letter instead of the string <M1>']
+constituency distance failed
+natural language is:  rows not having a capitalized letter at least once
+original sentence is rows not having a capitalized letter at least once
+original_word is capitalized, tokens are ['new']
+original_word is letter, tokens are ['[UNK]']
+original_word is least, tokens are ['most']
+mutated sentence is:  ['rows not having a new letter at least once', 'rows not having a capitalized letter at most once']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+original sentence is lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+original_word is word, tokens are ['name']
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is greater, tokens are []
+mutated sentence is:  ['lines with a name that has a lower-case letter or an upper case letter , 3 or greater times', 'lines with a word that has a lower-case letter or an old case letter , 3 or greater times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having a lower-case letter , not a letter , and not a numeric character
+original sentence is lines not having a lower-case letter , not a letter , and not a numeric character
+original_word is lower-case, tokens are []
+original_word is letter, tokens are ['character']
+original_word is letter, tokens are []
+original_word is numeric, tokens are []
+mutated sentence is:  ['lines not having a lower-case character, not a letter, and not a numeric character']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having the string <M0> or starting with the string <M1>
+original sentence is lines not having the string dog or starting with the string truck
+original_word is string, tokens are ['black']
+original_word is starting, tokens are ['going']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines not having the string <M0> or going with the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines consisting of the string <M0> before the string <M1> or a letter
+original sentence is lines consisting of the string dog before the string truck or a letter
+original_word is consisting, tokens are []
+original_word is string, tokens are ['pit']
+original_word is string, tokens are ['lead']
+mutated sentence is:  ['lines consisting of the pit <M0> before the string <M1> or a letter', 'lines consisting of the string <M0> before the lead <M1> or a letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that have starting with lettered words at least one time
+original sentence is rows with words that have starting with lettered words at least one time
+original_word is words, tokens are ['people']
+original_word is starting, tokens are ['children']
+original_word is lettered, tokens are ['the']
+original_word is words, tokens are ['at']
+original_word is least, tokens are ['the']
+mutated sentence is:  ['rows with people that have starting with lettered words at least one time']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings with a letter followed by the string <M0> before a vowel
+original sentence is strings with a letter followed by the string dog before a vowel
+original_word is letter, tokens are ['dog']
+original_word is followed, tokens are ['written']
+original_word is string, tokens are ['word']
+mutated sentence is:  ['strings with a <M0> followed by the string <M0> before a vowel', 'strings with a letter written by the string <M0> before a vowel', 'strings with a letter followed by the word <M0> before a vowel']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing a letter before the string <M0>
+original sentence is lines containing a letter before the string dog
+original_word is containing, tokens are ['in']
+original_word is letter, tokens are ['tie']
+original_word is string, tokens are ['dead']
+mutated sentence is:  ['lines containing a tie before the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having a lower-case letter and not a capital letter at least once
+original sentence is lines not having a lower-case letter and not a capital letter at least once
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['character']
+original_word is least, tokens are ['all']
+mutated sentence is:  ['lines not having a lower-case letter and not a capital character at least once']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a lower-case letter before either the string <M0> , a number , or the string <M1>
+original sentence is lines with a lower-case letter before either the string dog , a number , or the string truck
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are []
+original_word is string, tokens are ['big']
+original_word is number, tokens are ['dog']
+original_word is string, tokens are ['monster']
+mutated sentence is:  ['lines with a lower-case letter before either the string <M0>, a <M0>, or the string <M1>', 'lines with a lower-case letter before either the string <M0>, a number, or the monster <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines consisting of the string <M0>
+original sentence is lines consisting of the string dog
+original_word is consisting, tokens are ['part']
+original_word is string, tokens are ['old']
+mutated sentence is:  []
+natural language is:  lines containing either the string <M0> , characters , or the string <M1>
+original sentence is lines containing either the string dog , characters , or the string truck
+original_word is containing, tokens are ['and']
+original_word is string, tokens are ['lead']
+original_word is characters, tokens are ['truck']
+original_word is string, tokens are ['pull']
+mutated sentence is:  ['lines containing either the lead <M0>, characters, or the string <M1>', 'lines containing either the string <M0>, <M1>, or the string <M1>', 'lines containing either the string <M0>, characters, or the pull <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+constituency distance failed
+natural language is:  lines arranged with the string <M0> followed by the string <M1> and not the string <M2>
+original sentence is lines arranged with the string dog followed by the string truck and not the string ring
+original_word is arranged, tokens are ['along']
+original_word is string, tokens are ['pit']
+original_word is followed, tokens are ['and']
+original_word is string, tokens are ['road']
+original_word is string, tokens are ['ring']
+mutated sentence is:  ['lines arranged with the pit <M0> followed by the string <M1> and not the string <M2>', 'lines arranged with the string <M0> followed by the string <M1> and not the <M2> <M2>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines arranged with words that have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+original sentence is lines arranged with words that have the string dog or either the string truck , the string ring , or the string lake
+original_word is arranged, tokens are []
+original_word is words, tokens are ['people']
+original_word is string, tokens are ['red']
+original_word is string, tokens are ['pack']
+original_word is string, tokens are ['the']
+original_word is string, tokens are []
+mutated sentence is:  ['lines arranged with people that have the string <M0> or either the string <M1>, the string <M2>, or the string <M3>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having characters , a lower-case letter , or numbers
+original sentence is lines not having characters , a lower-case letter , or numbers
+original_word is characters, tokens are ['one']
+original_word is lower-case, tokens are []
+original_word is letter, tokens are ['line']
+mutated sentence is:  ['lines not having characters, a lower-case line, or numbers']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with the string <M0> in front of a number or the string <M1>
+original sentence is rows with the string dog in front of a number or the string truck
+original_word is string, tokens are ['big']
+original_word is front, tokens are ['charge']
+original_word is number, tokens are ['car']
+original_word is string, tokens are []
+mutated sentence is:  ['rows with the string <M0> in charge of a number or the string <M1>', 'rows with the string <M0> in front of a car or the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings starting with vowels and ending with the string <M0>
+original sentence is strings starting with vowels and ending with the string dog
+original_word is starting, tokens are ['beginning']
+original_word is vowels, tokens are ['the']
+original_word is ending, tokens are ['starting']
+original_word is string, tokens are ['movie']
+mutated sentence is:  ['strings beginning with vowels and ending with the string <M0>', 'strings starting with vowels and starting with the string <M0>', 'strings starting with vowels and ending with the movie <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines not having a number , not a vowel , and not a lower-case letter
+original sentence is lines not having a number , not a vowel , and not a lower-case letter
+original_word is number, tokens are ['head']
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['red']
+mutated sentence is:  ['lines not having a head, not a vowel, and not a lower-case letter', 'lines not having a number, not a name, and not a lower-case letter', 'lines not having a number, not a vowel, and not a red letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines composed of either characters , the string <M0> , or vowels
+original sentence is lines composed of either characters , the string dog , or vowels
+original_word is composed, tokens are ['consisting']
+original_word is characters, tokens are ['animals']
+original_word is string, tokens are ['dog']
+mutated sentence is:  ['lines consisting of either characters, the string <M0>, or vowels', 'lines composed of either animals, the string <M0>, or vowels', 'lines composed of either characters, the <M0> <M0>, or vowels']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines composed of only the string <M0> , 7 or more times
+original sentence is lines composed of only the string dog , 7 or more times
+original_word is composed, tokens are ['because']
+original_word is string, tokens are ['old']
+mutated sentence is:  []
+natural language is:  lines with characters or a lower-case letter , four or more times
+original sentence is lines with characters or a lower-case letter , four or more times
+original_word is characters, tokens are ['the']
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+mutated sentence is:  ['lines with characters or a single letter, four or more times']
+constituency distance failed
+natural language is:  rows with words that have a character , 2 or greater times
+original sentence is rows with words that have a character , 2 or greater times
+original_word is words, tokens are ['teams']
+original_word is character, tokens are ['lot']
+original_word is greater, tokens are []
+mutated sentence is:  ['rows with teams that have a character , 2 or greater times', 'rows with words that have a lot , 2 or greater times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a character then a lower-case letter , two or more consecutive times
+original sentence is lines with a character then a lower-case letter , two or more consecutive times
+original_word is character, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['long']
+original_word is letter, tokens are []
+original_word is consecutive, tokens are []
+mutated sentence is:  ['lines with a character then a long letter, two or more consecutive times']
+constituency distance failed
+natural language is:  lines ending with the string <M0> or a vowel , 4 or more times
+original sentence is lines ending with the string dog or a vowel , 4 or more times
+original_word is ending, tokens are ['or']
+original_word is string, tokens are ['word']
+original_word is vowel, tokens are ['dog']
+mutated sentence is:  ['lines ending with the word <M0> or a vowel , 4 or more times', 'lines ending with the string <M0> or a <M0> , 4 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+original sentence is strings with the string dog or letters and the string truck , greater than or equal to zero times
+original_word is string, tokens are ['chain']
+original_word is letters, tokens are ['both']
+original_word is string, tokens are ['chain']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+mutated sentence is:  ['strings with the chain <M0> or letters and the string <M1>, greater than or equal to zero times', 'strings with the string <M0> or letters and the string <M1>, more than or equal to zero times']
+synonyms failed
+constituency distance failed
+natural language is:  lines ending with the string <M0>
+original sentence is lines ending with the string dog
+original_word is ending, tokens are ['together']
+original_word is string, tokens are ['dead']
+mutated sentence is:  []
+natural language is:  rows containing a capital letter then a vowel in front of the string <M0>
+original sentence is rows containing a capital letter then a vowel in front of the string dog
+original_word is containing, tokens are []
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are []
+original_word is vowel, tokens are []
+original_word is front, tokens are ['place']
+original_word is string, tokens are ['red']
+mutated sentence is:  ['rows containing a capital letter then a vowel in place of the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings starting with words that have the string <M0> , 6 or more times
+original sentence is strings starting with words that have the string dog , 6 or more times
+original_word is starting, tokens are ['beginning']
+original_word is words, tokens are ['those']
+original_word is string, tokens are ['word']
+mutated sentence is:  ['strings beginning with words that have the string <M0> , 6 or more times', 'strings starting with words that have the word <M0> , 6 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with a character followed by the string <M0> , 4 or greater times
+original sentence is lines ending with a character followed by the string dog , 4 or greater times
+original_word is ending, tokens are ['starting']
+original_word is character, tokens are []
+original_word is followed, tokens are ['created']
+original_word is string, tokens are ['family']
+original_word is greater, tokens are []
+mutated sentence is:  ['lines starting with a character followed by the string <M0> , 4 or greater times', 'lines ending with a character created by the string <M0> , 4 or greater times', 'lines ending with a character followed by the family <M0> , 4 or greater times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings preceded by a capitalized letter followed by a letter
+original sentence is strings preceded by a capitalized letter followed by a letter
+original_word is preceded, tokens are []
+original_word is capitalized, tokens are ['letter']
+original_word is letter, tokens are []
+original_word is followed, tokens are []
+mutated sentence is:  []
+natural language is:  lines not having a digit , not a letter , and not a lower-case letter
+original sentence is lines not having a digit , not a letter , and not a lower-case letter
+original_word is digit, tokens are ['name']
+original_word is letter, tokens are ['name']
+original_word is lower-case, tokens are ['black']
+mutated sentence is:  ['lines not having a name, not a letter, and not a lower-case letter', 'lines not having a digit, not a name, and not a lower-case letter', 'lines not having a digit, not a letter, and not a black letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines not starting with letters and not a capital letter
+original sentence is lines not starting with letters and not a capital letter
+original_word is starting, tokens are ['filled']
+original_word is letters, tokens are []
+original_word is capital, tokens are ['black']
+mutated sentence is:  ['lines not filled with letters and not a capital letter']
+constituency distance failed
+natural language is:  lines not having the string <M0> , not vowels , and not a lower-case letter
+original sentence is lines not having the string dog , not vowels , and not a lower-case letter
+original_word is string, tokens are ['big']
+original_word is vowels, tokens are ['it']
+original_word is lower-case, tokens are ['single']
+mutated sentence is:  ['lines not having the string <M0>, not vowels, and not a single letter']
+constituency distance failed
+natural language is:  lines with a vowel at least one time
+original sentence is lines with a vowel at least one time
+original_word is vowel, tokens are ['child']
+original_word is least, tokens are []
+mutated sentence is:  ['lines with a child at least one time']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that have starting with the string <M0> then a lower case letter
+original sentence is lines with words that have starting with the string dog then a lower case letter
+original_word is words, tokens are ['people']
+original_word is starting, tokens are ['been']
+original_word is string, tokens are ['word']
+original_word is lower, tokens are ['upper']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['lines with people that have starting with the string <M0> then a lower case letter', 'lines with words that have been with the string <M0> then a lower case letter', 'lines with words that have starting with the word <M0> then a lower case letter', 'lines with words that have starting with the string <M0> then a upper case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines ending with a string that contains only a capital letter at least once
+original sentence is lines ending with a string that contains only a capital letter at least once
+original_word is ending, tokens are ['problems']
+original_word is string, tokens are ['house']
+original_word is contains, tokens are ['has']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['name']
+original_word is least, tokens are ['all']
+mutated sentence is:  ['lines ending with a house that contains only a capital letter at least once', 'lines ending with a string that has only a capital letter at least once', 'lines ending with a string that contains only a capital name at least once']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a vowel or using only the string <M0> at least once
+original sentence is lines with a vowel or using only the string dog at least once
+original_word is vowel, tokens are ['plan']
+original_word is using, tokens are []
+original_word is string, tokens are ['word']
+original_word is least, tokens are ['once']
+mutated sentence is:  ['lines with a plan or using only the string <M0> at least once', 'lines with a vowel or using only the word <M0> at least once']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing the string <M0> or a capital letter followed by characters
+original sentence is lines containing the string dog or a capital letter followed by characters
+original_word is containing, tokens are ['for']
+original_word is string, tokens are ['black']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['dog']
+original_word is followed, tokens are []
+mutated sentence is:  ['lines containing the string <M0> or a capital <M0> followed by characters']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a character in front of a vowel or the string <M0> , zero or more times
+original sentence is lines arranged with a character in front of a vowel or the string dog , zero or more times
+original_word is arranged, tokens are ['beginning']
+original_word is character, tokens are ['seat']
+original_word is front, tokens are ['place']
+original_word is vowel, tokens are ['dog']
+original_word is string, tokens are ['family']
+mutated sentence is:  ['lines beginning with a character in front of a vowel or the string <M0>, zero or more times', 'lines arranged with a seat in front of a vowel or the string <M0>, zero or more times', 'lines arranged with a character in place of a vowel or the string <M0>, zero or more times', 'lines arranged with a character in front of a <M0> or the string <M0>, zero or more times', 'lines arranged with a character in front of a vowel or the family <M0>, zero or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a character , greater than or equal to two times in front of a digit
+original sentence is lines with a character , greater than or equal to two times in front of a digit
+original_word is character, tokens are ['name']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['up']
+original_word is times, tokens are []
+original_word is front, tokens are ['charge']
+mutated sentence is:  ['lines with a name, greater than or equal to two times in front of a digit', 'lines with a character, more than or equal to two times in front of a digit', 'lines with a character, greater than or equal to two times in charge of a digit']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a character before a vowel and containing a lower-case letter
+original sentence is lines with a character before a vowel and containing a lower-case letter
+original_word is character, tokens are []
+original_word is vowel, tokens are ['name']
+original_word is containing, tokens are ['with']
+original_word is lower-case, tokens are ['single']
+mutated sentence is:  ['lines with a character before a name and containing a lower-case letter', 'lines with a character before a vowel and containing a single letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with the string <M0> or not characters at least one time
+original sentence is lines with the string dog or not characters at least one time
+original_word is string, tokens are ['big']
+original_word is characters, tokens are []
+original_word is least, tokens are ['the']
+mutated sentence is:  []
+natural language is:  lines with words that contain ending with letters
+original sentence is lines with words that contain ending with letters
+original_word is words, tokens are ['people']
+original_word is contain, tokens are ['are']
+original_word is ending, tokens are []
+mutated sentence is:  ['lines with people that contain ending with letters', 'lines with words that are ending with letters']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>
+original sentence is lines having either a letter , the string dog , or an upper case letter in front of the string truck
+original_word is letter, tokens are ['dog']
+original_word is string, tokens are ['hot']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is front, tokens are ['place']
+original_word is string, tokens are ['monster']
+mutated sentence is:  ['lines having either a <M0>, the string <M0>, or an upper case letter in front of the string <M1>', 'lines having either a letter, the string <M0>, or an open case letter in front of the string <M1>', 'lines having either a letter, the string <M0>, or an upper case letter in place of the string <M1>', 'lines having either a letter, the string <M0>, or an upper case letter in front of the monster <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines arranged with the string <M0> before the string <M1> or a number and the string <M2>
+original sentence is lines arranged with the string dog before the string truck or a number and the string ring
+original_word is arranged, tokens are ['one']
+original_word is string, tokens are ['black']
+original_word is string, tokens are ['first']
+original_word is number, tokens are ['train']
+original_word is string, tokens are ['ring']
+mutated sentence is:  ['lines arranged with the string <M0> before the first <M1> or a number and the string <M2>', 'lines arranged with the string <M0> before the string <M1> or a train and the string <M2>', 'lines arranged with the string <M0> before the string <M1> or a number and the <M2> <M2>']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with a character followed by a vowel , 2 or more times
+original sentence is lines with a character followed by a vowel , 2 or more times
+original_word is character, tokens are ['consonant']
+original_word is followed, tokens are ['accompanied']
+original_word is vowel, tokens are ['letter']
+mutated sentence is:  ['lines with a consonant followed by a vowel , 2 or more times', 'lines with a character accompanied by a vowel , 2 or more times', 'lines with a character followed by a letter , 2 or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> followed by a lower-case letter
+original sentence is lines with the string dog followed by a lower-case letter
+original_word is string, tokens are ['hot']
+original_word is followed, tokens are ['accompanied']
+original_word is lower-case, tokens are ['four']
+mutated sentence is:  ['lines with the string <M0> accompanied by a lower-case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings having either the string <M0> , vowels , or the string <M1> before numbers
+original sentence is strings having either the string dog , vowels , or the string truck before numbers
+original_word is string, tokens are ['black']
+original_word is vowels, tokens are ['dog']
+original_word is string, tokens are ['chain']
+mutated sentence is:  ['strings having either the string <M0>, <M0>, or the string <M1> before numbers']
+constituency distance failed
+natural language is:  lines with a lower-case letter then a digit in front of an upper case letter
+original sentence is lines with a lower-case letter then a digit in front of an upper case letter
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is digit, tokens are []
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['lines with a new letter then a digit in front of an upper case letter', 'lines with a lower-case letter then a digit in place of an upper case letter', 'lines with a lower-case letter then a digit in front of an open case letter']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having the string <M0> , a character , or the string <M1>
+original sentence is lines not having the string dog , a character , or the string truck
+original_word is string, tokens are ['black']
+original_word is character, tokens are ['dog']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines not having the string <M0>, a <M0>, or the string <M1>', 'lines not having the string <M0>, a character, or the big <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  rows not having an uppercase letter or a digit
+original sentence is rows not having an uppercase letter or a digit
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+mutated sentence is:  ['rows not having an odd letter or a digit']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that have a character or the string <M0> before the string <M1>
+original sentence is lines with words that have a character or the string dog before the string truck
+original_word is words, tokens are ['cars']
+original_word is character, tokens are ['dog']
+original_word is string, tokens are ['black']
+original_word is string, tokens are ['the']
+mutated sentence is:  ['lines with cars that have a character or the string <M0> before the string <M1>', 'lines with words that have a <M0> or the string <M0> before the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a number , 4 or more times
+original sentence is lines arranged with a number , 4 or more times
+original_word is arranged, tokens are ['playing']
+original_word is number, tokens are ['man']
+mutated sentence is:  ['lines playing with a number , 4 or more times', 'lines arranged with a man , 4 or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing an upper case letter
+original sentence is lines containing an upper case letter
+original_word is containing, tokens are ['or']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['lines containing an open case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings with a word that has a vowel before a lower-case letter
+original sentence is strings with a word that has a vowel before a lower-case letter
+original_word is word, tokens are ['child']
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['black']
+mutated sentence is:  ['strings with a child that has a vowel before a lower-case letter', 'strings with a word that has a name before a lower-case letter', 'strings with a word that has a vowel before a black letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines with a number , 5 or more times
+original sentence is lines with a number , 5 or more times
+original_word is number, tokens are []
+mutated sentence is:  []
+natural language is:  lines arranged with words that have a character , 0 or more times
+original sentence is lines arranged with words that have a character , 0 or more times
+original_word is arranged, tokens are []
+original_word is words, tokens are ['cars']
+original_word is character, tokens are ['name']
+mutated sentence is:  ['lines arranged with cars that have a character , 0 or more times', 'lines arranged with words that have a name , 0 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a letter , zero or greater times before a character
+original sentence is lines with a letter , zero or greater times before a character
+original_word is letter, tokens are ['gun']
+original_word is greater, tokens are ['two']
+original_word is times, tokens are []
+mutated sentence is:  ['lines with a gun, zero or greater times before a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+original sentence is strings starting with the string dog followed by the string truck , greater than or equal to 4 times
+original_word is starting, tokens are ['together']
+original_word is string, tokens are ['dog']
+original_word is followed, tokens are []
+original_word is string, tokens are ['lead']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['up']
+mutated sentence is:  ['strings starting with the <M0> <M0> followed by the string <M1>, greater than or equal to 4 times', 'strings starting with the string <M0> followed by the lead <M1>, greater than or equal to 4 times', 'strings starting with the string <M0> followed by the string <M1>, more than or equal to 4 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that have a number , 5 or more times
+original sentence is rows with words that have a number , 5 or more times
+original_word is words, tokens are ['clubs']
+original_word is number, tokens are ['lot']
+mutated sentence is:  ['rows with clubs that have a number , 5 or more times', 'rows with words that have a lot , 5 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  the line begins with a vowel or the string <M0>
+original sentence is the line begins with a vowel or the string dog
+original_word is line, tokens are ['it']
+original_word is begins, tokens are ['ends']
+original_word is vowel, tokens are []
+original_word is string, tokens are ['film']
+mutated sentence is:  ['the line ends with a vowel or the string <M0>', 'the line begins with a vowel or the film <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines not having a lower-case letter and not a number
+original sentence is lines not having a lower-case letter and not a number
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+mutated sentence is:  ['lines not having a single letter and not a number']
+constituency distance failed
+natural language is:  lines with the string <M0> before a vowel or a numeric character
+original sentence is lines with the string dog before a vowel or a numeric character
+original_word is string, tokens are ['dog']
+original_word is vowel, tokens are []
+original_word is numeric, tokens are ['black']
+mutated sentence is:  ['lines with the <M0> <M0> before a vowel or a numeric character', 'lines with the string <M0> before a vowel or a black character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that have the string <M0> or composed of the string <M1>
+original sentence is lines with words that have the string dog or composed of the string truck
+original_word is words, tokens are []
+original_word is string, tokens are ['word']
+original_word is composed, tokens are []
+original_word is string, tokens are ['words']
+mutated sentence is:  ['lines with words that have the word <M0> or composed of the string <M1>', 'lines with words that have the string <M0> or composed of the words <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines starting with a letter before a character
+original sentence is lines starting with a letter before a character
+original_word is starting, tokens are ['cards']
+original_word is letter, tokens are ['child']
+mutated sentence is:  ['lines starting with a child before a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that contain either a vowel , the string <M0> , or the string <M1>
+original sentence is lines with words that contain either a vowel , the string dog , or the string truck
+original_word is words, tokens are ['cars']
+original_word is contain, tokens are ['had']
+original_word is vowel, tokens are ['cat']
+original_word is string, tokens are ['dog']
+original_word is string, tokens are ['chain']
+mutated sentence is:  ['lines with cars that contain either a vowel, the string <M0>, or the string <M1>', 'lines with words that had either a vowel, the string <M0>, or the string <M1>', 'lines with words that contain either a cat, the string <M0>, or the string <M1>', 'lines with words that contain either a vowel, the <M0> <M0>, or the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a lower-case letter then a digit in front of an upper case letter
+original sentence is lines with a lower-case letter then a digit in front of an upper case letter
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is digit, tokens are []
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+mutated sentence is:  ['lines with a new letter then a digit in front of an upper case letter', 'lines with a lower-case letter then a digit in place of an upper case letter', 'lines with a lower-case letter then a digit in front of an open case letter']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows not having an uppercase letter or a digit
+original sentence is rows not having an uppercase letter or a digit
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+mutated sentence is:  ['rows not having an odd letter or a digit']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a number , 4 or more times
+original sentence is lines arranged with a number , 4 or more times
+original_word is arranged, tokens are ['playing']
+original_word is number, tokens are ['man']
+mutated sentence is:  ['lines playing with a number , 4 or more times', 'lines arranged with a man , 4 or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows starting with the string <M0> then the string <M1> , greater than or equal to 5 times
+original sentence is rows starting with the string dog then the string truck , greater than or equal to 5 times
+original_word is starting, tokens are ['beginning']
+original_word is string, tokens are ['hot']
+original_word is string, tokens are ['road']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['up']
+mutated sentence is:  ['rows beginning with the string <M0> then the string <M1>, greater than or equal to 5 times', 'rows starting with the string <M0> then the road <M1>, greater than or equal to 5 times', 'rows starting with the string <M0> then the string <M1>, more than or equal to 5 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having the string <M0> , not characters , nor the string <M1>
+original sentence is lines not having the string dog , not characters , nor the string truck
+original_word is string, tokens are ['new']
+original_word is characters, tokens are ['her']
+original_word is string, tokens are ['big']
+mutated sentence is:  []
+natural language is:  the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string dog
+original_word is line, tokens are ['it']
+original_word is starts, tokens are ['two']
+original_word is vowel, tokens are []
+original_word is containing, tokens are ['in']
+original_word is string, tokens are ['words']
+mutated sentence is:  ['the line starts with a vowel or containing the words <M0>']
+constituency distance failed
+natural language is:  rows are not a word that has a vowel , not a lower-case letter , instead of the string <M0>
+original sentence is rows are not a word that has a vowel , not a lower-case letter , instead of the string dog
+original_word is word, tokens are ['person']
+original_word is vowel, tokens are []
+original_word is lower-case, tokens are ['the']
+original_word is letter, tokens are []
+original_word is instead, tokens are ['out']
+original_word is string, tokens are ['same']
+mutated sentence is:  ['rows are not a person that has a vowel, not a lower-case letter, instead of the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string dog
+original_word is line, tokens are ['it']
+original_word is starts, tokens are ['two']
+original_word is vowel, tokens are []
+original_word is containing, tokens are ['in']
+original_word is string, tokens are ['words']
+mutated sentence is:  ['the line starts with a vowel or containing the words <M0>']
+constituency distance failed
+natural language is:  lines consisting of the string <M0>
+original sentence is lines consisting of the string dog
+original_word is consisting, tokens are ['part']
+original_word is string, tokens are ['old']
+mutated sentence is:  []
+natural language is:  strings starting with words that contain a character
+original sentence is strings starting with words that contain a character
+original_word is starting, tokens are ['beginning']
+original_word is words, tokens are ['buildings']
+original_word is contain, tokens are ['have']
+mutated sentence is:  ['strings beginning with words that contain a character', 'strings starting with buildings that contain a character', 'strings starting with words that have a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that don't have a vowel at least once
+original sentence is rows with words that don't have a vowel at least once
+original_word is words, tokens are ['people']
+original_word is n't, tokens are ['not']
+original_word is vowel, tokens are ['girl']
+original_word is least, tokens are ['most']
+mutated sentence is:  ["rows with people that don't have a vowel at least once", 'rows with words that do not have a vowel at least once', "rows with words that don't have a girl at least once", "rows with words that don't have a vowel at most once"]
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with words that don't have a character , 0 or more times
+original sentence is lines with words that don't have a character , 0 or more times
+original_word is words, tokens are ['people']
+original_word is n't, tokens are ['not']
+original_word is character, tokens are ['number']
+mutated sentence is:  ["lines with people that don't have a character , 0 or more times", 'lines with words that do not have a character , 0 or more times', "lines with words that don't have a number , 0 or more times"]
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing a character or a vowel
+original sentence is lines containing a character or a vowel
+original_word is containing, tokens are []
+original_word is character, tokens are ['name']
+mutated sentence is:  ['lines containing a name or a vowel']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having a capital letter and not a character in front of a letter
+original sentence is lines not having a capital letter and not a character in front of a letter
+original_word is capital, tokens are ['new']
+original_word is letter, tokens are ['character']
+original_word is character, tokens are ['name']
+original_word is front, tokens are ['place']
+mutated sentence is:  ['lines not having a capital character and not a character in front of a letter', 'lines not having a capital letter and not a name in front of a letter', 'lines not having a capital letter and not a character in place of a letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a capitalized letter followed by a lower-case letter before the string <M0> or lettered words
+original sentence is lines arranged with a capitalized letter followed by a lower-case letter before the string dog or lettered words
+original_word is arranged, tokens are ['letters']
+original_word is capitalized, tokens are ['[UNK]']
+original_word is letter, tokens are ['number']
+original_word is followed, tokens are ['or']
+original_word is lower-case, tokens are ['[UNK]']
+original_word is letter, tokens are ['number']
+original_word is string, tokens are ['red']
+original_word is lettered, tokens are ['dog']
+mutated sentence is:  ['lines arranged with a capitalized number followed by a lower-case letter before the string <M0> or lettered words', 'lines arranged with a capitalized letter followed by a lower-case number before the string <M0> or lettered words']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows not having a digit , not a capitalized letter , and not a vowel
+original sentence is rows not having a digit , not a capitalized letter , and not a vowel
+original_word is digit, tokens are ['name']
+original_word is capitalized, tokens are ['vowel']
+original_word is letter, tokens are []
+mutated sentence is:  ['rows not having a name, not a capitalized letter, and not a vowel']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> or containing only the string <M1> , three or more times
+original sentence is lines with the string dog or containing only the string truck , three or more times
+original_word is string, tokens are ['chain']
+original_word is containing, tokens are ['with']
+original_word is string, tokens are ['box']
+mutated sentence is:  ['lines with the chain <M0> or containing only the string <M1>, three or more times', 'lines with the string <M0> or containing only the box <M1>, three or more times']
+synonyms failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> before the string <M1> or a letter
+original sentence is lines with the string dog before the string truck or a letter
+original_word is string, tokens are ['black']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines with the string <M0> before the big <M1> or a letter']
+constituency distance failed
+natural language is:  lines with words that have starting with the string <M0> or the string <M1>
+original sentence is lines with words that have starting with the string dog or the string truck
+original_word is words, tokens are ['dogs']
+original_word is starting, tokens are ['trouble']
+original_word is string, tokens are ['black']
+original_word is string, tokens are ['baby']
+mutated sentence is:  ['lines with <M0>s that have starting with the string <M0> or the string <M1>', 'lines with words that have starting with the string <M0> or the baby <M1>']
+constituency distance failed
+constituency distance failed
+natural language is:  lines ending with the string <M0> or a lower-case letter followed by the string <M1>
+original sentence is lines ending with the string dog or a lower-case letter followed by the string truck
+original_word is ending, tokens are ['as']
+original_word is string, tokens are ['black']
+original_word is lower-case, tokens are ['similar']
+original_word is letter, tokens are []
+original_word is followed, tokens are ['used']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines ending with the string <M0> or a similar letter followed by the string <M1>', 'lines ending with the string <M0> or a lower-case letter used by the string <M1>']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings with the string <M0> , 3 or more times or starting with numbers
+original sentence is strings with the string dog , 3 or more times or starting with numbers
+original_word is string, tokens are ['hot']
+original_word is times, tokens are []
+original_word is starting, tokens are ['more']
+mutated sentence is:  []
+natural language is:  lines with the string <M0> , 3 or more times or a vowel followed by the string <M1>
+original sentence is lines with the string dog , 3 or more times or a vowel followed by the string truck
+original_word is string, tokens are ['old']
+original_word is times, tokens are ['letters']
+original_word is vowel, tokens are ['lot']
+original_word is followed, tokens are []
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines with the string <M0> , 3 or more letters or a vowel followed by the string <M1>', 'lines with the string <M0> , 3 or more times or a lot followed by the string <M1>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having the string <M0> or numbers in front of a lower-case letter
+original sentence is lines not having the string dog or numbers in front of a lower-case letter
+original_word is string, tokens are ['same']
+original_word is numbers, tokens are ['the']
+original_word is front, tokens are ['place']
+original_word is lower-case, tokens are ['capital']
+mutated sentence is:  ['lines not having the string <M0> or numbers in place of a lower-case letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines composed of an upper case letter before characters
+original sentence is lines composed of an upper case letter before characters
+original_word is composed, tokens are ['use']
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+mutated sentence is:  ['lines composed of an old case letter before characters']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines starting with words that have a capitalized letter followed by a character
+original sentence is lines starting with words that have a capitalized letter followed by a character
+original_word is starting, tokens are ['problems']
+original_word is words, tokens are ['companies']
+original_word is capitalized, tokens are ['single']
+original_word is letter, tokens are []
+original_word is followed, tokens are ['accompanied']
+mutated sentence is:  ['lines starting with companies that have a capitalized letter followed by a character', 'lines starting with words that have a capitalized letter accompanied by a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a number before a vowel or the string <M0>
+original sentence is lines with a number before a vowel or the string dog
+original_word is number, tokens are ['string']
+original_word is vowel, tokens are ['person']
+original_word is string, tokens are ['dog']
+mutated sentence is:  ['lines with a string before a vowel or the string <M0>', 'lines with a number before a person or the string <M0>', 'lines with a number before a vowel or the <M0> <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines having either a lower-case letter , a vowel , or a capital letter before a character
+original sentence is lines having either a lower-case letter , a vowel , or a capital letter before a character
+original_word is lower-case, tokens are ['front']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['[UNK]']
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['number']
+mutated sentence is:  ['lines having either a front letter, a vowel, or a capital letter before a character', 'lines having either a lower-case letter, a vowel, or a capital number before a character']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with an upper case letter or not the string <M0>
+original sentence is lines ending with an upper case letter or not the string dog
+original_word is ending, tokens are ['letters']
+original_word is upper, tokens are ['inner']
+original_word is case, tokens are ['##most']
+original_word is letter, tokens are []
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines ending with an inner case letter or not the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with a letter or a lower-case letter , greater than or equal to 2 times
+original sentence is lines with a letter or a lower-case letter , greater than or equal to 2 times
+original_word is letter, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are ['sign']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+mutated sentence is:  ['lines with a letter or a lower-case sign, greater than or equal to 2 times', 'lines with a letter or a lower-case letter, more than or equal to 2 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines arranged with words that have the string <M0> then the string <M1> at least once
+original sentence is lines arranged with words that have the string dog then the string truck at least once
+original_word is arranged, tokens are ['especially']
+original_word is words, tokens are ['restaurants']
+original_word is string, tokens are ['chain']
+original_word is string, tokens are ['box']
+original_word is least, tokens are ['all']
+mutated sentence is:  ['lines arranged with restaurants that have the string <M0> then the string <M1> at least once', 'lines arranged with words that have the chain <M0> then the string <M1> at least once']
+sucessfully add mutated sentences, conduct translate and bug detection
+synonyms failed
+natural language is:  lines with a character followed by a vowel , 2 or more times
+original sentence is lines with a character followed by a vowel , 2 or more times
+original_word is character, tokens are ['consonant']
+original_word is followed, tokens are ['accompanied']
+original_word is vowel, tokens are ['letter']
+mutated sentence is:  ['lines with a consonant followed by a vowel , 2 or more times', 'lines with a character accompanied by a vowel , 2 or more times', 'lines with a character followed by a letter , 2 or more times']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines composed of letters then the string <M0> , 7 or more times
+original sentence is lines composed of letters then the string dog , 7 or more times
+original_word is composed, tokens are ['lots']
+original_word is letters, tokens are ['everything']
+original_word is string, tokens are ['black']
+mutated sentence is:  ['lines composed of everything then the string <M0> , 7 or more times']
+constituency distance failed
+natural language is:  lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>
+original sentence is lines having either a lower case letter , the string dog , or characters in front of the string truck
+original_word is lower, tokens are ['upper']
+original_word is case, tokens are ['grade']
+original_word is letter, tokens are ['character']
+original_word is string, tokens are ['black']
+original_word is characters, tokens are ['standing']
+original_word is front, tokens are []
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines having either a upper case letter, the string <M0>, or characters in front of the string <M1>', 'lines having either a lower grade letter, the string <M0>, or characters in front of the string <M1>', 'lines having either a lower case character, the string <M0>, or characters in front of the string <M1>']
+constituency distance failed
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings with a lowercase letter , no more than 6 times
+original sentence is strings with a lowercase letter , no more than 6 times
+original_word is lowercase, tokens are ['long']
+original_word is letter, tokens are []
+mutated sentence is:  []
+natural language is:  the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string dog
+original_word is line, tokens are ['it']
+original_word is starts, tokens are ['two']
+original_word is vowel, tokens are []
+original_word is containing, tokens are ['in']
+original_word is string, tokens are ['words']
+mutated sentence is:  ['the line starts with a vowel or containing the words <M0>']
+constituency distance failed
+natural language is:  lines ending with the string <M0> followed by a character , up to 3 times
+original sentence is lines ending with the string dog followed by a character , up to 3 times
+original_word is ending, tokens are ['as']
+original_word is string, tokens are ['same']
+original_word is followed, tokens are []
+original_word is character, tokens are ['dog']
+mutated sentence is:  ['lines ending with the string <M0> followed by a <M0>, up to 3 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines are not a word that has the string <M0> followed by a numeric character
+original sentence is lines are not a word that has the string dog followed by a numeric character
+original_word is word, tokens are ['person']
+original_word is string, tokens are ['word']
+original_word is followed, tokens are ['replaced']
+original_word is numeric, tokens are ['black']
+mutated sentence is:  ['lines are not a person that has the string <M0> followed by a numeric character', 'lines are not a word that has the word <M0> followed by a numeric character', 'lines are not a word that has the string <M0> replaced by a numeric character', 'lines are not a word that has the string <M0> followed by a black character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings not having the string <M0> before either a vowel , the string <M1> , or a character
+original sentence is strings not having the string dog before either a vowel , the string truck , or a character
+original_word is string, tokens are ['black']
+original_word is vowel, tokens are ['character']
+original_word is string, tokens are ['same']
+mutated sentence is:  ['strings not having the string <M0> before either a character, the string <M1>, or a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with vowels or the string <M0> , up to 7 times in total
+original sentence is lines arranged with vowels or the string dog , up to 7 times in total
+original_word is arranged, tokens are ['or']
+original_word is vowels, tokens are []
+original_word is string, tokens are ['big']
+original_word is times, tokens are ['books']
+mutated sentence is:  ['lines arranged with vowels or the string <M0>, up to 7 books in total']
+constituency distance failed
+natural language is:  lines starting with the string <M0> or a vowel
+original sentence is lines starting with the string dog or a vowel
+original_word is starting, tokens are ['or']
+original_word is string, tokens are ['black']
+mutated sentence is:  []
+natural language is:  strings with lettered words followed by the string <M0> before vowels
+original sentence is strings with lettered words followed by the string dog before vowels
+original_word is lettered, tokens are ['two']
+original_word is words, tokens are []
+original_word is followed, tokens are []
+original_word is string, tokens are ['name']
+mutated sentence is:  ['strings with lettered words followed by the name <M0> before vowels']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not having a lower-case letter , not a capital letter , and not the string <M0>
+original sentence is lines not having a lower-case letter , not a capital letter , and not the string dog
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are ['sign']
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['one']
+original_word is string, tokens are ['big']
+mutated sentence is:  ['lines not having a lower-case sign, not a capital letter, and not the string <M0>']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with an uppercase letter , zero or more times in front of a digit
+original sentence is lines with an uppercase letter , zero or more times in front of a digit
+original_word is uppercase, tokens are ['open']
+original_word is letter, tokens are ['sign']
+original_word is times, tokens are ['lives']
+original_word is front, tokens are ['search']
+mutated sentence is:  ['lines with an open letter, zero or more times in front of a digit', 'lines with an uppercase sign, zero or more times in front of a digit', 'lines with an uppercase letter, zero or more lives in front of a digit', 'lines with an uppercase letter, zero or more times in search of a digit']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines ending with the string <M0> followed by a character , up to 3 times
+original sentence is lines ending with the string dog followed by a character , up to 3 times
+original_word is ending, tokens are ['as']
+original_word is string, tokens are ['same']
+original_word is followed, tokens are []
+original_word is character, tokens are ['dog']
+mutated sentence is:  ['lines ending with the string <M0> followed by a <M0>, up to 3 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines arranged with a number or a lower-case letter , up to 3 times in total
+original sentence is lines arranged with a number or a lower-case letter , up to 3 times in total
+original_word is arranged, tokens are ['letters']
+original_word is number, tokens are ['letter']
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are []
+original_word is times, tokens are ['letters']
+mutated sentence is:  ['lines arranged with a letter or a lower-case letter, up to 3 times in total', 'lines arranged with a number or a lower-case letter, up to 3 letters in total']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines not having an upper case letter , not a letter , and not a character
+original sentence is lines not having an upper case letter , not a letter , and not a character
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['character']
+original_word is letter, tokens are ['name']
+mutated sentence is:  ['lines not having an open case letter, not a letter, and not a character', 'lines not having an upper case character, not a letter, and not a character', 'lines not having an upper case letter, not a name, and not a character']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not ending with a letter and not a lower-case letter
+original sentence is lines not ending with a letter and not a lower-case letter
+original_word is ending, tokens are []
+original_word is letter, tokens are ['word']
+original_word is lower-case, tokens are ['black']
+mutated sentence is:  ['lines not ending with a word and not a lower-case letter', 'lines not ending with a letter and not a black letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+constituency distance failed
+natural language is:  lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string dog , no more than 3 times
+original_word is containing, tokens are []
+original_word is string, tokens are ['black']
+mutated sentence is:  []
+natural language is:  lines consisting of the string <M0>
+original sentence is lines consisting of the string dog
+original_word is consisting, tokens are ['part']
+original_word is string, tokens are ['old']
+mutated sentence is:  []
+natural language is:  lines starting with digits before a lower-case letter
+original sentence is lines starting with digits before a lower-case letter
+original_word is starting, tokens are ['cars']
+original_word is digits, tokens are ['and']
+original_word is lower-case, tokens are ['black']
+mutated sentence is:  ['lines starting with digits before a black letter']
+constituency distance failed
+natural language is:  lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original sentence is lines arranged with the string dog before a string that is not a vowel , 2 or more times
+original_word is arranged, tokens are []
+original_word is string, tokens are ['dog']
+original_word is string, tokens are ['line']
+original_word is vowel, tokens are ['person']
+mutated sentence is:  ['lines arranged with the <M0> <M0> before a string that is not a vowel , 2 or more times', 'lines arranged with the string <M0> before a line that is not a vowel , 2 or more times', 'lines arranged with the string <M0> before a string that is not a person , 2 or more times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines with the string <M0> at least once or containing a capital letter
+original sentence is lines with the string dog at least once or containing a capital letter
+original_word is string, tokens are ['red']
+original_word is least, tokens are ['the']
+original_word is containing, tokens are ['twice']
+original_word is capital, tokens are ['single']
+mutated sentence is:  ['lines with the string <M0> at least once or twice a capital letter']
+constituency distance failed
+natural language is:  rows not having a lower-case letter
+original sentence is rows not having a lower-case letter
+original_word is lower-case, tokens are ['love']
+mutated sentence is:  []
+natural language is:  strings with vowels in front of the string <M0> , up to 7 times
+original sentence is strings with vowels in front of the string dog , up to 7 times
+original_word is vowels, tokens are ['him']
+original_word is front, tokens are ['place']
+original_word is string, tokens are ['dog']
+mutated sentence is:  ['strings with vowels in place of the string <M0>, up to 7 times', 'strings with vowels in front of the <M0> <M0>, up to 7 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines containing a vowel or lettered words , no more than 6 times
+original sentence is lines containing a vowel or lettered words , no more than 6 times
+original_word is containing, tokens are []
+original_word is vowel, tokens are ['letter']
+original_word is lettered, tokens are ['other']
+original_word is words, tokens are ['[UNK]']
+mutated sentence is:  ['lines containing a letter or lettered words, no more than 6 times', 'lines containing a vowel or other words, no more than 6 times']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  strings not having a vowel , letters , or characters
+original sentence is strings not having a vowel , letters , or characters
+original_word is vowel, tokens are ['word']
+original_word is letters, tokens are ['people']
+mutated sentence is:  ['strings not having a word, letters, or characters', 'strings not having a vowel, people, or characters']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with words that don't have a vowel at least once
+original sentence is rows with words that don't have a vowel at least once
+original_word is words, tokens are ['people']
+original_word is n't, tokens are ['not']
+original_word is vowel, tokens are ['girl']
+original_word is least, tokens are ['most']
+mutated sentence is:  ["rows with people that don't have a vowel at least once", 'rows with words that do not have a vowel at least once', "rows with words that don't have a girl at least once", "rows with words that don't have a vowel at most once"]
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  lines not containing only the string <M0> , greater than or equal to 0 times
+original sentence is lines not containing only the string dog , greater than or equal to 0 times
+original_word is containing, tokens are []
+original_word is string, tokens are ['black']
+original_word is greater, tokens are ['rather']
+original_word is equal, tokens are ['up']
+mutated sentence is:  []
+natural language is:  rows with the string <M0> or ending with the string <M1> , six or more times
+original sentence is rows with the string dog or ending with the string truck , six or more times
+original_word is string, tokens are ['chain']
+original_word is ending, tokens are []
+original_word is string, tokens are ['chain']
+mutated sentence is:  ['rows with the chain <M0> or ending with the string <M1>, six or more times']
+synonyms failed
+natural language is:  rows not having a digit , not a vowel , and not a capitalized letter
+original sentence is rows not having a digit , not a vowel , and not a capitalized letter
+original_word is digit, tokens are ['name']
+original_word is vowel, tokens are ['name']
+original_word is capitalized, tokens are ['red']
+mutated sentence is:  ['rows not having a name, not a vowel, and not a capitalized letter', 'rows not having a digit, not a name, and not a capitalized letter', 'rows not having a digit, not a vowel, and not a red letter']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection
+natural language is:  rows with a character followed by letters
+original sentence is rows with a character followed by letters
+original_word is character, tokens are ['letter']
+original_word is followed, tokens are ['surrounded']
+mutated sentence is:  ['rows with a letter followed by letters', 'rows with a character surrounded by letters']
+sucessfully add mutated sentences, conduct translate and bug detection
+sucessfully add mutated sentences, conduct translate and bug detection

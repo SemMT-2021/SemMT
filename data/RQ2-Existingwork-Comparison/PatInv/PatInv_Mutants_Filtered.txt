@@ -1,0 +1,266 @@
+rows with consonants or vowels at least once	0
+rows with characters or events at least once	0
+rows with characters or vowels at most once	0
+lines containing letters in front of the <M0> <M0> or numbers	1
+lines with an equal case letter , 0 or more times	2
+rows with names that contain a capital letter, zero or more times	3
+rows with words that have a capital letter, zero or more times	3
+lines with a letter before either the pit <M0>, the string <M1>, or the string <M2>	4
+lines with a letter before either the string <M0>, the cable <M1>, or the string <M2>	4
+lines arranged with an individual letter then a vowel before a character	5
+rows with the word <M0> or a vowel , 7 or more times	8
+rows with the string <M0> or a <M0> , 7 or more times	8
+rows with teams that have a character , 2 or greater times	9
+rows with words that have a lot , 2 or greater times	9
+lines arranged with a line before the string <M0> , 4 or greater times	10
+lines arranged with a character before the <M0> <M0> , 4 or greater times	10
+lines starting with the string <M0> in place of a lower-case letter or the string <M1>	11
+lines with lettered words taken by the string <M0> or vowels at least once	12
+lines with lettered words followed by the <M0> <M0> or vowels at least once	12
+lines with letters or letters, seven or greater times	14
+lines with teams that have the string <M0> or the string <M1>, greater than or equal to zero times	15
+lines with words that have the watch <M0> or the string <M1>, greater than or equal to zero times	15
+lines containing either a lower case word, an upper case letter, or the string <M0> or the string <M1>	16
+lines containing either a lower case letter, an upper case number, or the string <M0> or the string <M1>	16
+lines containing either a lower case letter, an upper case letter, or the <M0> <M0> or the string <M1>	16
+lines with a line in front of an upper case letter	17
+lines with a number in place of an upper case letter	17
+lines with a number in front of an open case letter	17
+lines having either the string <M0>, a <M0>, or the string <M1> before letters	19
+lines preceded by a president , 6 or more times	20
+lines arranged with a pen before a capital letter, greater than or equal to 6 times in total	21
+rows with games that have a character at least one time or the string <M0>	22
+rows with words that have a head at least one time or the string <M0>	22
+lines arranged with the string <M0> followed by a man and not a capital letter	24
+lines with words that have either the string <M0>, characters, or an extra letter, up to 6 times	25
+lines with words that have either the string <M0>, characters, or an uppercase <M0>, up to 6 times	25
+lines using a vowel or a lower-case letter at most once	26
+lines with a string, zero or more times in front of the string <M0>	27
+lines with a number, zero or more times in place of the string <M0>	27
+lines with a word that has either a word, letters, or the string <M0>	28
+rows not containing a river at least once	29
+lines containing an odd letter or a vowel and numbers	30
+lines containing an uppercase letter or a day and numbers	30
+lines ending with a book that contains only a letter or a character	31
+lines ending with a string that has only a letter or a character	31
+lines ending with a string that contains only a name or a character	31
+lines containing a member , 6 or more times	32
+lines arranged with a lower-case number or a capitalized letter , 2 or greater times	33
+lines arranged with a lower-case letter or a capitalized number , 2 or greater times	33
+lines starting with letters and making the string <M0>	34
+rows with names and numbers before vowels	36
+rows with characters and characters before vowels	36
+lines arranged with cars that have either the string <M0>, a lower-case letter, or the string <M1>	37
+lines with stories that end with the string <M0> or the string <M1>	38
+lines with words that deal with the string <M0> or the string <M1>	38
+lines with words that end with the <M0> <M0> or the string <M1>	38
+lines composed of either a capital number, a character, or a numeric character	40
+lines composed of either a capital letter, a letter, or a numeric character	40
+lines composed of either a capital letter, a character, or a single character	40
+lines not having a name, not an upper case letter, nor a lower-case letter	43
+lines not having a character, not an open case letter, nor a lower-case letter	43
+lines not having a character, not an upper case character, nor a lower-case letter	43
+lines with people that have starting with a capitalized letter , 2 or more times in total	44
+lines with words that have starting with a black letter , 2 or more times in total	44
+lines beginning with a lower-case sign in front of digits	45
+lines beginning with a lower-case letter in place of digits	45
+lines with a pair or containing the string <M0>, greater than or equal to zero times	48
+lines with a letter or containing the string <M0>, more than or equal to zero times	48
+lines with a vowel or a numeric character in place of a capital letter	50
+lines with a vowel or a numeric character in front of a vowel letter	50
+lines with a capital letter used by the string <M0>	51
+rows preceded by a capital name or vowels and a numeric character	53
+rows preceded by a capital letter or vowels and a single character	53
+lines arranged with the <M0> <M0> before a string that is not a vowel , 2 or more times	54
+lines arranged with the string <M0> before a line that is not a vowel , 2 or more times	54
+lines arranged with the string <M0> before a string that is not a person , 2 or more times	54
+strings used by the string <M0> , 6 or more times	55
+lines arranged with a family that has the string <M0> followed by a character	56
+lines arranged with a word that has the name <M0> followed by a character	56
+lines starting with the string <M0> in search of a string that is not an uppercase letter	57
+lines starting with the string <M0> in front of a person that is not an uppercase letter	57
+strings with the string <M0> or a <M0> in front of a vowel	58
+strings with the string <M0> or a letter in place of a vowel	58
+lines with a lower-case character, zero or greater times before a numeric character	59
+lines with a lower-case letter, zero or greater times before a black character	59
+lines not having a character, not a character, and not the string <M0>	62
+lines not having a letter, not a girl, and not the string <M0>	62
+lines with a number before either the pit <M0>, the string <M1>, or the string <M2>	65
+strings playing with a vowel at least once or an upper case letter	67
+strings ending with a woman at least once or an upper case letter	67
+strings ending with a vowel at most once or an upper case letter	67
+strings ending with a vowel at least once or an old case letter	67
+rows with a lower-case letter or a capital number before vowels	68
+lines arranged with the string <M0> and the string <M1> or the <M2> <M2>, zero or more times	69
+lines not having a lowercase letter, not a sister, and not an upper case letter	70
+lines not having a lowercase letter, not a character, and not an open case letter	70
+strings ending with the string <M0> then a man, zero or more times	71
+rows not having a new letter at least once	73
+rows not having a capitalized letter at most once	73
+lines with a name that has a lower-case letter or an upper case letter , 3 or greater times	74
+lines with a word that has a lower-case letter or an old case letter , 3 or greater times	74
+lines not having a lower-case character, not a letter, and not a numeric character	75
+lines not having the string <M0> or going with the string <M1>	76
+lines consisting of the pit <M0> before the string <M1> or a letter	77
+lines consisting of the string <M0> before the lead <M1> or a letter	77
+rows with people that have starting with lettered words at least one time	78
+strings with a <M0> followed by the string <M0> before a vowel	79
+strings with a letter written by the string <M0> before a vowel	79
+strings with a letter followed by the word <M0> before a vowel	79
+lines containing a tie before the string <M0>	80
+lines not having a lower-case letter and not a capital character at least once	81
+lines with a lower-case letter before either the string <M0>, a <M0>, or the string <M1>	82
+lines containing either the lead <M0>, characters, or the string <M1>	84
+lines arranged with the pit <M0> followed by the string <M1> and not the string <M2>	85
+lines arranged with people that have the string <M0> or either the string <M1>, the string <M2>, or the string <M3>	86
+lines not having characters, a lower-case line, or numbers	87
+rows with the string <M0> in charge of a number or the string <M1>	88
+rows with the string <M0> in front of a car or the string <M1>	88
+strings beginning with vowels and ending with the string <M0>	89
+strings starting with vowels and starting with the string <M0>	89
+lines not having a head, not a vowel, and not a lower-case letter	90
+lines not having a number, not a name, and not a lower-case letter	90
+lines composed of either animals, the string <M0>, or vowels	91
+lines composed of either characters, the <M0> <M0>, or vowels	91
+rows with teams that have a character , 2 or greater times	94
+rows with words that have a lot , 2 or greater times	94
+lines ending with the word <M0> or a vowel , 4 or more times	96
+lines ending with the string <M0> or a <M0> , 4 or more times	96
+rows containing a capital letter then a vowel in place of the string <M0>	99
+strings beginning with words that have the string <M0> , 6 or more times	100
+strings starting with words that have the word <M0> , 6 or more times	100
+lines starting with a character followed by the string <M0> , 4 or greater times	101
+lines ending with a character created by the string <M0> , 4 or greater times	101
+lines ending with a character followed by the family <M0> , 4 or greater times	101
+lines not having a name, not a letter, and not a lower-case letter	103
+lines not having a digit, not a name, and not a lower-case letter	103
+lines with a child at least one time	106
+lines with people that have starting with the string <M0> then a lower case letter	107
+lines with words that have starting with the word <M0> then a lower case letter	107
+lines ending with a house that contains only a capital letter at least once	108
+lines ending with a string that has only a capital letter at least once	108
+lines ending with a string that contains only a capital name at least once	108
+lines with a plan or using only the string <M0> at least once	109
+lines with a vowel or using only the word <M0> at least once	109
+lines containing the string <M0> or a capital <M0> followed by characters	110
+lines arranged with a seat in front of a vowel or the string <M0>, zero or more times	111
+lines arranged with a character in place of a vowel or the string <M0>, zero or more times	111
+lines arranged with a character in front of a <M0> or the string <M0>, zero or more times	111
+lines arranged with a character in front of a vowel or the family <M0>, zero or more times	111
+lines with a name, greater than or equal to two times in front of a digit	112
+lines with a character, greater than or equal to two times in charge of a digit	112
+lines with a character before a name and containing a lower-case letter	113
+lines with people that contain ending with letters	115
+lines with words that are ending with letters	115
+lines having either a <M0>, the string <M0>, or an upper case letter in front of the string <M1>	116
+lines having either a letter, the string <M0>, or an open case letter in front of the string <M1>	116
+lines having either a letter, the string <M0>, or an upper case letter in place of the string <M1>	116
+lines arranged with the string <M0> before the string <M1> or a train and the string <M2>	117
+lines with a character accompanied by a vowel , 2 or more times	118
+lines with a character followed by a letter , 2 or more times	118
+lines with the string <M0> accompanied by a lower-case letter	119
+lines with a lower-case letter then a digit in place of an upper case letter	121
+lines with a lower-case letter then a digit in front of an open case letter	121
+lines not having the string <M0>, a <M0>, or the string <M1>	122
+rows not having an odd letter or a digit	123
+lines with cars that have a character or the string <M0> before the string <M1>	124
+lines with words that have a <M0> or the string <M0> before the string <M1>	124
+lines arranged with a man , 4 or more times	125
+lines containing an open case letter	126
+strings with a child that has a vowel before a lower-case letter	127
+strings with a word that has a name before a lower-case letter	127
+lines arranged with cars that have a character , 0 or more times	129
+lines arranged with words that have a name , 0 or more times	129
+lines with a gun, zero or greater times before a character	130
+strings starting with the <M0> <M0> followed by the string <M1>, greater than or equal to 4 times	131
+strings starting with the string <M0> followed by the lead <M1>, greater than or equal to 4 times	131
+strings starting with the string <M0> followed by the string <M1>, more than or equal to 4 times	131
+rows with clubs that have a number , 5 or more times	132
+rows with words that have a lot , 5 or more times	132
+the line ends with a vowel or the string <M0>	133
+lines with the <M0> <M0> before a vowel or a numeric character	135
+lines with the string <M0> before a vowel or a black character	135
+lines with words that have the word <M0> or composed of the string <M1>	136
+lines starting with a child before a character	137
+lines with cars that contain either a vowel, the string <M0>, or the string <M1>	138
+lines with words that contain either a cat, the string <M0>, or the string <M1>	138
+lines with words that contain either a vowel, the <M0> <M0>, or the string <M1>	138
+lines with a lower-case letter then a digit in place of an upper case letter	139
+lines with a lower-case letter then a digit in front of an open case letter	139
+rows not having an odd letter or a digit	140
+lines arranged with a man , 4 or more times	141
+rows beginning with the string <M0> then the string <M1>, greater than or equal to 5 times	142
+rows starting with the string <M0> then the road <M1>, greater than or equal to 5 times	142
+rows starting with the string <M0> then the string <M1>, more than or equal to 5 times	142
+rows are not a person that has a vowel, not a lower-case letter, instead of the string <M0>	145
+strings beginning with words that contain a character	148
+strings starting with buildings that contain a character	148
+strings starting with words that have a character	148
+rows with people that don't have a vowel at least once	149
+rows with words that do not have a vowel at least once	149
+rows with words that don't have a girl at least once	149
+rows with words that don't have a vowel at most once	149
+lines with people that don't have a character , 0 or more times	150
+lines with words that do not have a character , 0 or more times	150
+lines with words that don't have a number , 0 or more times	150
+lines containing a name or a vowel	151
+lines not having a capital character and not a character in front of a letter	152
+lines not having a capital letter and not a name in front of a letter	152
+lines not having a capital letter and not a character in place of a letter	152
+lines arranged with a capitalized number followed by a lower-case letter before the string <M0> or lettered words	153
+lines arranged with a capitalized letter followed by a lower-case number before the string <M0> or lettered words	153
+rows not having a name, not a capitalized letter, and not a vowel	154
+lines with the string <M0> or containing only the box <M1>, three or more times	155
+lines ending with the string <M0> or a lower-case letter used by the string <M1>	158
+lines with the string <M0> , 3 or more letters or a vowel followed by the string <M1>	160
+lines with the string <M0> , 3 or more times or a lot followed by the string <M1>	160
+lines not having the string <M0> or numbers in place of a lower-case letter	161
+lines composed of an old case letter before characters	162
+lines starting with companies that have a capitalized letter followed by a character	163
+lines starting with words that have a capitalized letter accompanied by a character	163
+lines with a string before a vowel or the string <M0>	164
+lines with a number before a person or the string <M0>	164
+lines having either a lower-case letter, a vowel, or a capital number before a character	165
+lines ending with an inner case letter or not the string <M0>	166
+lines with a letter or a lower-case sign, greater than or equal to 2 times	167
+lines arranged with restaurants that have the string <M0> then the string <M1> at least once	168
+lines with a character accompanied by a vowel , 2 or more times	169
+lines with a character followed by a letter , 2 or more times	169
+lines having either a lower grade letter, the string <M0>, or characters in front of the string <M1>	171
+lines having either a lower case character, the string <M0>, or characters in front of the string <M1>	171
+lines ending with the string <M0> followed by a <M0>, up to 3 times	174
+lines are not a person that has the string <M0> followed by a numeric character	175
+lines are not a word that has the word <M0> followed by a numeric character	175
+lines are not a word that has the string <M0> replaced by a numeric character	175
+lines are not a word that has the string <M0> followed by a black character	175
+strings not having the string <M0> before either a character, the string <M1>, or a character	176
+strings with lettered words followed by the name <M0> before vowels	179
+lines not having a lower-case sign, not a capital letter, and not the string <M0>	180
+lines with an open letter, zero or more times in front of a digit	181
+lines with an uppercase sign, zero or more times in front of a digit	181
+lines with an uppercase letter, zero or more lives in front of a digit	181
+lines with an uppercase letter, zero or more times in search of a digit	181
+lines ending with the string <M0> followed by a <M0>, up to 3 times	182
+lines arranged with a letter or a lower-case letter, up to 3 times in total	183
+lines not having an open case letter, not a letter, and not a character	184
+lines not having an upper case character, not a letter, and not a character	184
+lines not having an upper case letter, not a name, and not a character	184
+lines not ending with a word and not a lower-case letter	185
+lines arranged with the <M0> <M0> before a string that is not a vowel , 2 or more times	189
+lines arranged with the string <M0> before a line that is not a vowel , 2 or more times	189
+lines arranged with the string <M0> before a string that is not a person , 2 or more times	189
+strings with vowels in place of the string <M0>, up to 7 times	192
+strings with vowels in front of the <M0> <M0>, up to 7 times	192
+lines containing a letter or lettered words, no more than 6 times	193
+lines containing a vowel or other words, no more than 6 times	193
+strings not having a word, letters, or characters	194
+strings not having a vowel, people, or characters	194
+rows with people that don't have a vowel at least once	195
+rows with words that do not have a vowel at least once	195
+rows with words that don't have a girl at least once	195
+rows with words that don't have a vowel at most once	195
+rows not having a name, not a vowel, and not a capitalized letter	198
+rows not having a digit, not a name, and not a capitalized letter	198
+rows not having a digit, not a vowel, and not a red letter	198
+rows with a letter followed by letters	199
+rows with a character surrounded by letters	199

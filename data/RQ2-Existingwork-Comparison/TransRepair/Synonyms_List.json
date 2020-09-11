@@ -1,0 +1,383 @@
+{
+    "rows": [
+        "rows"
+    ],
+    "with": [
+        "with"
+    ],
+    "characters": [
+        "characters"
+    ],
+    "or": [
+        "or"
+    ],
+    "vowels": [
+        "vowels"
+    ],
+    "at": [
+        "at"
+    ],
+    "least": [
+        "least"
+    ],
+    "once": [
+        "when",
+        "once"
+    ],
+    "lines": [
+        "lines"
+    ],
+    "containing": [
+        "containing"
+    ],
+    "letters": [
+        "letters"
+    ],
+    "in": [
+        "in"
+    ],
+    "front": [
+        "front"
+    ],
+    "of": [
+        "of"
+    ],
+    "the": [
+        "the"
+    ],
+    "string": [
+        "string"
+    ],
+    "<": [
+        "<"
+    ],
+    "M0": [
+        "M0"
+    ],
+    ">": [
+        ">"
+    ],
+    "numbers": [
+        "numbers"
+    ],
+    "an": [
+        "an"
+    ],
+    "upper": [
+        "upper"
+    ],
+    "case": [
+        "case"
+    ],
+    "letter": [
+        "letters",
+        "letter"
+    ],
+    ",": [
+        ","
+    ],
+    "0": [
+        "0"
+    ],
+    "more": [
+        "more"
+    ],
+    "times": [
+        "times"
+    ],
+    "words": [
+        "words"
+    ],
+    "that": [
+        "it",
+        "what",
+        "that"
+    ],
+    "contain": [
+        "contain",
+        "containing"
+    ],
+    "a": [
+        "a"
+    ],
+    "capital": [
+        "capital"
+    ],
+    "zero": [
+        "zero"
+    ],
+    "before": [
+        "before",
+        "when"
+    ],
+    "either": [
+        "either"
+    ],
+    "M1": [
+        "M1"
+    ],
+    "M2": [
+        "M2"
+    ],
+    "arranged": [
+        "arranged"
+    ],
+    "uppercase": [
+        "uppercase"
+    ],
+    "then": [
+        "when",
+        "then"
+    ],
+    "vowel": [
+        "vowel",
+        "vowels"
+    ],
+    "character": [
+        "character",
+        "characters"
+    ],
+    "only": [
+        "only"
+    ],
+    "4": [
+        "7",
+        "9",
+        "1",
+        "8",
+        "3",
+        "6",
+        "5",
+        "4",
+        "2"
+    ],
+    "7": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "8",
+        "6",
+        "5",
+        "4"
+    ],
+    "have": [
+        "have",
+        "could",
+        "they"
+    ],
+    "2": [
+        "1",
+        "3",
+        "4",
+        "2"
+    ],
+    "greater": [
+        "greater"
+    ],
+    "starting": [
+        "starting"
+    ],
+    "lower-case": [],
+    "lettered": [
+        "lettered"
+    ],
+    "followed": [
+        "followed"
+    ],
+    "by": [
+        "by"
+    ],
+    "digits": [
+        "digits"
+    ],
+    "seven": [
+        "seven"
+    ],
+    "than": [
+        "than"
+    ],
+    "equal": [
+        "equal"
+    ],
+    "to": [
+        "to"
+    ],
+    "lower": [
+        "lower"
+    ],
+    "number": [
+        "numbers",
+        "number"
+    ],
+    "having": [
+        "having"
+    ],
+    "preceded": [
+        "preceded"
+    ],
+    "6": [
+        "7",
+        "9",
+        "10",
+        "12",
+        "11",
+        "8",
+        "3",
+        "6",
+        "5",
+        "4"
+    ],
+    "total": [
+        "total"
+    ],
+    "one": [
+        "one"
+    ],
+    "time": [
+        "time"
+    ],
+    "not": [
+        "not",
+        "would",
+        "n't",
+        "should"
+    ],
+    "and": [
+        "and"
+    ],
+    "up": [
+        "up"
+    ],
+    "using": [
+        "using"
+    ],
+    "word": [
+        "word"
+    ],
+    "has": [
+        "has"
+    ],
+    "ending": [
+        "ending"
+    ],
+    "contains": [
+        "contains",
+        "contain"
+    ],
+    "capitalized": [
+        "capitalized"
+    ],
+    "end": [
+        "end"
+    ],
+    "composed": [
+        "composed"
+    ],
+    "numeric": [
+        "numeric"
+    ],
+    "no": [
+        "no"
+    ],
+    "3": [
+        "1",
+        "3",
+        "6",
+        "5",
+        "4",
+        "2"
+    ],
+    "5": [
+        "7",
+        "9",
+        "10",
+        "8",
+        "3",
+        "6",
+        "5",
+        "4"
+    ],
+    "nor": [
+        "nor"
+    ],
+    "beginning": [
+        "beginning"
+    ],
+    "is": [
+        "is"
+    ],
+    "strings": [
+        "strings",
+        "string"
+    ],
+    "are": [
+        "are"
+    ],
+    "instead": [
+        "instead"
+    ],
+    "lowercase": [
+        "lowercase",
+        "uppercase"
+    ],
+    "consisting": [
+        "consisting"
+    ],
+    "M3": [
+        "M3"
+    ],
+    "four": [
+        "seven",
+        "four"
+    ],
+    "two": [
+        "four",
+        "two"
+    ],
+    "consecutive": [
+        "consecutive"
+    ],
+    "digit": [
+        "digits",
+        "digit"
+    ],
+    "line": [
+        "line"
+    ],
+    "begins": [
+        "begins"
+    ],
+    "starts": [
+        "begins",
+        "starts"
+    ],
+    "do": [
+        "do",
+        "n't"
+    ],
+    "n't": [
+        "do",
+        "not",
+        "did",
+        "would",
+        "could",
+        "ca",
+        "n't",
+        "'d",
+        "wo"
+    ],
+    "three": [
+        "three",
+        "seven",
+        "four",
+        "two"
+    ],
+    "six": [
+        "three",
+        "seven",
+        "four",
+        "six",
+        "two"
+    ]
+}

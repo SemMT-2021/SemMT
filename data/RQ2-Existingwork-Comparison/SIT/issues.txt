@@ -1,0 +1,2179 @@
+ID: 1
+Source sent:
+rows with characters or vowels at least once
+Target sent:
+用字符或元音至少排一次
+
+Distance: 8.000000
+rows with characters or vowels at most once
+最多包含字符或元音的行
+Distance: 7.000000
+rows with characters or events at least once
+具有字符或事件的行至少一次
+
+ID: 2
+Source sent:
+lines containing letters in front of the string <M0> or numbers
+Target sent:
+在字符串<M0>前面包含字母的行或数字
+
+Distance: 7.000000
+lines containing letters in parts of the string <M0> or numbers
+在字符串<M0>的一部分中包含字母或数字的行
+Distance: 1.000000
+lines containing letters in front of the door <M0> or numbers
+门<M0>前面包含字母的行或数字
+
+ID: 3
+Source sent:
+lines with an upper case letter , 0 or more times
+Target sent:
+大写字母的行，0次或更多次
+
+Distance: 8.000000
+lines with an equal case letter , 0 or more times
+大小写相同的行，0次或多次
+
+ID: 4
+Source sent:
+rows with words that contain a capital letter , zero or more times
+Target sent:
+包含零个或多个大写字母的单词的行
+
+Distance: 9.000000
+rows with names that contain a capital letter, zero or more times
+名称包含大写字母的行，零次或多次
+
+ID: 5
+Source sent:
+lines with a letter before either the string <M0> , the string <M1> , or the string <M2>
+Target sent:
+在字符串<M0>，字符串<M1>或字符串<M2>之前带有字母的行
+
+Distance: 8.000000
+lines with a letter before either the name <M0>, the string <M1>, or the string <M2 >
+在名称<M0>，字符串<M1>或字符串<M2>之前的字母行
+Distance: 4.000000
+lines with a letter before either the string <M0>, the line <M1>, or the string <M2 >
+在字符串<M0>，行<M1>或字符串<M2>之前带有字母的行
+Distance: 2.000000
+lines with a letter before either the string <M0>, the string <M1>, or the letter <M2 >
+在字符串<M0>，字符串<M1>或字母<M2>之前带有字母的行
+
+ID: 6
+Source sent:
+lines arranged with an uppercase letter then a vowel before a character
+Target sent:
+以大写字母排列的行，然后是字符前的元音
+
+Distance: 10.000000
+lines arranged with an individual letter then a vowel before a character
+排成一行的是单个字母，然后是字符前的元音
+Distance: 6.000000
+lines arranged with an uppercase letter then a year before a character
+以大写字母排列的行，然后在字符前一年
+
+ID: 7
+Source sent:
+lines with the string <M0> then a character
+Target sent:
+用字符串<M0>然后是一个字符的行
+
+Distance: 9.000000
+lines with the name <M0> then a character
+名称为<M0>的行，然后是一个字符
+
+ID: 8
+Source sent:
+lines containing only the string <M0> , 4 or more times
+Target sent:
+仅包含字符串<M0>的行，连续4次或更多次
+
+Distance: 10.000000
+lines containing only the letter <M0>, 4 or more times
+仅包含字母<M0>的行4次或更多次
+
+ID: 9
+Source sent:
+rows with the string <M0> or a vowel , 7 or more times
+Target sent:
+字符串<M0>或元音的行，连续7次或更多次
+
+Distance: 7.000000
+rows with the word <M0> or a vowel , 7 or more times
+单词<M0>或元音的行，连续7次或更多次
+Distance: 2.000000
+rows with the string <M0> or a book , 7 or more times
+字符串<M0>或一本书的行，连续7次或更多次
+
+ID: 10
+Source sent:
+rows with words that have a character , 2 or greater times
+Target sent:
+包含2个或更多字符的单词的行
+
+Distance: 12.000000
+rows with words that have a lot , 2 or greater times
+包含很多次，两次或更多次的单词的行
+Distance: 4.000000
+rows with teams that have a character , 2 or greater times
+与具有2个或更多次角色的团队的行
+
+ID: 11
+Source sent:
+lines arranged with a character before the string <M0> , 4 or greater times
+Target sent:
+在字符串<M0>之前用字符排列的行，超过4次
+
+Distance: 15.000000
+lines arranged with a character before the letter <M0>, 4 or greater times
+在字母<M0>之前的字符排列的行，最多4次
+Distance: 4.000000
+lines arranged with a circle before the string <M0>, 4 or greater times
+在字符串<M0>之前用圆圈排列的行，至少4次
+
+ID: 12
+Source sent:
+lines starting with the string <M0> in front of a lower-case letter or the string <M1>
+Target sent:
+以小写字母或字符串<M1>开头的字符串<M0>开头的行
+
+Distance: 10.000000
+lines starting with the string <M0> in front of a black letter or the string <M1 >
+以黑色字母前面的字符串<M0>或字符串<M1>开头的行
+Distance: 9.000000
+lines starting with the string <m1> in front of a lower-case letter or the string <M1 >
+以小写字母前面的字符串<m1>或<M1>开头的行
+Distance: 5.000000
+lines starting with the string <M0> in place of a lower-case letter or the string <M1 >
+以字符串<M0>开头的行，以小写字母或字符串<M1>开头
+
+ID: 13
+Source sent:
+lines with lettered words followed by the string <M0> or vowels at least once
+Target sent:
+带有字母单词的行，后跟字符串<M0>或元音至少一次
+
+Distance: 7.000000
+lines with lettered words followed by the word <M0> or vowels at least once
+带有字母的单词的行，至少跟一次单词<M0>或元音
+Distance: 2.000000
+lines with lettered words followed by the string <M0> or vowels at most once
+带有字母单词的行，后跟字符串<M0>或元音，最多一次
+
+ID: 14
+Source sent:
+lines with digits or letters , seven or greater times
+Target sent:
+用数字或字母组成的行，七次或以上
+
+Distance: 5.000000
+lines with letters or letters, seven or greater times
+用字母或字母组成的行，连续七次或更多次
+
+ID: 15
+Source sent:
+lines with words that have the string <M0> or the string <M1> , greater than or equal to zero times
+Target sent:
+包含字符串<M0>或字符串<M1>且大于或等于零倍的单词的行
+
+Distance: 6.000000
+lines with games that have the string <M0> or the string <M1>, greater than or equal to zero times
+包含<M0>或<M1>字符串且大于或等于零倍的游戏行
+Distance: 5.000000
+lines with words that have the word <M0> or the string <M1>, greater than or equal to zero times
+包含单词<M0>或字符串<M1>且大于或等于零倍的单词的行
+
+ID: 16
+Source sent:
+lines containing either a lower case letter , an upper case letter , or the string <M0> or the string <M1>
+Target sent:
+包含小写字母，大写字母或字符串<M0>或字符串<M1>的行
+
+Distance: 1.000000
+lines containing either a lower case letter, an upper case letter, or the word <M0> or the string <M1 >
+包含小写字母，大写字母或单词<M0>或字符串<M1>的行
+
+ID: 17
+Source sent:
+lines with a number in front of an upper case letter
+Target sent:
+在大写字母前面带有数字的行
+
+Distance: 6.000000
+lines with a line in front of an upper case letter
+在大写字母前加上一行
+Distance: 3.000000
+lines with a number in place of an upper case letter
+用数字代替大写字母的行
+Distance: 2.000000
+lines with a number in front of an open case letter
+在一个大写字母前面带有数字的行
+
+ID: 18
+Source sent:
+lines with a lower-case letter before the string <M0> at least once
+Target sent:
+至少在字符串<M0>前用小写字母的行
+
+Distance: 11.000000
+lines with a red letter before the string <M0> at least once
+在字符串<M0>之前的红色字母行至少出现一次
+Distance: 9.000000
+lines with a lower-case letter before the string <M0> at most once
+在字符串<M0>之前最多有一个小写字母的行
+Distance: 2.000000
+lines with a lower-case letter before the school <M0> at least once
+在学校<M0>前用小写字母的行至少一次
+
+ID: 19
+Source sent:
+lines having either the string <M0> , a vowel , or the string <M1> before letters
+Target sent:
+在字母前具有字符串<M0>，元音或字符串<M1>的行
+
+Distance: 6.000000
+lines having either the string <M0>, a noun, or the string <M1> before letters
+在字母前具有字符串<M0>，名词或字符串<M1>的行
+Distance: 3.000000
+lines having either the word <M0>, a vowel, or the string <M1> before letters
+在字母前具有单词<M0>，元音或字符串<M1>的行
+
+ID: 20
+Source sent:
+lines preceded by a letter , 6 or more times
+Target sent:
+行首字母，至少6次
+
+Distance: 6.000000
+lines preceded by a president , 6 or more times
+行长在总统之前，连续6次以上
+
+ID: 21
+Source sent:
+lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+Target sent:
+在大写字母前用元音排列的行，总计大于或等于6次
+
+Distance: 3.000000
+lines arranged with a pen before a capital letter, greater than or equal to 6 times in total
+大写字母前用笔排列的行，总计大于或等于6倍
+Distance: 3.000000
+lines arranged with a vowel before a capital consonant, greater than or equal to 6 times in total
+大写辅音前用元音排列的行，总计大于或等于6倍
+Distance: 3.000000
+lines arranged with a vowel before a capital letter, more than or equal to 6 times in total
+大写字母前用元音排列的行，总计大于或等于6次
+
+ID: 22
+Source sent:
+rows with words that have a character at least one time or the string <M0>
+Target sent:
+包含至少一个字符的单词或字符串<M0>的行
+
+Distance: 5.000000
+rows with words that have a name at least one time or the string <M0 >
+具有至少一次名称或单词<M0>的单词的行
+Distance: 3.000000
+rows with words that have a character at least one time or the word <M0 >
+具有至少一个字符的单词或单词<M0>的行
+
+ID: 23
+Source sent:
+rows not having the string <M0> before a number
+Target sent:
+在数字前没有字符串<M0>的行
+
+Distance: 4.000000
+rows not having the sign <M0> before a number
+在数字前没有符号<M0>的行
+
+ID: 24
+Source sent:
+lines arranged with the string <M0> followed by a vowel and not a capital letter
+Target sent:
+以字符串<M0>排列的行，后跟元音而不是大写字母
+
+Distance: 7.000000
+lines arranged with the string <M0> followed by a letter and not a capital letter
+以字符串<M0>排列的行，后跟一个字母，而不是一个大写字母
+Distance: 2.000000
+lines arranged with the letter <M0> followed by a vowel and not a capital letter
+以字母<M0>排列的行，后跟元音而不是大写字母
+
+ID: 25
+Source sent:
+lines with words that have either the string <M0> , characters , or an uppercase letter , up to 6 times
+Target sent:
+包含<M0>，字符或大写字母的单词的行，最多6次
+
+Distance: 2.000000
+lines with words that have either the string <M0>, characters, or an english letter, up to 6 times
+包含<M0>，字符或英文字母的单词的行，最多6次
+
+ID: 26
+Source sent:
+lines using a vowel or a lower-case letter at least once
+Target sent:
+使用元音或小写字母的行至少一次
+
+Distance: 6.000000
+lines using a vowel or a vowel letter at least once
+使用元音或元音字母至少一次
+Distance: 3.000000
+lines using a vowel or a lower-case letter at most once
+最多使用一次元音或小写字母的行
+
+ID: 27
+Source sent:
+lines with a number , zero or more times in front of the string <M0>
+Target sent:
+在字符串<M0>前面有数字，零次或多次的行
+
+Distance: 13.000000
+lines with a number, zero or more times in front of the school <M0 >
+在学校前面的数字行（零次或多次）<M0>
+
+ID: 28
+Source sent:
+lines with a word that has either a character , letters , or the string <M0>
+Target sent:
+行中包含一个字符，字母或字符串<M0>的单词
+
+Distance: 8.000000
+lines with a name that has either a character, letters, or the string <M0 >
+行的名称包含字符，字母或字符串<M0>
+Distance: 8.000000
+lines with a word that has either a character, letters, or the word <M0 >
+包含字符，字母或单词<M0>的单词的行
+Distance: 7.000000
+lines with a word that has either a name, letters, or the string <M0 >
+包含名称，字母或字符串<M0>的单词的行
+
+ID: 29
+Source sent:
+lines containing a character , 6 or more times
+Target sent:
+包含一个字符的行，至少6次
+
+Distance: 4.000000
+lines containing a member , 6 or more times
+包含一个成员的行，连续6次或更多次
+
+ID: 30
+Source sent:
+lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+Target sent:
+行用小写字母或大写字母排列两次或以上
+
+Distance: 5.000000
+lines arranged with a red letter or a capitalized letter , 2 or greater times
+行用红色字母或大写字母排列两次或以上
+Distance: 2.000000
+lines arranged with a lower-case number or a capitalized letter , 2 or greater times
+行用小写数字或大写字母排列两次或多次
+Distance: 2.000000
+lines arranged with a lower-case letter or a capitalized number , 2 or greater times
+行用小写字母或大写数字排列两次或多次
+
+ID: 31
+Source sent:
+rows with characters and numbers before vowels
+Target sent:
+元音前带有字符和数字的行
+
+Distance: 4.000000
+rows with characters and characters before vowels
+具有字符和元音前字符的行
+
+ID: 32
+Source sent:
+lines arranged with words that have either the string <M0> , a lower-case letter , or the string <M1>
+Target sent:
+用单词组成的行，这些单词具有字符串<M0>，小写字母或字符串<M1>
+
+Distance: 12.000000
+lines arranged with words that have either the word <M0>, a lower-case letter, or the string <M1 >
+包含单词<M0>，小写字母或字符串<M1>的单词排列的行
+Distance: 8.000000
+lines arranged with words that have either the string <m1>, a lower-case letter, or the string <M1 >
+行排列的单词包含字符串<m1>，小写字母或字符串<M1>
+Distance: 8.000000
+lines arranged with words that have either the string <M0>, a lower-case letter, or the letter <M1 >
+行排列的单词包含字符串<M0>，小写字母或字母<M1>
+
+ID: 33
+Source sent:
+lines with words that end with the string <M0> or the string <M1>
+Target sent:
+单词以<M0>或<M1>结尾的行
+
+Distance: 6.000000
+lines with words that end with the word <M0> or the string <M1 >
+以单词<M0>或字符串<M1>结尾的单词的行
+Distance: 6.000000
+lines with words that end with the string <m1> or the string <M1 >
+以以字符串<m1>或字符串<M1>结尾的单词的行
+
+ID: 34
+Source sent:
+lines ending with the string <M0>
+Target sent:
+以字符串<M0>结尾的行
+
+Distance: 3.000000
+lines ending with the word <M0 >
+以单词<M0>结尾的行
+
+ID: 35
+Source sent:
+lines composed of either a capital letter , a character , or a numeric character
+Target sent:
+由大写字母，字符或数字字符组成的行
+
+Distance: 5.000000
+lines composed of either a capital letter, a character, or a single character
+由大写字母，一个字符或单个字符组成的行
+
+ID: 36
+Source sent:
+lines not containing only the string <M0> , no more than 3 times
+Target sent:
+仅包含字符串<M0>的行，最多不超过3次
+
+Distance: 6.000000
+lines not containing only the word <M0>, no more than 3 times
+仅包含单词<M0>的行，不超过3次
+Distance: 1.000000
+lines not containing only the string <M0>, no longer than 3 times
+仅包含字符串<M0>的行，不超过3次
+
+ID: 37
+Source sent:
+lines not having a character , not an upper case letter , nor a lower-case letter
+Target sent:
+没有字符，没有大写字母或小写字母的行
+
+Distance: 7.000000
+lines not having a character, not an upper case letter, nor a double letter
+没有字符，大写字母或双字母的行
+Distance: 5.000000
+lines not having a name, not an upper case letter, nor a lower-case letter
+没有名称，大写字母或小写字母的行
+Distance: 5.000000
+lines not having a character, not an upper case character, nor a lower-case letter
+没有字符，大写字符或小写字母的行
+
+ID: 38
+Source sent:
+lines with words that have starting with a capitalized letter , 2 or more times in total
+Target sent:
+以大写字母开头的单词的行，总共2次或更多次
+
+Distance: 2.000000
+lines with words that have starting with a black letter , 2 or more times in total
+以黑字母开头的单词的行，总共2次或更多次
+
+ID: 39
+Source sent:
+lines beginning with a lower-case letter in front of digits
+Target sent:
+以数字前的小写字母开头的行
+
+Distance: 6.000000
+lines beginning with a lower-case sign in front of digits
+以数字开头的小写符号开头的行
+Distance: 5.000000
+lines beginning with a lower-case letter in place of digits
+以小写字母代替数字开头的行
+
+ID: 40
+Source sent:
+lines not containing only the string <M0> , no more than 3 times
+Target sent:
+仅包含字符串<M0>的行，最多不超过3次
+
+Distance: 6.000000
+lines not containing only the word <M0>, no more than 3 times
+仅包含单词<M0>的行，不超过3次
+Distance: 1.000000
+lines not containing only the string <M0>, no longer than 3 times
+仅包含字符串<M0>的行，不超过3次
+
+ID: 41
+Source sent:
+lines with a letter or containing the string <M0> , greater than or equal to zero times
+Target sent:
+字母或包含字符串<M0>的行，大于或等于零倍
+
+Distance: 7.000000
+lines with a letter or containing the word <M0>, greater than or equal to zero times
+字母或包含单词<M0>的行，大于或等于零倍
+Distance: 1.000000
+lines with a message or containing the string <M0>, greater than or equal to zero times
+包含消息或包含字符串<M0>的行，大于或等于零倍
+
+ID: 42
+Source sent:
+lines with the string <M0> , 6 or more times before numbers
+Target sent:
+字符串<M0>的行，数字前至少6次
+
+Distance: 3.000000
+lines with the letter <M0>, 6 or more times before numbers
+字母<M0>的行，在数字前至少6次
+
+ID: 43
+Source sent:
+lines with a vowel or a numeric character in front of a capital letter
+Target sent:
+在大写字母前带有元音或数字字符的行
+
+Distance: 2.000000
+lines with a vowel or a numeric character in front of a vowel letter
+在元音字母前带有元音或数字字符的行
+Distance: 1.000000
+lines with a vowel or a numeric character in place of a capital letter
+用元音或数字字符代替大写字母的行
+
+ID: 44
+Source sent:
+lines with a capital letter followed by the string <M0>
+Target sent:
+带有大写字母的行，后跟字符串<M0>
+
+Distance: 3.000000
+lines with a capital letter followed by the letter <M0 >
+带有大写字母的行，后跟字母<M0>
+
+ID: 45
+Source sent:
+lines ending with the string <M0>
+Target sent:
+以字符串<M0>结尾的行
+
+Distance: 3.000000
+lines ending with the word <M0 >
+以单词<M0>结尾的行
+
+ID: 46
+Source sent:
+rows preceded by a capital letter or vowels and a numeric character
+Target sent:
+以大写字母或元音和数字字符开头的行
+
+Distance: 3.000000
+rows preceded by a capital name or vowels and a numeric character
+大写字母或元音和数字字符开头的行
+Distance: 3.000000
+rows preceded by a capital letter or vowels and a single character
+以大写字母或元音和单个字符开头的行
+
+ID: 47
+Source sent:
+lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+Target sent:
+在不是元音的字符串之前用字符串<M0>排列的行2次或更多次
+
+Distance: 9.000000
+lines arranged with the string <M0> before a string that is not a person , 2 or more times
+在不是人的字符串之前，将字符串<M0>排列的行2次或更多次
+Distance: 7.000000
+lines arranged with the string <M0> before a vowel that is not a vowel , 2 or more times
+在不是元音的元音之前，用字符串<M0>排列的行2次或更多次
+Distance: 4.000000
+lines arranged with the letter <M0> before a string that is not a vowel , 2 or more times
+在不是元音的字符串之前用字母<M0>排列的行2次或更多次
+
+ID: 48
+Source sent:
+strings preceded by the string <M0> , 6 or more times
+Target sent:
+字符串后跟字符串<M0>，6次或更多次
+
+Distance: 17.000000
+strings preceded by the letter <M0>, 6 or more times
+以字母<M0>开头的字符串，超过6次
+
+ID: 49
+Source sent:
+lines arranged with a word that has the string <M0> followed by a character
+Target sent:
+包含单词<M0>的单词后跟一个字符的行
+
+Distance: 17.000000
+lines arranged with a word that has the form <M0> followed by a character
+排列的单词行，其形式为<M0>，后跟一个字符
+Distance: 9.000000
+lines arranged with a box that has the string <M0> followed by a character
+排列在带有字符串<M0>的框后的行
+
+ID: 50
+Source sent:
+lines starting with the string <M0> in front of a string that is not an uppercase letter
+Target sent:
+在不是大写字母的字符串前面以字符串<M0>开头的行
+
+Distance: 2.000000
+lines starting with the string <M0> in support of a string that is not an uppercase letter
+以字符串<M0>开头的行以支持不是大写字母的字符串
+
+ID: 51
+Source sent:
+strings with the string <M0> or a letter in front of a vowel
+Target sent:
+字符串<M0>或元音前面的字母的字符串
+
+Distance: 8.000000
+strings with the string <M0> or a letter in place of a vowel
+用字符串<M0>或字母代替元音的字符串
+Distance: 7.000000
+strings with the string <M0> or a person in front of a vowel
+字符串为<M0>的字符串或元音前面的人
+Distance: 1.000000
+strings with the word <M0> or a letter in front of a vowel
+单词<M0>或元音前面的字母的字符串
+
+ID: 52
+Source sent:
+lines with a lower-case letter , zero or greater times before a numeric character
+Target sent:
+小写字母的行，在数字字符前零次或多次
+
+Distance: 9.000000
+lines with a new letter, zero or greater times before a numeric character
+带有新字母的行，在数字字符之前零次或更多次
+Distance: 8.000000
+lines with a lower-case letter, zero or greater times before a black character
+小写字母的行，黑色字符前的零次或更多次
+
+ID: 53
+Source sent:
+lines are not words that end with a lower-case letter
+Target sent:
+行不是以小写字母结尾的单词
+
+Distance: 3.000000
+lines are not words that end with a single letter
+行不是以单个字母结尾的单词
+
+ID: 54
+Source sent:
+strings with words that have the string <M0> , zero or more times or the string <M1>
+Target sent:
+包含字符串<M0>，零次或多次或字符串<M1>的单词的字符串
+
+Distance: 11.000000
+strings with words that have the string <M0>, zero or more times or the letter <M1 >
+字符串为<M0>，零次或多次或字母为<M1>的单词的字符串
+Distance: 8.000000
+strings with characters that have the string <M0>, zero or more times or the string <M1 >
+字符串为<M0>，零次或多次或为<M1>的字符串
+Distance: 7.000000
+strings with words that have the word <M0>, zero or more times or the string <M1 >
+包含单词<M0>，零次或多次的字符串或字符串<M1>
+
+ID: 55
+Source sent:
+lines not having a letter , not a character , and not the string <M0>
+Target sent:
+行没有字母，字符而不是字符串<M0>
+
+Distance: 11.000000
+lines not having a name, not a character, and not the string <M0 >
+没有名称，字符和字符串<M0>的行
+Distance: 9.000000
+lines not having a letter, not a word, and not the string <M0 >
+行没有字母，没有单词，也没有字符串<M0>
+
+ID: 56
+Source sent:
+lines containing either the string <M0> , a lower case letter , or a capital letter
+Target sent:
+包含字符串<M0>，小写字母或大写字母的行
+
+Distance: 5.000000
+lines containing either the letter <M0>, a lower case letter, or a capital letter
+包含字母<M0>，小写字母或大写字母的行
+Distance: 1.000000
+lines containing either the string <M0>, a special case letter, or a capital letter
+包含字符串<M0>，特殊情况字母或大写字母的行
+
+ID: 57
+Source sent:
+rows not having lettered words instead of the string <M0>
+Target sent:
+没有字母单词而不是字符串<M0>的行
+
+Distance: 3.000000
+rows not having lettered words instead of the word <M0 >
+没有字母单词而不是单词<M0>的行
+
+ID: 58
+Source sent:
+lines with a number before either the string <M0> , the string <M1> , or the string <M2>
+Target sent:
+在字符串<M0>，字符串<M1>或字符串<M2>之前带有数字的行
+
+Distance: 6.000000
+lines with a name before either the string <M0>, the string <M1>, or the string <M2 >
+行名称在字符串<M0>，字符串<M1>或字符串<M2>之前
+Distance: 5.000000
+lines with a number before either the line <M0>, the string <M1>, or the string <M2 >
+在行<M0>，字符串<M1>或字符串<M2>之前带有数字的行
+Distance: 4.000000
+lines with a number before either the string <M0>, the line <M1>, or the string <M2 >
+在字符串<M0>，行<M1>或字符串<M2>之前带有数字的行
+
+ID: 59
+Source sent:
+lines with the string <M0> or a letter before the string <M1>
+Target sent:
+字符串<M0>或字符串<M1>前的字母
+
+Distance: 8.000000
+lines with the string <M0> or a year before the string <M1 >
+字符串<M0>或字符串<M1>前一年的行
+Distance: 4.000000
+lines with the string <M0> or a letter before the house <M1 >
+字符串<M0>或房子<M1>前的字母的行
+Distance: 3.000000
+lines with the word <M0> or a letter before the string <M1 >
+单词<M0>或字符串<M1>前的字母的行
+
+ID: 60
+Source sent:
+strings ending with a vowel at least once or an upper case letter
+Target sent:
+至少以一次元音或大写字母结尾的字符串
+
+Distance: 2.000000
+strings ending with a woman at least once or an upper case letter
+至少以一个女人结尾的字符串或一个大写字母
+Distance: 1.000000
+strings ending with a vowel at most once or an upper case letter
+最多以一次元音或大写字母结尾的字符串
+
+ID: 61
+Source sent:
+lines arranged with the string <M0> and the string <M1> or the string <M2> , zero or more times
+Target sent:
+字符串<M0>和字符串<M1>或字符串<M2>排列的行，零次或多次
+
+Distance: 5.000000
+lines arranged with the letter <M0> and the string <M1> or the string <M2>, zero or more times
+用字母<M0>和字符串<M1>或字符串<M2>排列的行，零次或多次
+Distance: 2.000000
+lines arranged with the string <M0> and the string <M1> or the letter <M2>, zero or more times
+字符串<M0>和字符串<M1>或字母<M2>排列的行，零次或多次
+
+ID: 62
+Source sent:
+lines not having a lowercase letter , not a character , and not an upper case letter
+Target sent:
+没有小写字母，没有字符和大写字母的行
+
+Distance: 11.000000
+lines not having a full letter, not a character, and not an upper case letter
+没有完整字母，字符，大写字母的行
+Distance: 5.000000
+lines not having a lowercase letter, not a sister, and not an upper case letter
+行没有小写字母，没有姐妹，也没有大写字母
+Distance: 5.000000
+lines not having a lowercase letter, not a character, and not an open case letter
+行没有小写字母，没有字符，也没有大写字母
+
+ID: 63
+Source sent:
+strings ending with the string <M0> then a character , zero or more times
+Target sent:
+以字符串<M0>结尾的字符串，然后是一个字符，零次或更多次
+
+Distance: 4.000000
+strings ending with the string <M0> then a number, zero or more times
+以字符串<M0>结尾的字符串，然后是一个数字，零次或多次
+Distance: 3.000000
+strings ending with the word <M0> then a character, zero or more times
+以单词<M0>结尾的字符串，然后是一个字符，零次或更多次
+
+ID: 64
+Source sent:
+lines not having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+Target sent:
+没有数字的行，不是字符串<M0>，而不是小写字母，而不是字符串<M1>
+
+Distance: 4.000000
+lines not having digits, not the line <M0>, instead of a lower-case letter instead of the string <M1 >
+没有数字的行，而不是<M0>，而不是小写字母，而不是字符串<M1>
+Distance: 3.000000
+lines not having digits, not the string <M0>, instead of a black letter instead of the string <M1 >
+没有数字的行，而不是字符串<M0>，而不是黑色字母，而不是字符串<M1>
+Distance: 2.000000
+lines not having digits, not the string <M0>, instead of a lower-case letter instead of the letter <M1 >
+没有数字的行，不是字符串<M0>，而不是小写字母，而不是字母<M1>
+
+ID: 65
+Source sent:
+rows not having a capitalized letter at least once
+Target sent:
+至少一次没有大写字母的行
+
+Distance: 1.000000
+rows not having a capitalized letter at most once
+最多一次没有大写字母的行
+
+ID: 66
+Source sent:
+lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+Target sent:
+带有3个或更多次小写字母或大写字母的单词的行
+
+Distance: 11.000000
+lines with a name that has a lower-case letter or an upper case letter , 3 or greater times
+名称名称包含小写字母或大写字母的行（最多3次）
+
+ID: 67
+Source sent:
+lines not having a lower-case letter , not a letter , and not a numeric character
+Target sent:
+没有小写字母，没有字母和数字字符的行
+
+Distance: 5.000000
+lines not having a lower-case character, not a letter, and not a numeric character
+没有小写字符，字母和数字字符的行
+
+ID: 68
+Source sent:
+lines not having the string <M0> or starting with the string <M1>
+Target sent:
+没有字符串<M0>或以字符串<M1>开头的行
+
+Distance: 4.000000
+lines not having the letter <M0> or starting with the string <M1 >
+没有字母<M0>或以字符串<M1>开头的行
+Distance: 2.000000
+lines not having the string <M0> or starting with the family <M1 >
+没有字符串<M0>或以家庭<M1>开头的行
+
+ID: 69
+Source sent:
+lines consisting of the string <M0> before the string <M1> or a letter
+Target sent:
+由字符串<M0>之前的字符串<M0>或字母组成的行
+
+Distance: 5.000000
+lines consisting of the string <M0> before the line <M1> or a letter
+由<M1>之前的字符串<M0>或字母组成的行
+Distance: 4.000000
+lines consisting of the string <m1> before the string <M1> or a letter
+在字符串<M1>之前的字符串<m1>或字母组成的行
+
+ID: 70
+Source sent:
+rows with words that have starting with lettered words at least one time
+Target sent:
+包含至少以字母开头的单词的行
+
+Distance: 7.000000
+rows with people that have starting with lettered words at least one time
+与至少以字母开头的人排一次
+
+ID: 71
+Source sent:
+strings with a letter followed by the string <M0> before a vowel
+Target sent:
+带有字母的字符串，后跟元音前的字符串<M0>
+
+Distance: 11.000000
+strings with a letter followed by the name <M0> before a vowel
+元音前带有字母后跟名称<M0>的字符串
+Distance: 2.000000
+strings with a vowel followed by the string <M0> before a vowel
+带元音的字符串，后跟元音之前的字符串<M0>
+
+ID: 72
+Source sent:
+lines containing a letter before the string <M0>
+Target sent:
+在字符串<M0>之前包含字母的行
+
+Distance: 3.000000
+lines containing a letter before the year <M0 >
+年份<M0>之前包含字母的行
+Distance: 2.000000
+lines containing a name before the string <M0 >
+在字符串<M0>之前包含名称的行
+
+ID: 73
+Source sent:
+lines with a lower-case letter before either the string <M0> , a number , or the string <M1>
+Target sent:
+在字符串<M0>，数字或字符串<M1>之前使用小写字母的行
+
+Distance: 8.000000
+lines with a lower-case letter before either the string <M0>, a letter, or the string <M1 >
+字符串<M0>，字母或字符串<M1>前的小写字母的行
+Distance: 8.000000
+lines with a new letter before either the string <M0>, a number, or the string <M1 >
+在字符串<M0>，数字或字符串<M1>之前用新字母的行
+Distance: 8.000000
+lines with a lower-case letter before either the text <M0>, a number, or the string <M1 >
+在文本<M0>，数字或字符串<M1>之前用小写字母的行
+
+ID: 74
+Source sent:
+lines consisting of the string <M0>
+Target sent:
+由字符串<M0>组成的行
+
+Distance: 5.000000
+lines consisting of the words <M0 >
+由单词<M0>组成的行
+
+ID: 75
+Source sent:
+lines containing either the string <M0> , characters , or the string <M1>
+Target sent:
+包含字符串<M0>，字符或字符串<M1>的行
+
+Distance: 4.000000
+lines containing either the string <M0>, characters, or the letter <M1 >
+包含字符串<M0>，字符或字母<M1>的行
+Distance: 3.000000
+lines containing either the text <M0>, characters, or the string <M1 >
+包含文本<M0>，字符或字符串<M1>的行
+
+ID: 76
+Source sent:
+lines arranged with the string <M0> followed by the string <M1> and not the string <M2>
+Target sent:
+行以字符串<M0>排列，后跟字符串<M1>，而不是字符串<M2>
+
+Distance: 13.000000
+lines arranged with the string <M0> followed by the letter <M1> and not the string <M2 >
+行以字符串<M0>和字母<M1>而不是字符串<M2>排列
+Distance: 5.000000
+lines arranged with the man <M0> followed by the string <M1> and not the string <M2 >
+由人<M0>排列的行，后跟字符串<M1>，而不是字符串<M2>
+Distance: 3.000000
+lines arranged with the string <M0> followed by the string <M1> and not the ring <M2 >
+行以字符串<M0>排列，后跟字符串<M1>，而不是环<M2>
+
+ID: 77
+Source sent:
+lines arranged with words that have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+Target sent:
+行排列为具有字符串<M0>或字符串<M1>，字符串<M2>或字符串<M3>的单词
+
+Distance: 9.000000
+lines arranged with words that have the word <M0> or either the string <M1>, the string <M2>, or the string <M3 >
+用单词<M0>或字符串<M1>，字符串<M2>或字符串<M3>排列的单词的行
+Distance: 7.000000
+lines arranged with letters that have the string <M0> or either the string <M1>, the string <M2>, or the string <M3 >
+包含字母<M0>或字符串<M1>，字符串<M2>或字符串<M3>的字母的行
+Distance: 7.000000
+lines arranged with words that have the string <M0> or either the letter <M1>, the string <M2>, or the string <M3 >
+包含单词<M0>或字母<M1>，字符串<M2>或字符串<M3>的单词排列的行
+
+ID: 78
+Source sent:
+lines not having characters , a lower-case letter , or numbers
+Target sent:
+没有字符，小写字母或数字的行
+
+Distance: 3.000000
+lines not having characters, a lower-case line, or numbers
+没有字符的行，小写的行或数字
+
+ID: 79
+Source sent:
+rows with the string <M0> in front of a number or the string <M1>
+Target sent:
+在数字前面或字符串<M1>前面的字符串<M0>的行
+
+Distance: 17.000000
+rows with the string <M0> in case of a number or the string <M1 >
+如果是数字，则为字符串<M0>的行；如果为数字，则为字符串<M1>的行
+Distance: 8.000000
+rows with the string <M0> in front of a door or the string <M1 >
+门前带有字符串<M0>或字符串<M1>的行
+Distance: 7.000000
+rows with the string <m1> in front of a number or the string <M1 >
+在数字前加上字符串<m1>或在字符串<M1>前面的行
+
+ID: 80
+Source sent:
+strings starting with vowels and ending with the string <M0>
+Target sent:
+以元音开头且以<M0>结尾的字符串
+
+Distance: 2.000000
+strings starting with vowels and ending with the word <M0 >
+以元音开头并以单词<M0>结尾的字符串
+
+ID: 81
+Source sent:
+lines not having a number , not a vowel , and not a lower-case letter
+Target sent:
+没有数字，没有元音和没有小写字母的行
+
+Distance: 6.000000
+lines not having a number, not a name, and not a lower-case letter
+没有数字，名字和小写字母的行
+Distance: 5.000000
+lines not having a number, not a vowel, and not a red letter
+行没有数字，元音和红色字母
+Distance: 3.000000
+lines not having a head, not a vowel, and not a lower-case letter
+没有头，没有元音，也没有小写字母的行
+
+ID: 82
+Source sent:
+lines composed of only the string <M0> , 7 or more times
+Target sent:
+仅由字符串<M0>组成的行，连续7次或更多次
+
+Distance: 6.000000
+lines composed of only the letters <M0>, 7 or more times
+仅由字母<M0>组成的行，最多7次
+
+ID: 83
+Source sent:
+lines with characters or a lower-case letter , four or more times
+Target sent:
+四行或更多行包含字符或小写字母的行
+
+Distance: 9.000000
+lines with characters or a single letter, four or more times
+用字符或单个字母组成的行，四次或更多次
+
+ID: 84
+Source sent:
+rows with words that have a character , 2 or greater times
+Target sent:
+包含2个或更多字符的单词的行
+
+Distance: 12.000000
+rows with words that have a lot , 2 or greater times
+包含很多次，两次或更多次的单词的行
+Distance: 4.000000
+rows with teams that have a character , 2 or greater times
+与具有2个或更多次角色的团队的行
+
+ID: 85
+Source sent:
+lines with a character then a lower-case letter , two or more consecutive times
+Target sent:
+连续两个或多个连续的字符行和一个小写字母
+
+Distance: 5.000000
+lines with a character then a long letter, two or more consecutive times
+连续两个或多个字符的行和一个长字母
+
+ID: 86
+Source sent:
+lines ending with the string <M0> or a vowel , 4 or more times
+Target sent:
+以字符串<M0>或元音结尾的行4次或更多次
+
+Distance: 4.000000
+lines ending with the string <M0> or a person , 4 or more times
+以字符串<M0>或一个人结尾的行4次或更多次
+
+ID: 87
+Source sent:
+strings with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+Target sent:
+字符串<M0>或字母和字符串<M1>的字符串，大于或等于零倍
+
+Distance: 8.000000
+strings with the string <M0> or letters and the string <M1>, more than or equal to zero times
+字符串<M0>或字母和字符串<M1>且大于或等于零倍的字符串
+
+ID: 88
+Source sent:
+lines ending with the string <M0>
+Target sent:
+以字符串<M0>结尾的行
+
+Distance: 3.000000
+lines ending with the word <M0 >
+以单词<M0>结尾的行
+
+ID: 89
+Source sent:
+rows containing a capital letter then a vowel in front of the string <M0>
+Target sent:
+包含大写字母，然后在字符串<M0>前面的元音的行
+
+Distance: 13.000000
+rows containing a capital letter then a vowel in support of the string <M0 >
+包含大写字母和元音的行，以支持字符串<M0>
+Distance: 7.000000
+rows containing a capital letter then a line in front of the string <M0 >
+包含大写字母的行，然后在字符串<M0>之前的一行
+
+ID: 90
+Source sent:
+strings starting with words that have the string <M0> , 6 or more times
+Target sent:
+以具有<M0>字符串的单词开头，至少6次的字符串
+
+Distance: 10.000000
+strings starting with companies that have the string <M0>, 6 or more times
+以具有字符串<M0>的公司开头的字符串，连续6次或更多次
+Distance: 10.000000
+strings starting with words that have the name <M0>, 6 or more times
+以名称为<M0>的单词开头的字符串，超过6次
+
+ID: 91
+Source sent:
+lines ending with a character followed by the string <M0> , 4 or greater times
+Target sent:
+以字符结尾的行，其后跟字符串<M0>，4次或更多次
+
+Distance: 15.000000
+lines ending with a letter followed by the string <M0>, 4 or greater times
+以字母结尾且后接字符串<M0>的行4次或更长时间
+Distance: 8.000000
+lines ending with a character followed by the letter <M0>, 4 or greater times
+以字符结尾且后跟字母<M0>的行4或更多次
+
+ID: 92
+Source sent:
+lines not having a digit , not a letter , and not a lower-case letter
+Target sent:
+没有数字，字母和小写字母的行
+
+Distance: 3.000000
+lines not having a digit, not a name, and not a lower-case letter
+行没有数字，名字和小写字母
+Distance: 1.000000
+lines not having a digit, not a letter, and not a black letter
+没有数字，字母和黑字的行
+
+ID: 93
+Source sent:
+lines not having the string <M0> , not vowels , and not a lower-case letter
+Target sent:
+行没有字符串<M0>，没有元音，也没有小写字母
+
+Distance: 3.000000
+lines not having the word <M0>, not vowels, and not a lower-case letter
+没有单词<M0>的行，没有元音，也没有小写字母
+Distance: 3.000000
+lines not having the string <M0>, not vowels, and not a single letter
+行没有字符串<M0>，没有元音，也没有单个字母
+
+ID: 94
+Source sent:
+lines with words that have starting with the string <M0> then a lower case letter
+Target sent:
+包含以<M0>开头的单词的行，然后是小写字母
+
+Distance: 12.000000
+lines with games that have starting with the string <M0> then a lower case letter
+开头为字符串<M0>然后是小写字母的游戏行
+Distance: 9.000000
+lines with words that have starting with the word <M0> then a lower case letter
+以单词<M0>开头，然后是小写字母的单词的行
+
+ID: 95
+Source sent:
+lines ending with a string that contains only a capital letter at least once
+Target sent:
+以至少包含一次大写字母的字符串结尾的行
+
+Distance: 4.000000
+lines ending with a string that contains only a capital name at least once
+以至少包含一个大写字母的字符串结尾的行
+Distance: 1.000000
+lines ending with a house that contains only a capital letter at least once
+以至少只包含一个大写字母的房子结尾的行
+
+ID: 96
+Source sent:
+lines with a vowel or using only the string <M0> at least once
+Target sent:
+用元音或仅使用字符串<M0>至少一次
+
+Distance: 6.000000
+lines with a vowel or using only the string <M0> at most once
+用元音或最多仅使用字符串<M0>的行
+Distance: 5.000000
+lines with a name or using only the string <M0> at least once
+名称或仅使用字符串<M0>的行至少一次
+Distance: 4.000000
+lines with a vowel or using only the letter <M0> at least once
+用元音或仅使用字母<M0>的行至少一次
+
+ID: 97
+Source sent:
+lines containing the string <M0> or a capital letter followed by characters
+Target sent:
+包含字符串<M0>或大写字母后跟字符的行
+
+Distance: 2.000000
+lines containing the form <M0> or a capital letter followed by characters
+包含形式<M0>或大写字母后跟字符的行
+Distance: 2.000000
+lines containing the string <M0> or a capital form followed by characters
+包含字符串<M0>或大写形式后跟字符的行
+
+ID: 98
+Source sent:
+lines arranged with a character in front of a vowel or the string <M0> , zero or more times
+Target sent:
+在元音或字符串<M0>前面用字符排列的行，零次或多次
+
+Distance: 9.000000
+lines arranged with a character in front of a vowel or the word <M0>, zero or more times
+在元音或单词<M0>前面排列有字符的行，零次或多次
+Distance: 8.000000
+lines arranged with a letter in front of a vowel or the string <M0>, zero or more times
+在元音或字符串<M0>前面以字母排列的行，零次或多次
+Distance: 7.000000
+lines arranged with a character in favor of a vowel or the string <M0>, zero or more times
+零次或多次以字母，元音或字符串<M0>开头的字符排列的行
+
+ID: 99
+Source sent:
+lines with a character , greater than or equal to two times in front of a digit
+Target sent:
+在一个数字前大于或等于两倍字符的行
+
+Distance: 12.000000
+lines with a character, more than or equal to two times in front of a digit
+字符前的行，在数字前大于或等于两次
+Distance: 10.000000
+lines with a name, greater than or equal to two times in front of a digit
+名称前几位大于或等于两倍的行
+Distance: 5.000000
+lines with a character, greater than or equal to two times in charge of a digit
+字符大于或等于两倍的数字的行
+
+ID: 100
+Source sent:
+lines with a character before a vowel and containing a lower-case letter
+Target sent:
+在元音前带有字符且包含小写字母的行
+
+Distance: 10.000000
+lines with a character before a vowel and containing a single letter
+在元音前且包含单个字母的字符的行
+Distance: 3.000000
+lines with a character before a name and containing a lower-case letter
+名称前带有字符并包含小写字母的行
+
+ID: 101
+Source sent:
+lines with the string <M0> or not characters at least one time
+Target sent:
+至少一次用字符串<M0>或不是字符的行
+
+Distance: 16.000000
+lines with the combination <M0> or not characters at least one time
+至少有一次字符组合<M0>的行
+
+ID: 102
+Source sent:
+lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>
+Target sent:
+包含字母，字符串<M0>或字符串<M1>前面的大写字母的行
+
+Distance: 6.000000
+lines having either a letter, the language <M0>, or an upper case letter in front of the string <M1 >
+在字符串<M1>前面具有字母，语言<M0>或大写字母的行
+Distance: 2.000000
+lines having either a name, the string <M0>, or an upper case letter in front of the string <M1 >
+具有名称，字符串<M0>或字符串<M1>前面的大写字母的行
+Distance: 2.000000
+lines having either a letter, the string <M0>, or an upper case letter in front of the letter <M1 >
+包含字母，字符串<M0>或字母<M1>前面的大写字母的行
+
+ID: 103
+Source sent:
+lines arranged with the string <M0> before the string <M1> or a number and the string <M2>
+Target sent:
+在字符串<M1>之前的字符串<M0>或数字和字符串<M2>排列的行
+
+Distance: 8.000000
+lines arranged with the string <M0> before the string <M1> or a number and the string <m1 >
+在字符串<M1>之前以字符串<M0>或数字和字符串<m1>排列的行
+Distance: 6.000000
+lines arranged with the string <M0> before the letter <M1> or a number and the string <M2 >
+以字母<M1>开头的字符串<M0>或数字和字符串<M2>排列的行
+Distance: 6.000000
+lines arranged with the string <M0> before the string <M1> or a number and the letter <M2 >
+在字符串<M1>之前的字符串<M0>或数字和字母<M2>排列的行
+
+ID: 104
+Source sent:
+lines with a character followed by a vowel , 2 or more times
+Target sent:
+字符后跟元音的行，两次或多次
+
+Distance: 8.000000
+lines with a consonant followed by a vowel , 2 or more times
+带有辅音和元音的行，两次或多次
+Distance: 8.000000
+lines with a character followed by a letter , 2 or more times
+字符后跟一个字母的行，两次或更多次
+
+ID: 105
+Source sent:
+lines with the string <M0> followed by a lower-case letter
+Target sent:
+包含字符串<M0>的行，后跟小写字母
+
+Distance: 12.000000
+lines with the string <M0> followed by a red letter
+带有字符串<M0>的行，后跟一个红色字母
+Distance: 9.000000
+lines with the name <M0> followed by a lower-case letter
+名称为<M0>的行，后接小写字母
+
+ID: 106
+Source sent:
+lines with a lower-case letter then a digit in front of an upper case letter
+Target sent:
+带有小写字母的行，然后是大写字母前面的数字
+
+Distance: 9.000000
+lines with a new letter then a digit in front of an upper case letter
+用新字母开头的行，然后在大写字母前面加上一个数字
+Distance: 9.000000
+lines with a lower-case letter then a digit in place of an upper case letter
+用小写字母的行，然后用数字代替大写字母
+
+ID: 107
+Source sent:
+lines not having the string <M0> , a character , or the string <M1>
+Target sent:
+没有字符串<M0>，字符或字符串<M1>的行
+
+Distance: 3.000000
+lines not having the word <M0>, a character, or the string <M1 >
+没有单词<M0>，字符或字符串<M1>的行
+Distance: 2.000000
+lines not having the string <M0>, a character, or the letter <M1 >
+行不包含字符串<M0>，字符或字母<M1>
+
+ID: 108
+Source sent:
+lines with words that have a character or the string <M0> before the string <M1>
+Target sent:
+在字符串<M1>之前带有字符或字符串<M0>的单词的行
+
+Distance: 13.000000
+lines with words that have a character or the word <M0> before the string <M1 >
+在字符串<M1>之前带有字符或单词<M0>的单词的行
+Distance: 9.000000
+lines with letters that have a character or the string <M0> before the string <M1 >
+带有字母的行，其中包含字符或字符串<M1>之前的字符串
+Distance: 7.000000
+lines with words that have a character or the string <m1> before the string <M1 >
+包含字符或在字符串<M1>之前的字符串<m1>的单词的行
+
+ID: 109
+Source sent:
+lines arranged with a number , 4 or more times
+Target sent:
+行数大于或等于4次
+
+Distance: 8.000000
+lines arranged with a man , 4 or more times
+与一个人排列的线，4次以上
+
+ID: 110
+Source sent:
+strings with a word that has a vowel before a lower-case letter
+Target sent:
+小写字母前带有元音的单词的字符串
+
+Distance: 6.000000
+strings with a word that has a name before a lower-case letter
+名称在小写字母前的单词的字符串
+Distance: 5.000000
+strings with a word that has a vowel before a black letter
+带有黑色字母前有元音的单词的字符串
+Distance: 4.000000
+strings with a child that has a vowel before a lower-case letter
+带有在小写字母前有元音的孩子的字符串
+
+ID: 111
+Source sent:
+lines arranged with words that have a character , 0 or more times
+Target sent:
+包含0次或以上字符的单词的行
+
+Distance: 6.000000
+lines arranged with words that have a name , 0 or more times
+排列的行的名称为0次或多次
+Distance: 4.000000
+lines arranged with cars that have a character , 0 or more times
+排列有0个或更多字符的汽车的行
+
+ID: 112
+Source sent:
+lines with a letter , zero or greater times before a character
+Target sent:
+字符前的字母行，零次或更多次
+
+Distance: 5.000000
+lines with a gun, zero or greater times before a character
+在字符前用枪行，零次或更多次
+
+ID: 113
+Source sent:
+strings starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+Target sent:
+以字符串<M0>开头，然后是字符串<M1>的字符串，大于或等于4倍
+
+Distance: 7.000000
+strings starting with the word <M0> followed by the string <M1>, greater than or equal to 4 times
+字符串，以单词<M0>开头，后跟字符串<M1>，大于或等于4倍
+Distance: 6.000000
+strings starting with the string <M0> followed by the letter <M1>, greater than or equal to 4 times
+字符串，以字符串<M0>开头，后跟字母<M1>，大于或等于4倍
+
+ID: 114
+Source sent:
+rows with words that have a number , 5 or more times
+Target sent:
+行数大于等于5的单词
+
+Distance: 9.000000
+rows with clubs that have a number , 5 or more times
+与数字大于或等于5次的球杆排在一起
+Distance: 9.000000
+rows with words that have a lot , 5 or more times
+包含5次或多次的单词的行
+
+ID: 115
+Source sent:
+the line begins with a vowel or the string <M0>
+Target sent:
+该行以元音或字符串<M0>开头
+
+Distance: 1.000000
+the line begins with a vowel or the word <M0 >
+该行以元音或单词<M0>开头
+
+ID: 116
+Source sent:
+lines not having a lower-case letter and not a number
+Target sent:
+行没有小写字母而不是数字
+
+Distance: 14.000000
+lines not having a single letter and not a number
+行没有一个字母而不是一个数字
+
+ID: 117
+Source sent:
+lines with the string <M0> before a vowel or a numeric character
+Target sent:
+在元音或数字字符之前的字符串<M0>
+
+Distance: 8.000000
+lines with the letter <M0> before a vowel or a numeric character
+在元音或数字字符前加字母<M0>的行
+
+ID: 118
+Source sent:
+lines with words that have the string <M0> or composed of the string <M1>
+Target sent:
+包含<M0>字符串或由<M1>字符串组成的单词的行
+
+Distance: 9.000000
+lines with teams that have the string <M0> or composed of the string <M1 >
+与具有字符串<M0>或由字符串<M1>组成的团队的行
+Distance: 9.000000
+lines with words that have the word <M0> or composed of the string <M1 >
+包含单词<M0>或由字符串<M1>组成的单词的行
+Distance: 6.000000
+lines with words that have the string <M0> or composed of the letter <M1 >
+包含字符串<M0>或由字母<M1>组成的单词的行
+
+ID: 119
+Source sent:
+lines starting with a letter before a character
+Target sent:
+以字符前的字母开头的行
+
+Distance: 6.000000
+lines starting with a child before a character
+以字符开头的孩子开头的行
+
+ID: 120
+Source sent:
+lines with words that contain either a vowel , the string <M0> , or the string <M1>
+Target sent:
+行中包含元音，字符串<M0>或字符串<M1>的单词
+
+Distance: 5.000000
+lines with letters that contain either a vowel, the string <M0>, or the string <M1 >
+包含元音，字符串<M0>或字符串<M1>的字母的行
+Distance: 5.000000
+lines with words that contain either a vowel, the line <M0>, or the string <M1 >
+包含元音，行<M0>或字符串<M1>的单词的行
+Distance: 2.000000
+lines with words that contain either a vowel, the string <m1>, or the string <M1 >
+行中包含元音，字符串<m1>或字符串<M1>的单词的行
+
+ID: 121
+Source sent:
+lines with a lower-case letter then a digit in front of an upper case letter
+Target sent:
+带有小写字母的行，然后是大写字母前面的数字
+
+Distance: 9.000000
+lines with a new letter then a digit in front of an upper case letter
+用新字母开头的行，然后在大写字母前面加上一个数字
+Distance: 9.000000
+lines with a lower-case letter then a digit in place of an upper case letter
+用小写字母的行，然后用数字代替大写字母
+
+ID: 122
+Source sent:
+lines arranged with a number , 4 or more times
+Target sent:
+行数大于或等于4次
+
+Distance: 8.000000
+lines arranged with a man , 4 or more times
+与一个人排列的线，4次以上
+
+ID: 123
+Source sent:
+rows starting with the string <M0> then the string <M1> , greater than or equal to 5 times
+Target sent:
+从字符串<M0>到字符串<M1>的行，大于或等于5倍
+
+Distance: 10.000000
+rows starting with the word <M0> then the string <M1>, greater than or equal to 5 times
+以单词<M0>开头的行，然后是字符串<M1>的行，大于或等于5次
+Distance: 7.000000
+rows starting with the string <m1> then the string <M1>, greater than or equal to 5 times
+以字符串<m1>开头的行，然后是字符串<M1>，大于或等于5倍
+Distance: 4.000000
+rows starting with the string <M0> then the symbol <M1>, greater than or equal to 5 times
+从字符串<M0>到符号<M1>的行，大于或等于5次
+
+ID: 124
+Source sent:
+lines not having the string <M0> , not characters , nor the string <M1>
+Target sent:
+行没有字符串<M0>，没有字符，也没有字符串<M1>
+
+Distance: 5.000000
+lines not having the word <M0>, not characters, nor the string <M1 >
+行中没有单词<M0>，没有字符，也没有字符串<M1>
+Distance: 1.000000
+lines not having the string <m1>, not characters, nor the string <M1 >
+行没有字符串<m1>，没有字符，也没有字符串<M1>
+
+ID: 125
+Source sent:
+the line starts with a vowel or containing the string <M0>
+Target sent:
+该行以元音开头或包含字符串<M0>
+
+Distance: 3.000000
+the line starts with a vowel or containing the word <M0 >
+该行以元音开头或包含单词<M0>
+
+ID: 126
+Source sent:
+rows are not a word that has a vowel , not a lower-case letter , instead of the string <M0>
+Target sent:
+行不是具有元音的单词，不是小写字母，而不是字符串<M0>
+
+Distance: 10.000000
+rows are not a name that has a vowel, not a lower-case letter, instead of the string <M0 >
+行不是具有元音而不是小写字母的名称，而不是字符串<M0>
+Distance: 8.000000
+rows are not a word that has a name, not a lower-case letter, instead of the string <M0 >
+行不是具有名称而不是小写字母的单词，而不是字符串<M0>
+Distance: 8.000000
+rows are not a word that has a vowel, not a new letter, instead of the string <M0 >
+行不是具有元音而不是新字母的单词，而不是字符串<M0>
+
+ID: 127
+Source sent:
+the line starts with a vowel or containing the string <M0>
+Target sent:
+该行以元音开头或包含字符串<M0>
+
+Distance: 3.000000
+the line starts with a vowel or containing the word <M0 >
+该行以元音开头或包含单词<M0>
+
+ID: 128
+Source sent:
+lines consisting of the string <M0>
+Target sent:
+由字符串<M0>组成的行
+
+Distance: 5.000000
+lines consisting of the words <M0 >
+由单词<M0>组成的行
+
+ID: 129
+Source sent:
+rows with words that don't have a vowel at least once
+Target sent:
+至少一次没有元音的单词的行
+
+Distance: 6.000000
+rows with words that don't have a vowel at most once
+带有最多一次没有元音的单词的行
+Distance: 4.000000
+rows with people that don't have a vowel at least once
+与至少没有元音的人排一次
+Distance: 1.000000
+rows with words that don't have a girl at least once
+带有至少一次没有女孩的单词的行
+
+ID: 130
+Source sent:
+lines with words that don't have a character , 0 or more times
+Target sent:
+没有字符的单词行，0次或多次
+
+Distance: 8.000000
+lines with words that don't have a number , 0 or more times
+没有数字，0次或多次的单词的行
+Distance: 6.000000
+lines with people that don't have a character , 0 or more times
+与没有性格的人共处0次或以上
+
+ID: 131
+Source sent:
+lines not having a capital letter and not a character in front of a letter
+Target sent:
+行没有大写字母，也不在字母前面
+
+Distance: 8.000000
+lines not having a capital letter and not a name in front of a letter
+行没有大写字母，也没有在字母前面的名称
+Distance: 4.000000
+lines not having a capital letter and not a character in place of a letter
+行没有大写字母，也没有字符代替字母
+Distance: 3.000000
+lines not having a capital character and not a character in front of a letter
+行没有大写字母，也没有字母前面的字符
+
+ID: 132
+Source sent:
+lines arranged with a capitalized letter followed by a lower-case letter before the string <M0> or lettered words
+Target sent:
+在字符串<M0>之前的大写字母后跟小写字母的行或带字母的单词
+
+Distance: 13.000000
+lines arranged with a capitalized number followed by a lower-case letter before the string <M0> or lettered words
+以大写数字排列的行，后跟字符串<M0>或字母单词的小写字母
+Distance: 11.000000
+lines arranged with a capitalized letter followed by a lower-case symbol before the string <M0> or lettered words
+在行<M0>或字母单词之前，用大写字母后跟小写符号的行
+
+ID: 133
+Source sent:
+lines with the string <M0> or containing only the string <M1> , three or more times
+Target sent:
+包含字符串<M0>或仅包含字符串<M1>的行三遍或更多遍
+
+Distance: 9.000000
+lines with the word <M0> or containing only the string <M1>, three or more times
+包含单词<M0>的行或仅包含字符串<M1>的行三遍或三遍以上
+Distance: 4.000000
+lines with the string <M0> or containing only the letter <M1>, three or more times
+包含字符串<M0>或仅包含字母<M1>的行三遍或三遍以上
+
+ID: 134
+Source sent:
+lines with the string <M0> before the string <M1> or a letter
+Target sent:
+在字符串<M1>之前的字符串<M0>或字母
+
+Distance: 6.000000
+lines with the string <M0> before the letter <M1> or a letter
+在字母<M1>或字母之前的字符串<M0>的行
+Distance: 5.000000
+lines with the word <M0> before the string <M1> or a letter
+在字符串<M1>或字母之前的单词<M0>
+
+ID: 135
+Source sent:
+lines with words that have starting with the string <M0> or the string <M1>
+Target sent:
+以以字符串<M0>或字符串<M1>开头的单词的行
+
+Distance: 4.000000
+lines with words that have starting with the word <M0> or the string <M1 >
+以单词<M0>或字符串<M1>开头的单词的行
+Distance: 2.000000
+lines with words that have starting with the string <M0> or the letter <M1 >
+以以字符串<M0>或字母<M1>开头的单词的行
+Distance: 1.000000
+lines with letters that have starting with the string <M0> or the string <M1 >
+以字母<M0>或字符串<M1>开头的字母的行
+
+ID: 136
+Source sent:
+strings with the string <M0> , 3 or more times or starting with numbers
+Target sent:
+字符串<M0>的字符串，至少3次或以数字开头
+
+Distance: 13.000000
+strings with the letter <M0>, 3 or more times or starting with numbers
+字母为<M0>，3次或更多次或以数字开头的字符串
+
+ID: 137
+Source sent:
+lines with the string <M0> , 3 or more times or a vowel followed by the string <M1>
+Target sent:
+字符串<M0>的行，3次或更多次或元音后跟字符串<M1>
+
+Distance: 14.000000
+lines with the string <M0>, 3 or more times or a lot followed by the string <M1 >
+包含字符串<M0>的行，3次或多次或更多后跟字符串<M1>
+Distance: 13.000000
+lines with the string <M0>, 3 or more times or a vowel followed by the letter <M1 >
+包含字符串<M0>的行，3次或更多次或一个元音后跟字母<M1>
+Distance: 9.000000
+lines with the string <m1>, 3 or more times or a vowel followed by the string <M1 >
+包含字符串<m1>的行，3次或更多次或一个元音后跟字符串<M1>
+
+ID: 138
+Source sent:
+lines not having the string <M0> or numbers in front of a lower-case letter
+Target sent:
+没有字符串<M0>或小写字母前面的数字的行
+
+Distance: 9.000000
+lines not having the string <M0> or numbers in place of a lower-case letter
+没有字符串<M0>或数字代替小写字母的行
+
+ID: 139
+Source sent:
+lines composed of an upper case letter before characters
+Target sent:
+在字符前由大写字母组成的行
+
+Distance: 2.000000
+lines composed of an old case letter before characters
+由字符前的旧字母组成的行
+
+ID: 140
+Source sent:
+lines starting with words that have a capitalized letter followed by a character
+Target sent:
+以大写字母开头，后跟一个字符的单词开头的行
+
+Distance: 5.000000
+lines starting with companies that have a capitalized letter followed by a character
+从以大写字母后跟一个字符的公司开头的行
+
+ID: 141
+Source sent:
+lines with a number before a vowel or the string <M0>
+Target sent:
+在元音前的数字或字符串<M0>的行
+
+Distance: 7.000000
+lines with a number before a vowel or the name <M0 >
+在元音前加上数字或名称<M0>的行
+Distance: 6.000000
+lines with a word before a vowel or the string <M0 >
+在元音前加上单词或字符串<M0>的行
+Distance: 6.000000
+lines with a number before a letter or the string <M0 >
+在字母或字符串<M0>之前带有数字的行
+
+ID: 142
+Source sent:
+lines having either a lower-case letter , a vowel , or a capital letter before a character
+Target sent:
+字符前面有小写字母，元音或大写字母的行
+
+Distance: 5.000000
+lines having either a lower-case letter, a vowel, or a capital number before a character
+在字符前具有小写字母，元音或大写字母的行
+Distance: 4.000000
+lines having either a front letter, a vowel, or a capital letter before a character
+字符前有前字母，元音或大写字母的行
+
+ID: 143
+Source sent:
+lines ending with an upper case letter or not the string <M0>
+Target sent:
+行以大写字母结尾或不是字符串<M0>
+
+Distance: 5.000000
+lines ending with an odd case letter or not the string <M0 >
+行以不区分大小写的字母结尾或不是字符串<M0>
+
+ID: 144
+Source sent:
+lines with a letter or a lower-case letter , greater than or equal to 2 times
+Target sent:
+字母或小写字母的行，大于或等于2倍
+
+Distance: 5.000000
+lines with a letter or a lower-case sign, greater than or equal to 2 times
+带有字母或小写符号的行，大于或等于2倍
+Distance: 5.000000
+lines with a letter or a lower-case letter, more than or equal to 2 times
+带有字母或小写字母的行，大于或等于2次
+
+ID: 145
+Source sent:
+lines arranged with words that have the string <M0> then the string <M1> at least once
+Target sent:
+包含单词<M0>然后字符串<M1>的单词排列的行至少一次
+
+Distance: 14.000000
+lines arranged with words that have the form <M0> then the string <M1> at least once
+排列的单词的行形式至少为<M0>，然后为字符串<M1>
+Distance: 10.000000
+lines arranged with words that have the string <M0> then the string <M1> at most once
+行排列的单词最多包含一次字符串<M0>然后是字符串<M1>
+Distance: 7.000000
+lines arranged with words that have the string <m1> then the string <M1> at least once
+包含单词<m1>然后字符串<M1>的单词排列的行至少一次
+
+ID: 146
+Source sent:
+lines with a character followed by a vowel , 2 or more times
+Target sent:
+字符后跟元音的行，两次或多次
+
+Distance: 8.000000
+lines with a consonant followed by a vowel , 2 or more times
+带有辅音和元音的行，两次或多次
+Distance: 8.000000
+lines with a character followed by a letter , 2 or more times
+字符后跟一个字母的行，两次或更多次
+
+ID: 147
+Source sent:
+lines composed of letters then the string <M0> , 7 or more times
+Target sent:
+由字母和字符串<M0>组成的行，共7次或更多次
+
+Distance: 5.000000
+lines composed of letters then the word <M0>, 7 or more times
+由字母和单词<M0>组成的行7次或更多次
+
+ID: 148
+Source sent:
+lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>
+Target sent:
+行包含小写字母，字符串<M0>或字符串<M1>前面的字符
+
+Distance: 3.000000
+lines having either a lower case letter, the word <M0>, or characters in front of the string <M1 >
+行包含小写字母，单词<M0>或字符串<M1>前面的字符
+Distance: 3.000000
+lines having either a lower case letter, the string <M0>, or characters in case of the string <M1 >
+行包含小写字母，字符串<M0>或字符串<M1>
+Distance: 2.000000
+lines having either a lower case letter, the string <M0>, or characters in front of the letter <M1 >
+行包含小写字母，字符串<M0>或字母<M1>前面的字符
+
+ID: 149
+Source sent:
+strings with a lowercase letter , no more than 6 times
+Target sent:
+带有小写字母的字符串，不超过6次
+
+Distance: 4.000000
+strings with a lowercase letter, no less than 6 times
+带有小写字母的字符串，不少于6次
+
+ID: 150
+Source sent:
+the line starts with a vowel or containing the string <M0>
+Target sent:
+该行以元音开头或包含字符串<M0>
+
+Distance: 3.000000
+the line starts with a vowel or containing the word <M0 >
+该行以元音开头或包含单词<M0>
+
+ID: 151
+Source sent:
+lines ending with the string <M0> followed by a character , up to 3 times
+Target sent:
+以字符串<M0>结尾的行，后跟一个字符，最多3次
+
+Distance: 9.000000
+lines ending with the word <M0> followed by a character, up to 3 times
+以单词<M0>结尾的行，后跟一个字符，最多3次
+Distance: 8.000000
+lines ending with the string <M0> followed by a string, up to 3 times
+以字符串<M0>结尾的行，然后是字符串，最多3次
+
+ID: 152
+Source sent:
+lines are not a word that has the string <M0> followed by a numeric character
+Target sent:
+行不是包含字符串<M0>后跟数字字符的单词
+
+Distance: 3.000000
+lines are not a word that has the name <M0> followed by a numeric character
+行不是名称为<M0>的单词，后跟数字字符
+Distance: 3.000000
+lines are not a word that has the string <M0> followed by a chinese character
+行不是包含字符串<M0>后跟汉字的单词
+
+ID: 153
+Source sent:
+strings not having the string <M0> before either a vowel , the string <M1> , or a character
+Target sent:
+元音，字符串<M1>或字符前没有字符串<M0>的字符串
+
+Distance: 6.000000
+strings not having the letter <M0> before either a vowel, the string <M1>, or a character
+元音，字符串<M1>或字符前没有字母<M0>的字符串
+Distance: 3.000000
+strings not having the string <M0> before either a character, the string <M1>, or a character
+在字符，字符串<M1>或字符之前没有字符串<M0>的字符串
+
+ID: 154
+Source sent:
+lines arranged with vowels or the string <M0> , up to 7 times in total
+Target sent:
+用元音或字符串<M0>排列的行，总共最多7次
+
+Distance: 3.000000
+lines arranged with vowels or the string <M0>, up to 7 letters in total
+用元音或字符串<M0>排列的行，总共最多7个字母
+
+ID: 155
+Source sent:
+lines starting with the string <M0> or a vowel
+Target sent:
+以字符串<M0>或元音开头的行
+
+Distance: 1.000000
+lines starting with the word <M0> or a vowel
+以单词<M0>或元音开头的行
+
+ID: 156
+Source sent:
+strings with lettered words followed by the string <M0> before vowels
+Target sent:
+带字母单词的字符串，后跟元音前的字符串<M0>
+
+Distance: 5.000000
+strings with lettered words followed by the letter <M0> before vowels
+带有字母单词的字符串，后跟元音前的字母<M0>
+
+ID: 157
+Source sent:
+lines not having a lower-case letter , not a capital letter , and not the string <M0>
+Target sent:
+没有小写字母，大写字母和字符串<M0>的行
+
+Distance: 4.000000
+lines not having a lower-case sign, not a capital letter, and not the string <M0 >
+没有小写符号，大写字母和字符串<M0>的行
+
+ID: 158
+Source sent:
+lines with an uppercase letter , zero or more times in front of a digit
+Target sent:
+大写字母的行，在数字前零次或多次
+
+Distance: 16.000000
+lines with an open letter, zero or more times in front of a digit
+带有零个字母或零个字母的行
+Distance: 15.000000
+lines with an uppercase letter, zero or more lives in front of a digit
+带有大写字母的行，零个或多个位于数字的前面
+Distance: 12.000000
+lines with an uppercase letter, zero or more times in search of a digit
+带有大写字母的行，零次或多次查找数字
+
+ID: 159
+Source sent:
+lines ending with the string <M0> followed by a character , up to 3 times
+Target sent:
+以字符串<M0>结尾的行，后跟一个字符，最多3次
+
+Distance: 9.000000
+lines ending with the word <M0> followed by a character, up to 3 times
+以单词<M0>结尾的行，后跟一个字符，最多3次
+Distance: 8.000000
+lines ending with the string <M0> followed by a string, up to 3 times
+以字符串<M0>结尾的行，然后是字符串，最多3次
+
+ID: 160
+Source sent:
+lines arranged with a number or a lower-case letter , up to 3 times in total
+Target sent:
+以数字或小写字母排列的行，总共最多3次
+
+Distance: 5.000000
+lines arranged with a number or a lower-case letter, up to 3 letters in total
+以数字或小写字母排列的行，总共最多3个字母
+
+ID: 161
+Source sent:
+lines not having an upper case letter , not a letter , and not a character
+Target sent:
+没有大写字母，没有字母和字符的行
+
+Distance: 5.000000
+lines not having an upper case character, not a letter, and not a character
+没有大写字母，字母和字符的行
+Distance: 4.000000
+lines not having an open case letter, not a letter, and not a character
+行没有大写字母，字母和字符
+Distance: 4.000000
+lines not having an upper case letter, not a name, and not a character
+行没有大写字母，名字和字符
+
+ID: 162
+Source sent:
+lines not ending with a letter and not a lower-case letter
+Target sent:
+行不以字母结尾，而不是小写字母
+
+Distance: 10.000000
+lines not ending with a word and not a lower-case letter
+不以单词结尾且不是小写字母的行
+Distance: 1.000000
+lines not ending with a letter and not a black letter
+行不以字母结尾而不是黑色字母
+
+ID: 163
+Source sent:
+lines not containing only the string <M0> , no more than 3 times
+Target sent:
+仅包含字符串<M0>的行，最多不超过3次
+
+Distance: 6.000000
+lines not containing only the word <M0>, no more than 3 times
+仅包含单词<M0>的行，不超过3次
+Distance: 1.000000
+lines not containing only the string <M0>, no longer than 3 times
+仅包含字符串<M0>的行，不超过3次
+
+ID: 164
+Source sent:
+lines consisting of the string <M0>
+Target sent:
+由字符串<M0>组成的行
+
+Distance: 5.000000
+lines consisting of the words <M0 >
+由单词<M0>组成的行
+
+ID: 165
+Source sent:
+lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+Target sent:
+在不是元音的字符串之前用字符串<M0>排列的行2次或更多次
+
+Distance: 9.000000
+lines arranged with the string <M0> before a string that is not a person , 2 or more times
+在不是人的字符串之前，将字符串<M0>排列的行2次或更多次
+Distance: 7.000000
+lines arranged with the string <M0> before a vowel that is not a vowel , 2 or more times
+在不是元音的元音之前，用字符串<M0>排列的行2次或更多次
+Distance: 4.000000
+lines arranged with the letter <M0> before a string that is not a vowel , 2 or more times
+在不是元音的字符串之前用字母<M0>排列的行2次或更多次
+
+ID: 166
+Source sent:
+lines with the string <M0> at least once or containing a capital letter
+Target sent:
+至少一次用字符串<M0>或包含大写字母的行
+
+Distance: 6.000000
+lines with the string <M0> at most once or containing a capital letter
+最多包含一次字符串<M0>或包含大写字母的行
+Distance: 4.000000
+lines with the sign <M0> at least once or containing a capital letter
+至少用一次符号<M0>行或包含大写字母
+
+ID: 167
+Source sent:
+strings with vowels in front of the string <M0> , up to 7 times
+Target sent:
+字符串<M0>前面带有元音的字符串，最多7次
+
+Distance: 6.000000
+strings with vowels in control of the string <M0>, up to 7 times
+用元音控制的字符串<M0>，最多7次
+
+ID: 168
+Source sent:
+lines containing a vowel or lettered words , no more than 6 times
+Target sent:
+包含元音或字母单词的行，不得超过6次
+
+Distance: 4.000000
+lines containing a vowel or other words, no more than 6 times
+包含元音或其他字词的行，最多不超过6次
+Distance: 1.000000
+lines containing a letter or lettered words, no more than 6 times
+包含字母或字母单词的行，不超过6次
+Distance: 1.000000
+lines containing a vowel or lettered words, no longer than 6 times
+包含元音或字母单词的行，不超过6次
+
+ID: 169
+Source sent:
+rows with words that don't have a vowel at least once
+Target sent:
+至少一次没有元音的单词的行
+
+Distance: 6.000000
+rows with words that don't have a vowel at most once
+带有最多一次没有元音的单词的行
+Distance: 4.000000
+rows with people that don't have a vowel at least once
+与至少没有元音的人排一次
+Distance: 1.000000
+rows with words that don't have a girl at least once
+带有至少一次没有女孩的单词的行
+
+ID: 170
+Source sent:
+lines not containing only the string <M0> , greater than or equal to 0 times
+Target sent:
+仅包含字符串<M0>的行，大于或等于0次
+
+Distance: 4.000000
+lines not containing only the letter <M0>, greater than or equal to 0 times
+仅包含字母<M0>的行，大于或等于0次
+
+ID: 171
+Source sent:
+rows with the string <M0> or ending with the string <M1> , six or more times
+Target sent:
+包含字符串<M0>或以字符串<M1>结尾的行六次或更多次
+
+Distance: 4.000000
+rows with the string <M0> or ending with the letter <M1>, six or more times
+字符串<M0>或字母<M1>结尾的行六次或更多次
+Distance: 3.000000
+rows with the word <M0> or ending with the string <M1>, six or more times
+包含单词<M0>或以字符串<M1>结尾的行六次或更多次
+
+ID: 172
+Source sent:
+rows with a character followed by letters
+Target sent:
+字符后跟字母的行
+
+Distance: 8.000000
+rows with a letter followed by letters
+带字母的行，后跟字母
+

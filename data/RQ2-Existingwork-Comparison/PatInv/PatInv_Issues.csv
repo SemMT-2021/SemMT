@@ -1,0 +1,17 @@
+No,Initial_Seeds,Translated_Initial_Seeds,Mutants,Translated_Mutants,Label_Evaluator1,Label_Evaluator2,Label_Consistent
+1,lines ending with a string that contains only a letter or a character,以仅包含字母或字符的字符串结尾的行,lines ending with a string that has only a letter or a character,以仅包含字母或字符的字符串结尾的行,correct,correct,correct
+2,"lines composed of either a capital letter , a character , or a numeric character",由大写字母，字符或数字字符组成的行,"lines composed of either a capital number, a character, or a numeric character",由大写字母，字符或数字字符组成的行,bug,bug,bug
+3,"lines not having a character , not an upper case letter , nor a lower-case letter",没有字符，没有大写字母或小写字母的行,"lines not having a character, not an open case letter, nor a lower-case letter",没有字符，没有大写字母或小写字母的行,bug,bug,bug
+4,"lines with a letter or containing the string <M0> , greater than or equal to zero times",字母或包含字符串<M0>的行，大于或等于零倍,"lines with a letter or containing the string <M0>, more than or equal to zero times",字母或包含字符串<M0>的行，大于或等于零倍,correct,correct,correct
+5,rows with a lower-case letter or a capital letter before vowels,元音前带有小写字母或大写字母的行,rows with a lower-case letter or a capital number before vowels,元音前带有小写字母或大写字母的行,bug,bug,bug
+6,"lines with a word that has a lower-case letter or an upper case letter , 3 or greater times",带有3个或更多次小写字母或大写字母的单词的行,"lines with a word that has a lower-case letter or an old case letter , 3 or greater times",带有3个或更多次小写字母或大写字母的单词的行,bug,bug,bug
+7,lines not having a lower-case letter and not a capital letter at least once,至少一次没有小写字母和大写字母的行,lines not having a lower-case letter and not a capital character at least once,至少一次没有小写字母和大写字母的行,correct,correct,correct
+8,strings starting with vowels and ending with the string <M0>,以元音开头且以<M0>结尾的字符串,strings beginning with vowels and ending with the string <M0>,以元音开头且以<M0>结尾的字符串,correct,correct,correct
+9,"lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>",包含字母，字符串<M0>或字符串<M1>前面的大写字母的行,"lines having either a letter, the string <M0>, or an open case letter in front of the string <M1>",包含字母，字符串<M0>或字符串<M1>前面的大写字母的行,bug,bug,bug
+10,lines with a lower-case letter then a digit in front of an upper case letter,带有小写字母的行，然后是大写字母前面的数字,lines with a lower-case letter then a digit in front of an open case letter,带有小写字母的行，然后是大写字母前面的数字,bug,bug,bug
+11,lines containing an upper case letter,包含大写字母的行,lines containing an open case letter,包含大写字母的行,bug,bug,bug
+12,lines with a lower-case letter then a digit in front of an upper case letter,带有小写字母的行，然后是大写字母前面的数字,lines with a lower-case letter then a digit in front of an open case letter,带有小写字母的行，然后是大写字母前面的数字,bug,bug,bug
+13,strings starting with words that contain a character,以包含字符的单词开头的字符串,strings beginning with words that contain a character,以包含字符的单词开头的字符串,correct,correct,correct
+14,"lines with words that don't have a character , 0 or more times",没有字符的单词行，0次或多次,"lines with words that do not have a character , 0 or more times",没有字符的单词行，0次或多次,correct,correct,correct
+15,"lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>",行包含小写字母，字符串<M0>或字符串<M1>前面的字符,"lines having either a lower case character, the string <M0>, or characters in front of the string <M1>",行包含小写字母，字符串<M0>或字符串<M1>前面的字符,correct,correct,correct
+16,"lines not having a lower-case letter , not a capital letter , and not the string <M0>",没有小写字母，大写字母和字符串<M0>的行,"lines not having a lower-case sign, not a capital letter, and not the string <M0>",没有小写字母，大写字母和字符串<M0>的行,bug,bug,bug

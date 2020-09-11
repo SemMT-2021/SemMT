@@ -1,0 +1,3058 @@
+initializing StanfordCoreNLP.........
+initializing StanfordCoreNLP finished
+initialized
+input sentences translated and parsed.
+0 rows with characters or vowels at least once
+original sentence is rows with characters or vowels at least once
+original_word is characters, tokens are ['consonants']
+original_word is vowels, tokens are ['events']
+original_word is least, tokens are ['most']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 7
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+1 lines containing letters in front of the string <M0> or numbers
+original sentence is lines containing letters in front of the string <M0> or numbers
+original_word is letters, tokens are ['it']
+original_word is front, tokens are ['parts']
+original_word is string, tokens are ['door']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 11
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+2 lines with an upper case letter , 0 or more times
+original sentence is lines with an upper case letter , 0 or more times
+original_word is upper, tokens are ['equal']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is more, tokens are ['20']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+3 rows with words that contain a capital letter , zero or more times
+original sentence is rows with words that contain a capital letter , zero or more times
+original_word is words, tokens are ['names']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are []
+original_word is more, tokens are ['three']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+4 lines with a letter before either the string <M0> , the string <M1> , or the string <M2>
+original sentence is lines with a letter before either the string <M0> , the string <M1> , or the string <M2>
+original_word is letter, tokens are ['name']
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M2, tokens are []
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 8
+dependency distance = 17
+dependency distance = 17
+distance calculated
+clustered
+result outputed
+5 lines arranged with an uppercase letter then a vowel before a character
+original sentence is lines arranged with an uppercase letter then a vowel before a character
+original_word is uppercase, tokens are ['individual']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['year']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+6 lines with the string <M0> then a character
+original sentence is lines with the string <M0> then a character
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+7 lines containing only the string <M0> , 4 or more times
+original sentence is lines containing only the string <M0> , 4 or more times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is more, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+distance calculated
+clustered
+result outputed
+8 rows with the string <M0> or a vowel , 7 or more times
+original sentence is rows with the string <M0> or a vowel , 7 or more times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is vowel, tokens are ['book']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 11
+distance calculated
+clustered
+result outputed
+9 rows with words that have a character , 2 or greater times
+original sentence is rows with words that have a character , 2 or greater times
+original_word is words, tokens are ['teams']
+original_word is character, tokens are ['lot']
+original_word is greater, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 12
+distance calculated
+clustered
+result outputed
+10 lines arranged with a character before the string <M0> , 4 or greater times
+original sentence is lines arranged with a character before the string <M0> , 4 or greater times
+original_word is character, tokens are ['circle']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is greater, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 15
+distance calculated
+clustered
+result outputed
+11 lines starting with the string <M0> in front of a lower-case letter or the string <M1>
+original sentence is lines starting with the string <M0> in front of a lower-case letter or the string <M1>
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is front, tokens are ['place']
+original_word is lower-case, tokens are ['black']
+original_word is letter, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 9
+dependency distance = 5
+dependency distance = 10
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+12 lines with lettered words followed by the string <M0> or vowels at least once
+original sentence is lines with lettered words followed by the string <M0> or vowels at least once
+original_word is lettered, tokens are ['some']
+original_word is words, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is vowels, tokens are ['used']
+original_word is least, tokens are ['most']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+13 lines containing words that have starting with digits
+original sentence is lines containing words that have starting with digits
+original_word is words, tokens are ['those']
+14 lines with digits or letters , seven or greater times
+original sentence is lines with digits or letters , seven or greater times
+original_word is digits, tokens are ['letters']
+original_word is letters, tokens are ['greater']
+original_word is greater, tokens are ['four']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+15 lines with words that have the string <M0> or the string <M1> , greater than or equal to zero times
+original sentence is lines with words that have the string <M0> or the string <M1> , greater than or equal to zero times
+original_word is words, tokens are ['games']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['going']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 5
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+16 lines containing either a lower case letter , an upper case letter , or the string <M0> or the string <M1>
+original sentence is lines containing either a lower case letter , an upper case letter , or the string <M0> or the string <M1>
+original_word is lower, tokens are ['full']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['word']
+original_word is upper, tokens are ['above']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['vowel']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['strings']
+original_word is <, tokens are []
+original_word is M1, tokens are []
+number of sentences:  6
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+dependency distance = 1
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+17 lines with a number in front of an upper case letter
+original sentence is lines with a number in front of an upper case letter
+original_word is number, tokens are ['line']
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 3
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+18 lines with a lower-case letter before the string <M0> at least once
+original sentence is lines with a lower-case letter before the string <M0> at least once
+original_word is lower-case, tokens are ['red']
+original_word is letter, tokens are []
+original_word is string, tokens are ['school']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is least, tokens are ['most']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 11
+dependency distance = 2
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+19 lines having either the string <M0> , a vowel , or the string <M1> before letters
+original sentence is lines having either the string <M0> , a vowel , or the string <M1> before letters
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is vowel, tokens are ['noun']
+original_word is string, tokens are ['sequence']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 0
+dependency distance = 6
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+20 lines preceded by a letter , 6 or more times
+original sentence is lines preceded by a letter , 6 or more times
+original_word is letter, tokens are ['president']
+original_word is more, tokens are ['20']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+21 lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+original sentence is lines arranged with a vowel before a capital letter , greater than or equal to 6 times in total
+original_word is vowel, tokens are ['pen']
+original_word is capital, tokens are ['new']
+original_word is letter, tokens are ['consonant']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+original_word is times, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 3
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+22 rows with words that have a character at least one time or the string <M0>
+original sentence is rows with words that have a character at least one time or the string <M0>
+original_word is words, tokens are ['cars']
+original_word is character, tokens are ['name']
+original_word is least, tokens are ['the']
+original_word is time, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are ['of']
+original_word is M0, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 5
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+23 rows not having the string <M0> before a number
+original sentence is rows not having the string <M0> before a number
+original_word is string, tokens are ['sign']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+24 lines arranged with the string <M0> followed by a vowel and not a capital letter
+original sentence is lines arranged with the string <M0> followed by a vowel and not a capital letter
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is vowel, tokens are ['letter']
+original_word is capital, tokens are ['single']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 7
+distance calculated
+clustered
+result outputed
+25 lines with words that have either the string <M0> , characters , or an uppercase letter , up to 6 times
+original sentence is lines with words that have either the string <M0> , characters , or an uppercase letter , up to 6 times
+original_word is words, tokens are ['games']
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is characters, tokens are ['[UNK]']
+original_word is uppercase, tokens are ['english']
+original_word is letter, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+26 lines using a vowel or a lower-case letter at least once
+original sentence is lines using a vowel or a lower-case letter at least once
+original_word is vowel, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['vowel']
+original_word is letter, tokens are []
+original_word is least, tokens are ['most']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+27 lines with a number , zero or more times in front of the string <M0>
+original sentence is lines with a number , zero or more times in front of the string <M0>
+original_word is number, tokens are []
+original_word is more, tokens are ['two']
+original_word is times, tokens are []
+original_word is front, tokens are ['one']
+original_word is string, tokens are ['school']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 13
+distance calculated
+clustered
+result outputed
+28 lines with a word that has either a character , letters , or the string <M0>
+original sentence is lines with a word that has either a character , letters , or the string <M0>
+original_word is word, tokens are ['name']
+original_word is character, tokens are ['name']
+original_word is letters, tokens are ['characters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 7
+dependency distance = 7
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+29 rows not containing a number at least once
+original sentence is rows not containing a number at least once
+original_word is number, tokens are ['river']
+original_word is least, tokens are ['all']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+30 lines containing an uppercase letter or a vowel and numbers
+original sentence is lines containing an uppercase letter or a vowel and numbers
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['day']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+31 lines ending with a string that contains only a letter or a character
+original sentence is lines ending with a string that contains only a letter or a character
+original_word is string, tokens are ['book']
+original_word is letter, tokens are ['name']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+32 lines containing a character , 6 or more times
+original sentence is lines containing a character , 6 or more times
+original_word is character, tokens are ['member']
+original_word is more, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+33 lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+original sentence is lines arranged with a lower-case letter or a capitalized letter , 2 or greater times
+original_word is lower-case, tokens are ['red']
+original_word is letter, tokens are ['number']
+original_word is capitalized, tokens are ['letter']
+original_word is letter, tokens are ['number']
+original_word is greater, tokens are ['five']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 2
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+34 lines starting with letters and containing the string <M0>
+original sentence is lines starting with letters and containing the string <M0>
+original_word is letters, tokens are []
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+35 rows using ending with characters
+36 rows with characters and numbers before vowels
+original sentence is rows with characters and numbers before vowels
+original_word is characters, tokens are ['names']
+original_word is numbers, tokens are ['characters']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+37 lines arranged with words that have either the string <M0> , a lower-case letter , or the string <M1>
+original sentence is lines arranged with words that have either the string <M0> , a lower-case letter , or the string <M1>
+original_word is words, tokens are ['letters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 12
+dependency distance = 8
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+38 lines with words that end with the string <M0> or the string <M1>
+original sentence is lines with words that end with the string <M0> or the string <M1>
+original_word is words, tokens are ['characters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M1, tokens are ['...']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 6
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+39 lines ending with the string <M0>
+original sentence is lines ending with the string <M0>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+40 lines composed of either a capital letter , a character , or a numeric character
+original sentence is lines composed of either a capital letter , a character , or a numeric character
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['number']
+original_word is character, tokens are ['letter']
+original_word is numeric, tokens are ['single']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+41 lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string <M0> , no more than 3 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are ['longer']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+42 lines with digits , 5 or more times
+original sentence is lines with digits , 5 or more times
+original_word is digits, tokens are []
+original_word is more, tokens are []
+43 lines not having a character , not an upper case letter , nor a lower-case letter
+original sentence is lines not having a character , not an upper case letter , nor a lower-case letter
+original_word is character, tokens are ['name']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['character']
+original_word is lower-case, tokens are ['double']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 0
+dependency distance = 5
+dependency distance = 7
+distance calculated
+clustered
+result outputed
+44 lines with words that have starting with a capitalized letter , 2 or more times in total
+original sentence is lines with words that have starting with a capitalized letter , 2 or more times in total
+original_word is words, tokens are ['people']
+original_word is capitalized, tokens are ['black']
+original_word is letter, tokens are []
+original_word is more, tokens are []
+original_word is times, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+45 lines beginning with a lower-case letter in front of digits
+original sentence is lines beginning with a lower-case letter in front of digits
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are ['sign']
+original_word is front, tokens are ['place']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+46 lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string <M0> , no more than 3 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are ['longer']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+47 lines ending with vowels , zero or more times
+original sentence is lines ending with vowels , zero or more times
+original_word is vowels, tokens are []
+original_word is more, tokens are ['five']
+48 lines with a letter or containing the string <M0> , greater than or equal to zero times
+original sentence is lines with a letter or containing the string <M0> , greater than or equal to zero times
+original_word is letter, tokens are ['message']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+dependency distance = 7
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+49 lines with the string <M0> , 6 or more times before numbers
+original sentence is lines with the string <M0> , 6 or more times before numbers
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are []
+original_word is times, tokens are ['are']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+50 lines with a vowel or a numeric character in front of a capital letter
+original sentence is lines with a vowel or a numeric character in front of a capital letter
+original_word is vowel, tokens are ['[UNK]']
+original_word is numeric, tokens are ['vowel']
+original_word is character, tokens are []
+original_word is front, tokens are ['place']
+original_word is capital, tokens are ['vowel']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 1
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+51 lines with a capital letter followed by the string <M0>
+original sentence is lines with a capital letter followed by the string <M0>
+original_word is capital, tokens are ['new']
+original_word is letter, tokens are ['font']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+52 lines ending with the string <M0>
+original sentence is lines ending with the string <M0>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+53 rows preceded by a capital letter or vowels and a numeric character
+original sentence is rows preceded by a capital letter or vowels and a numeric character
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['name']
+original_word is vowels, tokens are ['one']
+original_word is numeric, tokens are ['single']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+54 lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original sentence is lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['vowel']
+original_word is vowel, tokens are ['person']
+original_word is more, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 7
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+55 strings preceded by the string <M0> , 6 or more times
+original sentence is strings preceded by the string <M0> , 6 or more times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is more, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 17
+distance calculated
+clustered
+result outputed
+56 lines arranged with a word that has the string <M0> followed by a character
+original sentence is lines arranged with a word that has the string <M0> followed by a character
+original_word is word, tokens are ['box']
+original_word is string, tokens are ['form']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 17
+distance calculated
+clustered
+result outputed
+57 lines starting with the string <M0> in front of a string that is not an uppercase letter
+original sentence is lines starting with the string <M0> in front of a string that is not an uppercase letter
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is front, tokens are ['support']
+original_word is string, tokens are ['character']
+original_word is uppercase, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 2
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+58 strings with the string <M0> or a letter in front of a vowel
+original sentence is strings with the string <M0> or a letter in front of a vowel
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is letter, tokens are ['person']
+original_word is front, tokens are ['place']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+dependency distance = 7
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+59 lines with a lower-case letter , zero or greater times before a numeric character
+original sentence is lines with a lower-case letter , zero or greater times before a numeric character
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are ['character']
+original_word is greater, tokens are ['three']
+original_word is times, tokens are []
+original_word is numeric, tokens are ['black']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 0
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+60 lines are not words that end with a lower-case letter
+original sentence is lines are not words that end with a lower-case letter
+original_word is words, tokens are ['those']
+original_word is end, tokens are ['go']
+original_word is lower-case, tokens are ['single']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+61 strings with words that have the string <M0> , zero or more times or the string <M1>
+original sentence is strings with words that have the string <M0> , zero or more times or the string <M1>
+original_word is words, tokens are ['characters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is more, tokens are ['ten']
+original_word is times, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 7
+dependency distance = 3
+dependency distance = 11
+distance calculated
+clustered
+result outputed
+62 lines not having a letter , not a character , and not the string <M0>
+original sentence is lines not having a letter , not a character , and not the string <M0>
+original_word is letter, tokens are ['name']
+original_word is character, tokens are ['word']
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 11
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+63 lines containing either the string <M0> , a lower case letter , or a capital letter
+original sentence is lines containing either the string <M0> , a lower case letter , or a capital letter
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is lower, tokens are ['special']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['number']
+original_word is capital, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 1
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+64 rows not having lettered words instead of the string <M0>
+original sentence is rows not having lettered words instead of the string <M0>
+original_word is words, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+65 lines with a number before either the string <M0> , the string <M1> , or the string <M2>
+original sentence is lines with a number before either the string <M0> , the string <M1> , or the string <M2>
+original_word is number, tokens are ['name']
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M2, tokens are []
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 5
+dependency distance = 4
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+66 lines with the string <M0> or a letter before the string <M1>
+original sentence is lines with the string <M0> or a letter before the string <M1>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is letter, tokens are ['year']
+original_word is string, tokens are ['house']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 0
+dependency distance = 8
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+67 strings ending with a vowel at least once or an upper case letter
+original sentence is strings ending with a vowel at least once or an upper case letter
+original_word is vowel, tokens are ['woman']
+original_word is least, tokens are ['most']
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 1
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+68 rows with a lower-case letter or a capital letter before vowels
+original sentence is rows with a lower-case letter or a capital letter before vowels
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is capital, tokens are []
+original_word is letter, tokens are ['number']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+69 lines arranged with the string <M0> and the string <M1> or the string <M2> , zero or more times
+original sentence is lines arranged with the string <M0> and the string <M1> or the string <M2> , zero or more times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M2, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is more, tokens are ['ten']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 0
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+70 lines not having a lowercase letter , not a character , and not an upper case letter
+original sentence is lines not having a lowercase letter , not a character , and not an upper case letter
+original_word is lowercase, tokens are ['full']
+original_word is letter, tokens are []
+original_word is character, tokens are ['sister']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['class']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 11
+dependency distance = 5
+dependency distance = 5
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+71 strings ending with the string <M0> then a character , zero or more times
+original sentence is strings ending with the string <M0> then a character , zero or more times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is character, tokens are ['number']
+original_word is more, tokens are ['ten']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+72 lines not having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+original sentence is lines not having digits , not the string <M0> , instead of a lower-case letter instead of the string <M1>
+original_word is digits, tokens are ['it']
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is lower-case, tokens are ['black']
+original_word is letter, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 0
+dependency distance = 3
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+73 rows not having a capitalized letter at least once
+original sentence is rows not having a capitalized letter at least once
+original_word is capitalized, tokens are ['new']
+original_word is letter, tokens are ['[UNK]']
+original_word is least, tokens are ['most']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+74 lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+original sentence is lines with a word that has a lower-case letter or an upper case letter , 3 or greater times
+original_word is word, tokens are ['name']
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is greater, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 11
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+75 lines not having a lower-case letter , not a letter , and not a numeric character
+original sentence is lines not having a lower-case letter , not a letter , and not a numeric character
+original_word is lower-case, tokens are []
+original_word is letter, tokens are ['character']
+original_word is letter, tokens are []
+original_word is numeric, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+76 lines not having the string <M0> or starting with the string <M1>
+original sentence is lines not having the string <M0> or starting with the string <M1>
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['family']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+77 lines consisting of the string <M0> before the string <M1> or a letter
+original sentence is lines consisting of the string <M0> before the string <M1> or a letter
+original_word is string, tokens are ['letters']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M1, tokens are ['for']
+original_word is >, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 4
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+78 rows with words that have starting with lettered words at least one time
+original sentence is rows with words that have starting with lettered words at least one time
+original_word is words, tokens are ['people']
+original_word is lettered, tokens are ['the']
+original_word is words, tokens are ['at']
+original_word is least, tokens are ['the']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+distance calculated
+clustered
+result outputed
+79 strings with a letter followed by the string <M0> before a vowel
+original sentence is strings with a letter followed by the string <M0> before a vowel
+original_word is letter, tokens are ['vowel']
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 11
+distance calculated
+clustered
+result outputed
+80 lines containing a letter before the string <M0>
+original sentence is lines containing a letter before the string <M0>
+original_word is letter, tokens are ['name']
+original_word is string, tokens are ['year']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+81 lines not having a lower-case letter and not a capital letter at least once
+original sentence is lines not having a lower-case letter and not a capital letter at least once
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are []
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['character']
+original_word is least, tokens are ['all']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+82 lines with a lower-case letter before either the string <M0> , a number , or the string <M1>
+original sentence is lines with a lower-case letter before either the string <M0> , a number , or the string <M1>
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is string, tokens are ['text']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is number, tokens are ['letter']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['...']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 8
+dependency distance = 3
+dependency distance = 8
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+83 lines consisting of the string <M0>
+original sentence is lines consisting of the string <M0>
+original_word is string, tokens are ['words']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+84 lines containing either the string <M0> , characters , or the string <M1>
+original sentence is lines containing either the string <M0> , characters , or the string <M1>
+original_word is string, tokens are ['text']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is characters, tokens are ['[UNK]']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 0
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+85 lines arranged with the string <M0> followed by the string <M1> and not the string <M2>
+original sentence is lines arranged with the string <M0> followed by the string <M1> and not the string <M2>
+original_word is string, tokens are ['man']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['she']
+original_word is >, tokens are []
+original_word is string, tokens are ['ring']
+original_word is <, tokens are []
+original_word is M2, tokens are ['to']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 13
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+86 lines arranged with words that have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+original sentence is lines arranged with words that have the string <M0> or either the string <M1> , the string <M2> , or the string <M3>
+original_word is words, tokens are ['letters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M2, tokens are ['m3']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M3, tokens are ['[UNK]']
+number of sentences:  6
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 9
+dependency distance = 7
+dependency distance = 7
+dependency distance = 7
+dependency distance = 7
+distance calculated
+clustered
+result outputed
+87 lines not having characters , a lower-case letter , or numbers
+original sentence is lines not having characters , a lower-case letter , or numbers
+original_word is characters, tokens are ['one']
+original_word is lower-case, tokens are []
+original_word is letter, tokens are ['line']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+88 rows with the string <M0> in front of a number or the string <M1>
+original sentence is rows with the string <M0> in front of a number or the string <M1>
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is front, tokens are ['case']
+original_word is number, tokens are ['door']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are []
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 7
+dependency distance = 17
+dependency distance = 8
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+89 strings starting with vowels and ending with the string <M0>
+original sentence is strings starting with vowels and ending with the string <M0>
+original_word is vowels, tokens are ['the']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+90 lines not having a number , not a vowel , and not a lower-case letter
+original sentence is lines not having a number , not a vowel , and not a lower-case letter
+original_word is number, tokens are ['head']
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['red']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 6
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+91 lines composed of either characters , the string <M0> , or vowels
+original sentence is lines composed of either characters , the string <M0> , or vowels
+original_word is characters, tokens are ['words']
+original_word is string, tokens are ['one']
+original_word is <, tokens are []
+original_word is M0, tokens are ['characters']
+original_word is >, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+92 lines composed of only the string <M0> , 7 or more times
+original sentence is lines composed of only the string <M0> , 7 or more times
+original_word is string, tokens are ['letters']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are ['two']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+93 lines with characters or a lower-case letter , four or more times
+original sentence is lines with characters or a lower-case letter , four or more times
+original_word is characters, tokens are ['the']
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+original_word is more, tokens are ['three']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+94 rows with words that have a character , 2 or greater times
+original sentence is rows with words that have a character , 2 or greater times
+original_word is words, tokens are ['teams']
+original_word is character, tokens are ['lot']
+original_word is greater, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 12
+distance calculated
+clustered
+result outputed
+95 lines with a character then a lower-case letter , two or more consecutive times
+original sentence is lines with a character then a lower-case letter , two or more consecutive times
+original_word is character, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['long']
+original_word is letter, tokens are []
+original_word is more, tokens are ['three']
+original_word is consecutive, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+96 lines ending with the string <M0> or a vowel , 4 or more times
+original sentence is lines ending with the string <M0> or a vowel , 4 or more times
+original_word is string, tokens are ['vowel']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is vowel, tokens are ['person']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+97 strings with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+original sentence is strings with the string <M0> or letters and the string <M1> , greater than or equal to zero times
+original_word is string, tokens are ['characters']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is letters, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+98 lines ending with the string <M0>
+original sentence is lines ending with the string <M0>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+99 rows containing a capital letter then a vowel in front of the string <M0>
+original sentence is rows containing a capital letter then a vowel in front of the string <M0>
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['line']
+original_word is front, tokens are ['support']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 13
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+100 strings starting with words that have the string <M0> , 6 or more times
+original sentence is strings starting with words that have the string <M0> , 6 or more times
+original_word is words, tokens are ['companies']
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 10
+distance calculated
+clustered
+result outputed
+101 lines ending with a character followed by the string <M0> , 4 or greater times
+original sentence is lines ending with a character followed by the string <M0> , 4 or greater times
+original_word is character, tokens are ['letter']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is greater, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 15
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+102 strings preceded by a capitalized letter followed by a letter
+original sentence is strings preceded by a capitalized letter followed by a letter
+original_word is capitalized, tokens are ['letter']
+original_word is letter, tokens are []
+103 lines not having a digit , not a letter , and not a lower-case letter
+original sentence is lines not having a digit , not a letter , and not a lower-case letter
+original_word is digit, tokens are ['name']
+original_word is letter, tokens are ['name']
+original_word is lower-case, tokens are ['black']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+104 lines not starting with letters and not a capital letter
+original sentence is lines not starting with letters and not a capital letter
+original_word is letters, tokens are []
+original_word is capital, tokens are ['black']
+105 lines not having the string <M0> , not vowels , and not a lower-case letter
+original sentence is lines not having the string <M0> , not vowels , and not a lower-case letter
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is vowels, tokens are ['one']
+original_word is lower-case, tokens are ['single']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+106 lines with a vowel at least one time
+original sentence is lines with a vowel at least one time
+original_word is vowel, tokens are ['child']
+original_word is least, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+107 lines with words that have starting with the string <M0> then a lower case letter
+original sentence is lines with words that have starting with the string <M0> then a lower case letter
+original_word is words, tokens are ['games']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is lower, tokens are ['upper']
+original_word is case, tokens are ['##case']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 12
+dependency distance = 9
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+108 lines ending with a string that contains only a capital letter at least once
+original sentence is lines ending with a string that contains only a capital letter at least once
+original_word is string, tokens are ['house']
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['name']
+original_word is least, tokens are ['all']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+109 lines with a vowel or using only the string <M0> at least once
+original sentence is lines with a vowel or using only the string <M0> at least once
+original_word is vowel, tokens are ['name']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is least, tokens are ['most']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 4
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+110 lines containing the string <M0> or a capital letter followed by characters
+original sentence is lines containing the string <M0> or a capital letter followed by characters
+original_word is string, tokens are ['form']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is capital, tokens are ['single']
+original_word is letter, tokens are ['form']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+111 lines arranged with a character in front of a vowel or the string <M0> , zero or more times
+original sentence is lines arranged with a character in front of a vowel or the string <M0> , zero or more times
+original_word is character, tokens are ['letter']
+original_word is front, tokens are ['favor']
+original_word is vowel, tokens are ['door']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are ['eight']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 7
+dependency distance = 3
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+112 lines with a character , greater than or equal to two times in front of a digit
+original sentence is lines with a character , greater than or equal to two times in front of a digit
+original_word is character, tokens are ['name']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['up']
+original_word is times, tokens are []
+original_word is front, tokens are ['charge']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 12
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+113 lines with a character before a vowel and containing a lower-case letter
+original sentence is lines with a character before a vowel and containing a lower-case letter
+original_word is character, tokens are []
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['single']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 10
+distance calculated
+clustered
+result outputed
+114 lines with the string <M0> or not characters at least one time
+original sentence is lines with the string <M0> or not characters at least one time
+original_word is string, tokens are ['combination']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is characters, tokens are []
+original_word is least, tokens are ['the']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 16
+distance calculated
+clustered
+result outputed
+115 lines with words that contain ending with letters
+original sentence is lines with words that contain ending with letters
+original_word is words, tokens are ['people']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+116 lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>
+original sentence is lines having either a letter , the string <M0> , or an upper case letter in front of the string <M1>
+original_word is letter, tokens are ['name']
+original_word is string, tokens are ['language']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is front, tokens are ['one']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+dependency distance = 6
+dependency distance = 0
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+117 lines arranged with the string <M0> before the string <M1> or a number and the string <M2>
+original sentence is lines arranged with the string <M0> before the string <M1> or a number and the string <M2>
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['number']
+original_word is >, tokens are []
+original_word is number, tokens are ['letter']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M2, tokens are ['m1']
+number of sentences:  7
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 0
+dependency distance = 6
+dependency distance = 6
+dependency distance = 4
+dependency distance = 6
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+118 lines with a character followed by a vowel , 2 or more times
+original sentence is lines with a character followed by a vowel , 2 or more times
+original_word is character, tokens are ['consonant']
+original_word is vowel, tokens are ['letter']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+119 lines with the string <M0> followed by a lower-case letter
+original sentence is lines with the string <M0> followed by a lower-case letter
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is lower-case, tokens are ['red']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 12
+distance calculated
+clustered
+result outputed
+120 strings having either the string <M0> , vowels , or the string <M1> before numbers
+original sentence is strings having either the string <M0> , vowels , or the string <M1> before numbers
+original_word is string, tokens are ['vowel']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is vowels, tokens are ['letters']
+original_word is string, tokens are ['sequence']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+121 lines with a lower-case letter then a digit in front of an upper case letter
+original sentence is lines with a lower-case letter then a digit in front of an upper case letter
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is digit, tokens are []
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 9
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+122 lines not having the string <M0> , a character , or the string <M1>
+original sentence is lines not having the string <M0> , a character , or the string <M1>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is character, tokens are ['word']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 0
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+123 rows not having an uppercase letter or a digit
+original sentence is rows not having an uppercase letter or a digit
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+124 lines with words that have a character or the string <M0> before the string <M1>
+original sentence is lines with words that have a character or the string <M0> before the string <M1>
+original_word is words, tokens are ['letters']
+original_word is character, tokens are ['name']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 2
+dependency distance = 13
+dependency distance = 7
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+125 lines arranged with a number , 4 or more times
+original sentence is lines arranged with a number , 4 or more times
+original_word is number, tokens are ['man']
+original_word is more, tokens are ['10']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+126 lines containing an upper case letter
+original sentence is lines containing an upper case letter
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+127 strings with a word that has a vowel before a lower-case letter
+original sentence is strings with a word that has a vowel before a lower-case letter
+original_word is word, tokens are ['child']
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['black']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 6
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+128 lines with a number , 5 or more times
+original sentence is lines with a number , 5 or more times
+original_word is number, tokens are []
+original_word is more, tokens are ['20']
+129 lines arranged with words that have a character , 0 or more times
+original sentence is lines arranged with words that have a character , 0 or more times
+original_word is words, tokens are ['cars']
+original_word is character, tokens are ['name']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+130 lines with a letter , zero or greater times before a character
+original sentence is lines with a letter , zero or greater times before a character
+original_word is letter, tokens are ['gun']
+original_word is greater, tokens are ['two']
+original_word is times, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+131 strings starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+original sentence is strings starting with the string <M0> followed by the string <M1> , greater than or equal to 4 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['up']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 0
+dependency distance = 6
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+132 rows with words that have a number , 5 or more times
+original sentence is rows with words that have a number , 5 or more times
+original_word is words, tokens are ['clubs']
+original_word is number, tokens are ['lot']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+133 the line begins with a vowel or the string <M0>
+original sentence is the line begins with a vowel or the string <M0>
+original_word is line, tokens are ['it']
+original_word is vowel, tokens are ['person']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+134 lines not having a lower-case letter and not a number
+original sentence is lines not having a lower-case letter and not a number
+original_word is lower-case, tokens are ['single']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 14
+distance calculated
+clustered
+result outputed
+135 lines with the string <M0> before a vowel or a numeric character
+original sentence is lines with the string <M0> before a vowel or a numeric character
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is vowel, tokens are ['letter']
+original_word is numeric, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+136 lines with words that have the string <M0> or composed of the string <M1>
+original sentence is lines with words that have the string <M0> or composed of the string <M1>
+original_word is words, tokens are ['teams']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 9
+dependency distance = 6
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+137 lines starting with a letter before a character
+original sentence is lines starting with a letter before a character
+original_word is letter, tokens are ['child']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+138 lines with words that contain either a vowel , the string <M0> , or the string <M1>
+original sentence is lines with words that contain either a vowel , the string <M0> , or the string <M1>
+original_word is words, tokens are ['letters']
+original_word is vowel, tokens are ['second']
+original_word is string, tokens are ['line']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 5
+dependency distance = 2
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+139 lines with a lower-case letter then a digit in front of an upper case letter
+original sentence is lines with a lower-case letter then a digit in front of an upper case letter
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is digit, tokens are []
+original_word is front, tokens are ['place']
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 9
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+140 rows not having an uppercase letter or a digit
+original sentence is rows not having an uppercase letter or a digit
+original_word is uppercase, tokens are ['odd']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+141 lines arranged with a number , 4 or more times
+original sentence is lines arranged with a number , 4 or more times
+original_word is number, tokens are ['man']
+original_word is more, tokens are ['10']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+142 rows starting with the string <M0> then the string <M1> , greater than or equal to 5 times
+original sentence is rows starting with the string <M0> then the string <M1> , greater than or equal to 5 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['symbol']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is greater, tokens are ['rather']
+original_word is equal, tokens are ['up']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 7
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+143 lines not having the string <M0> , not characters , nor the string <M1>
+original sentence is lines not having the string <M0> , not characters , nor the string <M1>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is characters, tokens are ['[UNK]']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 1
+dependency distance = 0
+distance calculated
+clustered
+result outputed
+144 the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string <M0>
+original_word is line, tokens are ['it']
+original_word is vowel, tokens are ['letter']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+145 rows are not a word that has a vowel , not a lower-case letter , instead of the string <M0>
+original sentence is rows are not a word that has a vowel , not a lower-case letter , instead of the string <M0>
+original_word is word, tokens are ['name']
+original_word is vowel, tokens are ['name']
+original_word is lower-case, tokens are ['new']
+original_word is letter, tokens are []
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 8
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+146 the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string <M0>
+original_word is line, tokens are ['it']
+original_word is vowel, tokens are ['letter']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+147 lines consisting of the string <M0>
+original sentence is lines consisting of the string <M0>
+original_word is string, tokens are ['words']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+148 strings starting with words that contain a character
+original sentence is strings starting with words that contain a character
+original_word is words, tokens are ['buildings']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+149 rows with words that don't have a vowel at least once
+original sentence is rows with words that don't have a vowel at least once
+original_word is words, tokens are ['people']
+original_word is vowel, tokens are ['girl']
+original_word is least, tokens are ['most']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 1
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+150 lines with words that don't have a character , 0 or more times
+original sentence is lines with words that don't have a character , 0 or more times
+original_word is words, tokens are ['people']
+original_word is character, tokens are ['number']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+151 lines containing a character or a vowel
+original sentence is lines containing a character or a vowel
+original_word is character, tokens are ['name']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+152 lines not having a capital letter and not a character in front of a letter
+original sentence is lines not having a capital letter and not a character in front of a letter
+original_word is capital, tokens are ['new']
+original_word is letter, tokens are ['character']
+original_word is character, tokens are ['name']
+original_word is front, tokens are ['place']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 8
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+153 lines arranged with a capitalized letter followed by a lower-case letter before the string <M0> or lettered words
+original sentence is lines arranged with a capitalized letter followed by a lower-case letter before the string <M0> or lettered words
+original_word is capitalized, tokens are ['[UNK]']
+original_word is letter, tokens are ['number']
+original_word is lower-case, tokens are ['[UNK]']
+original_word is letter, tokens are ['symbol']
+original_word is string, tokens are ['final']
+original_word is <, tokens are ['of']
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 13
+dependency distance = 11
+distance calculated
+clustered
+result outputed
+154 rows not having a digit , not a capitalized letter , and not a vowel
+original sentence is rows not having a digit , not a capitalized letter , and not a vowel
+original_word is digit, tokens are ['name']
+original_word is capitalized, tokens are ['vowel']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+155 lines with the string <M0> or containing only the string <M1> , three or more times
+original sentence is lines with the string <M0> or containing only the string <M1> , three or more times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is more, tokens are ['four']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 0
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+156 lines with the string <M0> before the string <M1> or a letter
+original sentence is lines with the string <M0> before the string <M1> or a letter
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are []
+original_word is >, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 0
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+157 lines with words that have starting with the string <M0> or the string <M1>
+original sentence is lines with words that have starting with the string <M0> or the string <M1>
+original_word is words, tokens are ['letters']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+dependency distance = 4
+dependency distance = 0
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+158 lines ending with the string <M0> or a lower-case letter followed by the string <M1>
+original sentence is lines ending with the string <M0> or a lower-case letter followed by the string <M1>
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+159 strings with the string <M0> , 3 or more times or starting with numbers
+original sentence is strings with the string <M0> , 3 or more times or starting with numbers
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are []
+original_word is times, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 13
+distance calculated
+clustered
+result outputed
+160 lines with the string <M0> , 3 or more times or a vowel followed by the string <M1>
+original sentence is lines with the string <M0> , 3 or more times or a vowel followed by the string <M1>
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is more, tokens are []
+original_word is times, tokens are []
+original_word is vowel, tokens are ['lot']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 7
+dependency distance = 9
+dependency distance = 14
+dependency distance = 13
+distance calculated
+clustered
+result outputed
+161 lines not having the string <M0> or numbers in front of a lower-case letter
+original sentence is lines not having the string <M0> or numbers in front of a lower-case letter
+original_word is string, tokens are ['letters']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is numbers, tokens are ['written']
+original_word is front, tokens are ['place']
+original_word is lower-case, tokens are ['capital']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+162 lines composed of an upper case letter before characters
+original sentence is lines composed of an upper case letter before characters
+original_word is upper, tokens are ['old']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+163 lines starting with words that have a capitalized letter followed by a character
+original sentence is lines starting with words that have a capitalized letter followed by a character
+original_word is words, tokens are ['companies']
+original_word is letter, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+164 lines with a number before a vowel or the string <M0>
+original sentence is lines with a number before a vowel or the string <M0>
+original_word is number, tokens are ['word']
+original_word is vowel, tokens are ['letter']
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 6
+dependency distance = 7
+distance calculated
+clustered
+result outputed
+165 lines having either a lower-case letter , a vowel , or a capital letter before a character
+original sentence is lines having either a lower-case letter , a vowel , or a capital letter before a character
+original_word is lower-case, tokens are ['front']
+original_word is letter, tokens are []
+original_word is vowel, tokens are ['[UNK]']
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['number']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+166 lines ending with an upper case letter or not the string <M0>
+original sentence is lines ending with an upper case letter or not the string <M0>
+original_word is upper, tokens are ['odd']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is string, tokens are ['of']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+167 lines with a letter or a lower-case letter , greater than or equal to 2 times
+original sentence is lines with a letter or a lower-case letter , greater than or equal to 2 times
+original_word is letter, tokens are ['[UNK]']
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are ['sign']
+original_word is greater, tokens are ['more']
+original_word is equal, tokens are ['close']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+168 lines arranged with words that have the string <M0> then the string <M1> at least once
+original sentence is lines arranged with words that have the string <M0> then the string <M1> at least once
+original_word is words, tokens are ['letters']
+original_word is string, tokens are ['form']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['sequence']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is least, tokens are ['most']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+dependency distance = 14
+dependency distance = 7
+dependency distance = 0
+dependency distance = 10
+distance calculated
+clustered
+result outputed
+169 lines with a character followed by a vowel , 2 or more times
+original sentence is lines with a character followed by a vowel , 2 or more times
+original_word is character, tokens are ['consonant']
+original_word is vowel, tokens are ['letter']
+original_word is more, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+170 lines composed of letters then the string <M0> , 7 or more times
+original sentence is lines composed of letters then the string <M0> , 7 or more times
+original_word is letters, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['...']
+original_word is >, tokens are []
+original_word is more, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+171 lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>
+original sentence is lines having either a lower case letter , the string <M0> , or characters in front of the string <M1>
+original_word is lower, tokens are ['upper']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are []
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is characters, tokens are ['standing']
+original_word is front, tokens are ['case']
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+number of sentences:  5
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+dependency distance = 0
+dependency distance = 3
+dependency distance = 2
+distance calculated
+clustered
+result outputed
+172 strings with a lowercase letter , no more than 6 times
+original sentence is strings with a lowercase letter , no more than 6 times
+original_word is lowercase, tokens are ['long']
+original_word is letter, tokens are []
+original_word is more, tokens are ['less']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+173 the line starts with a vowel or containing the string <M0>
+original sentence is the line starts with a vowel or containing the string <M0>
+original_word is line, tokens are ['it']
+original_word is vowel, tokens are ['letter']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+174 lines ending with the string <M0> followed by a character , up to 3 times
+original sentence is lines ending with the string <M0> followed by a character , up to 3 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is character, tokens are ['string']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+175 lines are not a word that has the string <M0> followed by a numeric character
+original sentence is lines are not a word that has the string <M0> followed by a numeric character
+original_word is word, tokens are ['website']
+original_word is string, tokens are ['name']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is numeric, tokens are ['chinese']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 3
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+176 strings not having the string <M0> before either a vowel , the string <M1> , or a character
+original sentence is strings not having the string <M0> before either a vowel , the string <M1> , or a character
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is vowel, tokens are ['character']
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+177 lines arranged with vowels or the string <M0> , up to 7 times in total
+original sentence is lines arranged with vowels or the string <M0> , up to 7 times in total
+original_word is vowels, tokens are ['words']
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is times, tokens are ['letters']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 3
+distance calculated
+clustered
+result outputed
+178 lines starting with the string <M0> or a vowel
+original sentence is lines starting with the string <M0> or a vowel
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+179 strings with lettered words followed by the string <M0> before vowels
+original sentence is strings with lettered words followed by the string <M0> before vowels
+original_word is lettered, tokens are ['the']
+original_word is words, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+180 lines not having a lower-case letter , not a capital letter , and not the string <M0>
+original sentence is lines not having a lower-case letter , not a capital letter , and not the string <M0>
+original_word is lower-case, tokens are ['capital']
+original_word is letter, tokens are ['sign']
+original_word is capital, tokens are ['[UNK]']
+original_word is letter, tokens are ['one']
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+181 lines with an uppercase letter , zero or more times in front of a digit
+original sentence is lines with an uppercase letter , zero or more times in front of a digit
+original_word is uppercase, tokens are ['open']
+original_word is letter, tokens are ['sign']
+original_word is more, tokens are ['three']
+original_word is times, tokens are ['lives']
+original_word is front, tokens are ['search']
+number of sentences:  4
+new source sentences translated
+new target sentences parsed
+dependency distance = 16
+dependency distance = 6
+dependency distance = 15
+dependency distance = 12
+distance calculated
+clustered
+result outputed
+182 lines ending with the string <M0> followed by a character , up to 3 times
+original sentence is lines ending with the string <M0> followed by a character , up to 3 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is character, tokens are ['string']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 9
+dependency distance = 8
+distance calculated
+clustered
+result outputed
+183 lines arranged with a number or a lower-case letter , up to 3 times in total
+original sentence is lines arranged with a number or a lower-case letter , up to 3 times in total
+original_word is number, tokens are ['letter']
+original_word is lower-case, tokens are ['letter']
+original_word is letter, tokens are []
+original_word is times, tokens are ['letters']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+184 lines not having an upper case letter , not a letter , and not a character
+original sentence is lines not having an upper case letter , not a letter , and not a character
+original_word is upper, tokens are ['open']
+original_word is case, tokens are ['##case']
+original_word is letter, tokens are ['character']
+original_word is letter, tokens are ['name']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 5
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+185 lines not ending with a letter and not a lower-case letter
+original sentence is lines not ending with a letter and not a lower-case letter
+original_word is letter, tokens are ['word']
+original_word is lower-case, tokens are ['black']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 10
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+186 lines not containing only the string <M0> , no more than 3 times
+original sentence is lines not containing only the string <M0> , no more than 3 times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is more, tokens are ['longer']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+187 lines consisting of the string <M0>
+original sentence is lines consisting of the string <M0>
+original_word is string, tokens are ['words']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 5
+distance calculated
+clustered
+result outputed
+188 lines starting with digits before a lower-case letter
+original sentence is lines starting with digits before a lower-case letter
+original_word is digits, tokens are ['and']
+original_word is lower-case, tokens are ['black']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+distance calculated
+clustered
+189 lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original sentence is lines arranged with the string <M0> before a string that is not a vowel , 2 or more times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is string, tokens are ['vowel']
+original_word is vowel, tokens are ['person']
+original_word is more, tokens are []
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 7
+dependency distance = 9
+distance calculated
+clustered
+result outputed
+190 lines with the string <M0> at least once or containing a capital letter
+original sentence is lines with the string <M0> at least once or containing a capital letter
+original_word is string, tokens are ['sign']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is least, tokens are ['most']
+original_word is capital, tokens are []
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+191 rows not having a lower-case letter
+original sentence is rows not having a lower-case letter
+original_word is lower-case, tokens are ['love']
+192 strings with vowels in front of the string <M0> , up to 7 times
+original sentence is strings with vowels in front of the string <M0> , up to 7 times
+original_word is vowels, tokens are ['it']
+original_word is front, tokens are ['control']
+original_word is string, tokens are []
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+193 lines containing a vowel or lettered words , no more than 6 times
+original sentence is lines containing a vowel or lettered words , no more than 6 times
+original_word is vowel, tokens are ['letter']
+original_word is lettered, tokens are ['other']
+original_word is words, tokens are ['[UNK]']
+original_word is more, tokens are ['longer']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 1
+dependency distance = 4
+dependency distance = 1
+distance calculated
+clustered
+result outputed
+194 strings not having a vowel , letters , or characters
+original sentence is strings not having a vowel , letters , or characters
+original_word is vowel, tokens are ['word']
+original_word is letters, tokens are ['people']
+number of sentences:  2
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+195 rows with words that don't have a vowel at least once
+original sentence is rows with words that don't have a vowel at least once
+original_word is words, tokens are ['people']
+original_word is vowel, tokens are ['girl']
+original_word is least, tokens are ['most']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+dependency distance = 1
+dependency distance = 6
+distance calculated
+clustered
+result outputed
+196 lines not containing only the string <M0> , greater than or equal to 0 times
+original sentence is lines not containing only the string <M0> , greater than or equal to 0 times
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M0, tokens are []
+original_word is >, tokens are []
+original_word is greater, tokens are ['rather']
+original_word is equal, tokens are ['going']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+197 rows with the string <M0> or ending with the string <M1> , six or more times
+original sentence is rows with the string <M0> or ending with the string <M1> , six or more times
+original_word is string, tokens are ['word']
+original_word is <, tokens are []
+original_word is M0, tokens are ['m1']
+original_word is >, tokens are []
+original_word is string, tokens are ['letter']
+original_word is <, tokens are []
+original_word is M1, tokens are ['[UNK]']
+original_word is >, tokens are []
+original_word is more, tokens are ['seven']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 3
+dependency distance = 0
+dependency distance = 4
+distance calculated
+clustered
+result outputed
+198 rows not having a digit , not a vowel , and not a capitalized letter
+original sentence is rows not having a digit , not a vowel , and not a capitalized letter
+original_word is digit, tokens are ['name']
+original_word is vowel, tokens are ['name']
+original_word is capitalized, tokens are ['red']
+number of sentences:  3
+new source sentences translated
+new target sentences parsed
+dependency distance = 0
+dependency distance = 0
+dependency distance = 0
+distance calculated
+clustered
+199 rows with a character followed by letters
+original sentence is rows with a character followed by letters
+original_word is character, tokens are ['letter']
+number of sentences:  1
+new source sentences translated
+new target sentences parsed
+dependency distance = 8
+distance calculated
+clustered
+result outputed
